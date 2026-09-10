@@ -2,7 +2,8 @@
 
 A responsive, framework-free academic genealogy explorer. Open `index.html` directly in a browser, or serve this directory with `python3 -m http.server 8000`.
 
-- Interactive tree with pan, zoom, fit, expanded view, and connected-lineage exploration.
+- The explorer fills the browser window on opening, with Tree and People list controls in its toolbar.
+- Interactive tree with pan, zoom, fit, and connected-lineage exploration.
 - Search English or Russian names and research interests; filter by field, institution, or career stage.
 - Connected families are ordered by size in every field view, largest first, with isolated people at the end. Wrapping preserves this order.
 - Current faculty, researchers, and doctoral students have full-size cards. Advisors needed to connect the filtered people remain visible as small, muted context cards. “Show all history & alumni” includes the remaining historical and alumni records.

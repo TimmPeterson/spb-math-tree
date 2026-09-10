@@ -30,9 +30,6 @@
   const world = $('#graph-world');
   let previousProfileFocus = null;
 
-  $('#stat-people').textContent = people.length;
-  $('#stat-links').textContent = links.length;
-  $('#stat-students').textContent = people.filter(p => p.stage === 'student' && !isEntrant(p)).length;
   $('#student-count').textContent = people.filter(p => p.stage === 'student').length;
 
   function renderFields() {
@@ -365,7 +362,6 @@
   $('#fit-view').addEventListener('click', fitView);
   $('#reset-view').addEventListener('click', resetView);
   $('#toggle-filters').addEventListener('click', () => { const open = $('#filters').classList.toggle('open'); $('#toggle-filters').setAttribute('aria-expanded', String(open)); });
-  $('#fullscreen-button').addEventListener('click', () => { const expanded = $('.workspace').classList.toggle('expanded-workspace'); $('#fullscreen-button').setAttribute('aria-label', expanded ? 'Exit expanded explorer' : 'Expand explorer'); document.body.style.overflow = expanded ? 'hidden' : ''; requestAnimationFrame(() => { if (state.view === 'tree') { renderGraph(); fitView(); } }); });
 
   canvas.addEventListener('wheel', event => { event.preventDefault(); const rect = canvas.getBoundingClientRect(); zoom(Math.exp(-event.deltaY * .0018), event.clientX - rect.left, event.clientY - rect.top); }, { passive: false });
   const pointers = new Map();
@@ -393,7 +389,7 @@
   window.addEventListener('pointerup', endPointer);
   window.addEventListener('pointercancel', endPointer);
   document.addEventListener('keydown', e => {
-    if (e.key === 'Escape') { closeProfile(); $('#filters').classList.remove('open'); $('#toggle-filters').setAttribute('aria-expanded', 'false'); if ($('.workspace').classList.contains('expanded-workspace')) $('#fullscreen-button').click(); return; }
+    if (e.key === 'Escape') { closeProfile(); $('#filters').classList.remove('open'); $('#toggle-filters').setAttribute('aria-expanded', 'false'); return; }
     if (e.target.matches('input,textarea')) return;
     if (e.target.matches('[data-view]') && ['ArrowLeft', 'ArrowRight', 'Home', 'End'].includes(e.key)) {
       e.preventDefault();

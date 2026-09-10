@@ -28,24 +28,22 @@
     <symbol id="i-filter" viewBox="0 0 24 24"><path d="M4 7h16M4 17h16"/><circle cx="9" cy="7" r="2" fill="currentColor"/><circle cx="15" cy="17" r="2" fill="currentColor"/></symbol>
     <symbol id="i-book" viewBox="0 0 24 24"><path d="M12 6C9 4 5 4 3 5v14c3-1 6-1 9 1 3-2 6-2 9-1V5c-2-1-6-1-9 1Zm0 0v14"/></symbol>
   </defs></svg>
-  <main>
-    <section class="hero" aria-labelledby="page-title">
-      <div class="hero-copy"><div class="eyebrow">SPbSU MCS · PDMI</div><h1 id="page-title">St. Petersburg mathematics</h1><p>Academic supervisors, researchers, and PhD students.</p></div>
-      <div class="hero-stats" aria-label="Collection statistics"><div><strong id="stat-people">—</strong><span>Researchers</span></div><div><strong id="stat-students">—</strong><span>PhD students</span></div><div><strong id="stat-links">—</strong><span>Connections</span></div></div>
-    </section>
-
+  <main aria-label="St. Petersburg mathematics — MCS and PDMI">
     <section id="explore-section" aria-label="Explore the academic tree">
-      <div class="section-heading"><div class="view-tabs" role="tablist" aria-label="Explorer view"><button id="tree-tab" role="tab" aria-selected="true" aria-controls="graph-view" class="view-tab active" data-view="tree"><svg class="icon"><use href="#i-tree"/></svg>Academic tree</button><button id="directory-tab" role="tab" aria-selected="false" aria-controls="directory-view" class="view-tab" data-view="directory"><svg class="icon"><use href="#i-list"/></svg>People directory</button></div><button class="text-button sources-toggle" data-tab="sources">Sources <svg class="icon"><use href="#i-external"/></svg></button></div>
       <div class="workspace">
         <aside class="filters" id="filters" aria-label="Filter researchers">
-          <div class="filter-heading"><h2>Explore the tree</h2><button class="text-button" id="reset-filters">Reset</button></div>
+          <div class="filter-heading"><h2>Filters</h2><button class="text-button" id="reset-filters">Reset</button></div>
           <div class="filter-group"><h3>FIELD OF STUDY</h3><div id="field-filters"></div></div>
           <div class="filter-group institutions"><h3>INSTITUTION <svg class="icon" aria-hidden="true"><use href="#i-info"/></svg></h3><label class="check-row"><input type="checkbox" name="institution" value="spbu"><span class="checkbox-ui"></span><span>SPbSU <small>incl. MCS</small></span></label><label class="check-row"><input type="checkbox" name="institution" value="pdmi"><span class="checkbox-ui"></span><span>PDMI</span></label></div>
           <div class="filter-group"><h3>CAREER STAGE</h3><label class="check-row"><input type="checkbox" name="stage" value="established"><span class="checkbox-ui"></span><span>Faculty & researchers</span></label><label class="check-row"><input type="checkbox" name="stage" value="student"><span class="checkbox-ui"></span><span>PhD students &amp; entrants</span><span class="small-count" id="student-count"></span></label></div>
           <div class="history-filter"><label class="check-row"><input type="checkbox" id="show-history"><span class="checkbox-ui"></span><span>Show all history & alumni</span></label></div>
         </aside>
         <div class="explorer-main">
-          <div class="explorer-toolbar"><div class="search-wrap"><svg class="icon"><use href="#i-search"/></svg><input id="search" type="search" placeholder="Find a researcher or research topic…" aria-label="Search researchers, names in Russian, and research interests"><kbd>/</kbd></div><div class="toolbar-right"><span id="result-count" role="status" aria-live="polite"></span><button class="icon-button mobile-filter" id="toggle-filters" aria-label="Toggle filters" aria-expanded="false"><svg class="icon"><use href="#i-filter"/></svg></button><button class="icon-button" id="fullscreen-button" title="Expand explorer" aria-label="Expand explorer"><svg class="icon"><use href="#i-fit"/></svg></button></div></div>
+          <div class="explorer-toolbar">
+            <div class="view-tabs" role="tablist" aria-label="Explorer view"><button id="tree-tab" role="tab" aria-selected="true" aria-controls="graph-view" class="view-tab active" data-view="tree"><svg class="icon"><use href="#i-tree"/></svg>Tree</button><button id="directory-tab" role="tab" aria-selected="false" aria-controls="directory-view" class="view-tab" data-view="directory"><svg class="icon"><use href="#i-list"/></svg>People list</button></div>
+            <div class="search-wrap"><svg class="icon"><use href="#i-search"/></svg><input id="search" type="search" placeholder="Find a researcher or research topic…" aria-label="Search researchers, names in Russian, and research interests"><kbd>/</kbd></div>
+            <div class="toolbar-right"><span id="result-count" role="status" aria-live="polite"></span><button class="text-button sources-toggle" data-tab="sources">Sources</button><button class="icon-button mobile-filter" id="toggle-filters" aria-label="Toggle filters" aria-controls="filters" aria-expanded="false"><svg class="icon"><use href="#i-filter"/></svg></button></div>
+          </div>
           <div id="graph-view" role="tabpanel" aria-labelledby="tree-tab">
             <div class="canvas" id="canvas" tabindex="0" aria-label="Academic genealogy. Use arrow keys to pan, plus and minus to zoom. Select a researcher for details.">
               <div class="canvas-caption"><span class="caption-line"></span>SUPERVISOR <svg class="icon"><use href="#i-arrow"/></svg> ADVISEE</div>
@@ -60,10 +58,9 @@
         </div>
         <aside id="profile-panel" class="profile-panel" aria-label="Researcher details" hidden></aside>
       </div>
-      <div class="below-workspace"><p><strong>SPbSU</strong> St. Petersburg State University <span>·</span> <strong>MCS</strong> Faculty of Mathematics and Computer Science <span>·</span> <strong>PDMI</strong> Steklov Institute, St. Petersburg<br><span class="status-footnote">* Doctoral status follows dated enrollment and fellowship records. Incoming students are labeled separately.</span></p></div>
     </section>
 
-    <section id="sources-section" class="content-section" hidden><button class="text-button back-to-tree" data-tab="explore">← Back to the tree</button><h2>Grounded in public sources.</h2><p class="content-lead">Institutional profiles, researchers’ own pages, thesis records, and published supervision lists. Each connection has its own reference.</p><p class="sources-note">Collection checked September 10, 2026. A page’s availability does not establish that an undated affiliation or student status is current. Open a researcher’s profile for the context of each record.</p><div id="sources-list"></div></section>
+    <section id="sources-section" class="content-section" hidden><button class="text-button back-to-tree" data-tab="explore">← Back to explorer</button><h2>Grounded in public sources.</h2><p class="content-lead">Institutional profiles, researchers’ own pages, thesis records, and published supervision lists. Each connection has its own reference.</p><p class="sources-note"><strong>SPbSU</strong> St. Petersburg State University · <strong>MCS</strong> Faculty of Mathematics and Computer Science · <strong>PDMI</strong> Steklov Institute, St. Petersburg.</p><p class="sources-note">Collection checked September 10, 2026. A page’s availability does not establish that an undated affiliation or student status is current. Doctoral status follows dated enrollment and fellowship records; incoming students are labeled separately. Open a researcher’s profile for the context of each record.</p><div id="sources-list"></div></section>
   </main>
   <div id="toast" role="status" hidden></div>
 </body>

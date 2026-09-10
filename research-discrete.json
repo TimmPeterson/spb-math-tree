@@ -1,0 +1,547 @@
+{
+  "checked": "2026-09-10",
+  "people": [
+    {
+      "id": "matiyasevich",
+      "name": "Yuri Matiyasevich",
+      "nameRu": "Юрий Владимирович Матиясевич",
+      "field": "discrete",
+      "degree": "Doctor of Sciences",
+      "affiliations": [
+        "PDMI"
+      ],
+      "interests": "Mathematical logic, Diophantine equations and Hilbert’s tenth problem.",
+      "sources": [
+        {
+          "title": "PDMI laboratory",
+          "url": "https://www.pdmi.ras.ru/pdmi/en/labs/laboratory-mathematical-logic-and-discrete-mathematics"
+        },
+        {
+          "title": "Research interests",
+          "url": "https://logic.pdmi.ras.ru/staff/"
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "karpov",
+      "name": "Dmitry Karpov",
+      "nameRu": "Дмитрий Валерьевич Карпов",
+      "field": "discrete",
+      "degree": "Doctor of Sciences",
+      "affiliations": [
+        "PDMI"
+      ],
+      "interests": "Graph connectivity, graph colourings and planar graphs.",
+      "sources": [
+        {
+          "title": "Academic biography",
+          "url": "https://math-cs.spbu.ru/people/karpov-d-v/"
+        },
+        {
+          "title": "PDMI laboratory",
+          "url": "https://www.pdmi.ras.ru/pdmi/en/labs/laboratory-mathematical-logic-and-discrete-mathematics"
+        }
+      ],
+      "note": "MCS profile is older; not present in the current faculty roster."
+    },
+    {
+      "id": "hirsch",
+      "name": "Edward Hirsch",
+      "nameRu": "Эдуард Алексеевич Гирш",
+      "field": "discrete",
+      "degree": "Doctor of Sciences",
+      "affiliations": [
+        "Former PDMI",
+        "Former SPbSU · MCS"
+      ],
+      "interests": "Computational complexity, proof complexity and Boolean satisfiability.",
+      "sources": [
+        {
+          "title": "MCS profile",
+          "url": "https://math-cs.spbu.ru/people/hirsch-e-a/"
+        },
+        {
+          "title": "PDMI lists Hirsch under Former",
+          "url": "https://logic.pdmi.ras.ru/staff/"
+        },
+        {
+          "title": "Doctoral supervision and degree",
+          "url": "https://www.pdmi.ras.ru/pdmi/node/1147"
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "kulikov",
+      "name": "Alexander S. Kulikov",
+      "nameRu": "Александр Сергеевич Куликов",
+      "field": "discrete",
+      "degree": "Doctor of Sciences",
+      "affiliations": [
+        "PDMI"
+      ],
+      "interests": "Boolean circuit complexity and algorithms for computationally hard problems.",
+      "sources": [
+        {
+          "title": "Academic biography",
+          "url": "https://math-cs.spbu.ru/people/kulikov-a-s/"
+        },
+        {
+          "title": "PDMI laboratory",
+          "url": "https://www.pdmi.ras.ru/pdmi/en/labs/laboratory-mathematical-logic-and-discrete-mathematics"
+        }
+      ],
+      "note": "MCS biography verifies genealogy, but older affiliation is not counted as current."
+    },
+    {
+      "id": "itsykson",
+      "name": "Dmitry Itsykson",
+      "nameRu": "Дмитрий Михайлович Ицыксон",
+      "field": "discrete",
+      "degree": "Doctor of Sciences",
+      "affiliations": [
+        "PDMI · on leave"
+      ],
+      "interests": "Proof complexity, average-case complexity and mathematical logic.",
+      "sources": [
+        {
+          "title": "Curriculum vitae",
+          "url": "https://logic.pdmi.ras.ru/~dmitrits/cv.pdf"
+        },
+        {
+          "title": "Current leave notice",
+          "url": "https://logic.pdmi.ras.ru/~dmitrits/contacts.php"
+        },
+        {
+          "title": "Doctor of Sciences status",
+          "url": "https://www.pdmi.ras.ru/pdmi/en/labs/laboratory-mathematical-logic-and-discrete-mathematics"
+        }
+      ],
+      "note": "Personal page reports a Ben-Gurion University position and leave from PDMI. CV is dated by its content to 2022."
+    },
+    {
+      "id": "bliznets",
+      "name": "Ivan Bliznets",
+      "nameRu": "Иван Анатольевич Близнец",
+      "field": "discrete",
+      "degree": "Candidate of Sciences",
+      "affiliations": [
+        "Former PDMI",
+        "Former SPbSU · MCS"
+      ],
+      "interests": "Parameterized algorithms, approximation algorithms and graph modification problems.",
+      "sources": [
+        {
+          "title": "Academic biography",
+          "url": "https://math-cs.spbu.ru/people/bliznets-i-a/"
+        },
+        {
+          "title": "Former PDMI staff",
+          "url": "https://logic.pdmi.ras.ru/staff/"
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "smal",
+      "name": "Alexander Smal",
+      "nameRu": "Александр Владимирович Смаль",
+      "field": "discrete",
+      "degree": "Candidate of Sciences",
+      "affiliations": [
+        "PDMI"
+      ],
+      "interests": "Communication complexity, Boolean formula lower bounds and algorithms.",
+      "sources": [
+        {
+          "title": "Candidate defense, 2022",
+          "url": "https://www.pdmi.ras.ru/pdmi/node/1147"
+        },
+        {
+          "title": "PDMI laboratory",
+          "url": "https://www.pdmi.ras.ru/pdmi/en/labs/laboratory-mathematical-logic-and-discrete-mathematics"
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "fedor-petrov",
+      "name": "Fedor Petrov",
+      "nameRu": "Фёдор Владимирович Петров",
+      "field": "discrete",
+      "degree": "Doctor of Sciences",
+      "affiliations": [
+        "SPbSU · MCS",
+        "PDMI"
+      ],
+      "interests": "Combinatorics, geometry of numbers, convex geometry and functional analysis.",
+      "sources": [
+        {
+          "title": "Academic biography",
+          "url": "https://math-cs.spbu.ru/people/petrov-f-v/"
+        },
+        {
+          "title": "Current faculty roster",
+          "url": "https://math-cs.spbu.ru/people/"
+        },
+        {
+          "title": "PDMI staff",
+          "url": "https://www.pdmi.ras.ru/pdmi/researchers"
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "vershik",
+      "name": "Anatoly Vershik",
+      "nameRu": "Анатолий Моисеевич Вершик",
+      "field": "discrete",
+      "degree": "Doctor of Sciences",
+      "affiliations": [
+        "Historical · SPbSU / PDMI"
+      ],
+      "interests": "Representation theory, ergodic theory and asymptotic combinatorics.",
+      "sources": [
+        {
+          "title": "MCS biography",
+          "url": "https://math-cs.spbu.ru/people/vershik-a-m/"
+        },
+        {
+          "title": "Petrov’s supervisor",
+          "url": "https://math-cs.spbu.ru/people/petrov-f-v/"
+        }
+      ],
+      "note": "Historical ancestor; died in 2024."
+    },
+    {
+      "id": "semenov-tian-shansky",
+      "name": "Mikhail Semenov-Tian-Shansky",
+      "nameRu": "Михаил Арсеньевич Семенов-Тян-Шанский",
+      "field": "physics",
+      "degree": "Doctor of Sciences",
+      "affiliations": [
+        "PDMI"
+      ],
+      "interests": "Integrable systems, Lie groups and algebras, and quantum groups.",
+      "sources": [
+        {
+          "title": "PDMI profile",
+          "url": "https://www.pdmi.ras.ru/pdmi/staff/михаил-арсеньевич-семенов-тян-шанский"
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "bolokhov",
+      "name": "Timur Bolokhov",
+      "nameRu": "Тимур Анатольевич Болохов",
+      "field": "physics",
+      "degree": "Candidate of Sciences",
+      "affiliations": [
+        "SPbSU · MCS"
+      ],
+      "interests": "Singular perturbations of Schrödinger operators and quadratic forms of the Laplacian.",
+      "sources": [
+        {
+          "title": "Current MCS profile",
+          "url": "https://math-cs.spbu.ru/people/bolohov-timur-anatolevich/"
+        },
+        {
+          "title": "Candidate defense, 2018",
+          "url": "https://www.pdmi.ras.ru/pdmi/en/node/813"
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "derkachov",
+      "name": "Sergey Derkachov",
+      "nameRu": "Сергей Эдуардович Деркачёв",
+      "field": "physics",
+      "degree": "Doctor of Sciences",
+      "affiliations": [
+        "PDMI"
+      ],
+      "interests": "Quantum integrable spin chains, Baxter operators and quantum field theory.",
+      "sources": [
+        {
+          "title": "PDMI profile",
+          "url": "https://www.pdmi.ras.ru/pdmi/staff/сергей-эдуардович-деркачев"
+        },
+        {
+          "title": "Research and supervision",
+          "url": "https://www.pdmi.ras.ru/pdmi/system/files/dissertations/thesis.pdf"
+        },
+        {
+          "title": "Recent research",
+          "url": "https://www.pdmi.ras.ru/pdmi/category/keywords/теория-представлений"
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "alexander-v-ivanov",
+      "name": "Alexander V. Ivanov",
+      "nameRu": "Александр Валентинович Иванов",
+      "field": "physics",
+      "degree": "Candidate of Sciences",
+      "affiliations": [
+        "SPbSU · MCS",
+        "PDMI"
+      ],
+      "interests": "Quantum field theory, regularisation, renormalisation and nonlocal models.",
+      "sources": [
+        {
+          "title": "MCS profile",
+          "url": "https://math-cs.spbu.ru/people/ivanov-aleksandr-valentinovich/"
+        },
+        {
+          "title": "Candidate defense, 2021",
+          "url": "https://www.pdmi.ras.ru/pdmi/en/node/1078"
+        },
+        {
+          "title": "PDMI staff",
+          "url": "https://www.pdmi.ras.ru/pdmi/researchers"
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "valinevich",
+      "name": "Pavel Valinevich",
+      "nameRu": "Павел Анатольевич Валиневич",
+      "field": "physics",
+      "degree": "Candidate of Sciences",
+      "affiliations": [
+        "PDMI"
+      ],
+      "interests": "Quantum integrable spin chains and their wave functions.",
+      "sources": [
+        {
+          "title": "PDMI profile",
+          "url": "https://www.pdmi.ras.ru/pdmi/staff/павел-анатольевич-валиневич"
+        },
+        {
+          "title": "Recent research",
+          "url": "https://www.pdmi.ras.ru/pdmi/category/keywords/теория-представлений"
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "antonenko",
+      "name": "Pavel Antonenko",
+      "nameRu": "Павел Владимирович Антоненко",
+      "field": "physics",
+      "degree": "Candidate defense · June 2026",
+      "affiliations": [
+        "PDMI"
+      ],
+      "interests": "Quantum integrable systems, representation theory and quantum groups.",
+      "sources": [
+        {
+          "title": "PDMI profile",
+          "url": "https://www.pdmi.ras.ru/pdmi/staff/павел-владимирович-антоненко-0"
+        },
+        {
+          "title": "Successful candidate defense, 15 June 2026",
+          "url": "https://www.pdmi.ras.ru/pdmi/en/node/1360"
+        }
+      ],
+      "note": "Council unanimously voted for the Candidate degree on 15 June 2026; administrative degree award not separately checked."
+    },
+    {
+      "id": "puzynina",
+      "name": "Svetlana Puzynina",
+      "nameRu": "Светлана Александровна Пузынина",
+      "field": "discrete",
+      "degree": "Candidate of Sciences",
+      "affiliations": [
+        "SPbSU · MCS"
+      ],
+      "interests": "Combinatorics on words, formal languages and graph theory.",
+      "sources": [
+        {
+          "title": "Academic biography",
+          "url": "https://math-cs.spbu.ru/people/puzynina-s-a/"
+        },
+        {
+          "title": "Current faculty roster",
+          "url": "https://math-cs.spbu.ru/people/"
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "tatiana-belova",
+      "name": "Tatiana Belova",
+      "nameRu": "Татьяна Сергеевна Белова",
+      "field": "discrete",
+      "degree": "Doctoral researcher · source 2023",
+      "affiliations": [
+        "SPbSU · MCS",
+        "PDMI"
+      ],
+      "interests": "Fine-grained computational complexity and lower bounds for algorithms.",
+      "sources": [
+        {
+          "title": "Current MCS researcher profile",
+          "url": "https://math-cs.spbu.ru/people/belova-tatyana-sergeevna/"
+        },
+        {
+          "title": "PDMI doctoral research contest, 2023",
+          "url": "https://pdmi.ras.ru/pdmi/конкурс-молодых-ученых"
+        },
+        {
+          "title": "Current PDMI researcher profile",
+          "url": "https://pdmi.ras.ru/pdmi/staff/татьяна-сергеевна-белова"
+        },
+        {
+          "title": "SPbSU researcher portal, 2026 project",
+          "url": "https://pureportal.spbu.ru/en/persons/--%2809db25f8-6a5f-452c-b22c-a882f19b71fd%29.html"
+        }
+      ],
+      "note": "Doctoral research/supervisor confirmed in 2023 contest; current enrollment and research supervision of her own students NOT verified."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "matiyasevich",
+      "target": "karpov",
+      "type": "doctoral",
+      "year": 2004,
+      "sources": [
+        {
+          "title": "Supervision evidence",
+          "url": "https://math-cs.spbu.ru/people/karpov-d-v/"
+        }
+      ],
+      "note": ""
+    },
+    {
+      "source": "hirsch",
+      "target": "kulikov",
+      "type": "doctoral",
+      "year": 2009,
+      "sources": [
+        {
+          "title": "Supervision evidence",
+          "url": "https://math-cs.spbu.ru/people/kulikov-a-s/"
+        }
+      ],
+      "note": ""
+    },
+    {
+      "source": "hirsch",
+      "target": "itsykson",
+      "type": "doctoral",
+      "year": 2009,
+      "sources": [
+        {
+          "title": "Supervision evidence",
+          "url": "https://logic.pdmi.ras.ru/~dmitrits/cv.pdf"
+        }
+      ],
+      "note": ""
+    },
+    {
+      "source": "hirsch",
+      "target": "smal",
+      "type": "doctoral",
+      "year": 2022,
+      "sources": [
+        {
+          "title": "Supervision evidence",
+          "url": "https://www.pdmi.ras.ru/pdmi/node/1147"
+        }
+      ],
+      "note": ""
+    },
+    {
+      "source": "kulikov",
+      "target": "bliznets",
+      "type": "doctoral",
+      "year": 2016,
+      "sources": [
+        {
+          "title": "Supervision evidence",
+          "url": "https://math-cs.spbu.ru/people/bliznets-i-a/"
+        }
+      ],
+      "note": ""
+    },
+    {
+      "source": "vershik",
+      "target": "fedor-petrov",
+      "type": "doctoral",
+      "year": 2007,
+      "sources": [
+        {
+          "title": "Supervision evidence",
+          "url": "https://math-cs.spbu.ru/people/petrov-f-v/"
+        }
+      ],
+      "note": ""
+    },
+    {
+      "source": "semenov-tian-shansky",
+      "target": "bolokhov",
+      "type": "doctoral",
+      "year": 2018,
+      "sources": [
+        {
+          "title": "Supervision evidence",
+          "url": "https://www.pdmi.ras.ru/pdmi/en/node/813"
+        }
+      ],
+      "note": ""
+    },
+    {
+      "source": "derkachov",
+      "target": "alexander-v-ivanov",
+      "type": "doctoral",
+      "year": 2021,
+      "sources": [
+        {
+          "title": "Supervision evidence",
+          "url": "https://www.pdmi.ras.ru/pdmi/en/node/1078"
+        }
+      ],
+      "note": ""
+    },
+    {
+      "source": "valinevich",
+      "target": "antonenko",
+      "type": "doctoral",
+      "year": 2026,
+      "sources": [
+        {
+          "title": "Supervision evidence",
+          "url": "https://www.pdmi.ras.ru/pdmi/en/node/1360"
+        }
+      ],
+      "note": ""
+    },
+    {
+      "source": "kulikov",
+      "target": "tatiana-belova",
+      "type": "research",
+      "year": 2023,
+      "sources": [
+        {
+          "title": "Supervision evidence",
+          "url": "https://pdmi.ras.ru/pdmi/конкурс-молодых-ученых"
+        }
+      ],
+      "note": "Named supervisor of doctoral research in 2023; ongoing doctoral enrollment not independently verified."
+    }
+  ],
+  "coverageNotes": [
+    "All edges cite primary official biographies or dissertation records.",
+    "Current MCS roster was retrieved directly over HTTPS because web tool could not fetch it.",
+    "Historical MCS profiles remain online for former members; preserved academic ancestry does not mean present employment.",
+    "A precise 2026 claim that a current PhD student supervises research has not been verified in this subset. Tatiana Belova doctoral status is explicitly dated 2023.",
+    "No inferred links based on coauthorship. Puzynina intentionally has no local edge; her verified PhD advisor Sergey Avgustinovich is at Novosibirsk, outside focus."
+  ]
+}

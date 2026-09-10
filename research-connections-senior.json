@@ -1,0 +1,453 @@
+{
+  "people": [
+    {
+      "id": "boris-makarov",
+      "name": "Boris Makarov",
+      "nameRu": "Борис Михайлович Макаров",
+      "field": "analysis",
+      "stage": "historical",
+      "degree": "Doctor of Sciences · 1991",
+      "affiliations": [
+        "SPbSU · historical"
+      ],
+      "affiliationShort": "SPbSU · historical",
+      "interests": "Functional analysis, Banach spaces and linear operators.",
+      "contextOnly": true,
+      "notes": "Included as a documented supervisor of a researcher in this collection.",
+      "sources": [
+        {
+          "label": "Math-Net academic biography",
+          "url": "https://www.mathnet.ru/rus/person19575"
+        },
+        {
+          "label": "St. Petersburg Mathematical Society memorial",
+          "url": "https://mathsoc.spb.ru/pers/makarov/necrolog.pdf"
+        }
+      ]
+    },
+    {
+      "id": "olga-holtz",
+      "name": "Olga Holtz",
+      "nameRu": "Ольга Владимировна Хольц",
+      "field": "analysis",
+      "stage": "established",
+      "degree": "PhD · 2000",
+      "affiliations": [
+        "UC Berkeley / TU Berlin"
+      ],
+      "affiliationShort": "UC Berkeley / TU Berlin",
+      "interests": "Matrix theory, classical and numerical analysis, algebra and combinatorics.",
+      "contextOnly": true,
+      "notes": "Included as a documented supervisor of a researcher in this collection.",
+      "sources": [
+        {
+          "label": "UC Berkeley faculty profile",
+          "url": "https://math.berkeley.edu/node/166"
+        },
+        {
+          "label": "UC Berkeley curriculum vitae",
+          "url": "https://math.berkeley.edu/sites/default/files/cv-holtz.pdf"
+        }
+      ]
+    },
+    {
+      "id": "viktor-pliss",
+      "name": "Viktor Pliss",
+      "nameRu": "Виктор Александрович Плисс",
+      "field": "analysis",
+      "stage": "historical",
+      "degree": "Doctor of Sciences · 1959",
+      "affiliations": [
+        "SPbSU · historical"
+      ],
+      "affiliationShort": "SPbSU · historical",
+      "interests": "Differential equations, stability and dynamical systems.",
+      "contextOnly": true,
+      "notes": "Included as a documented supervisor of a researcher in this collection.",
+      "sources": [
+        {
+          "label": "Math-Net academic biography",
+          "url": "https://www.mathnet.ru/rus/person22082"
+        }
+      ]
+    },
+    {
+      "id": "alexander-belavin",
+      "name": "Alexander Belavin",
+      "nameRu": "Александр Абрамович Белавин",
+      "field": "physics",
+      "stage": "established",
+      "degree": "Doctor of Sciences",
+      "affiliations": [
+        "Landau Institute"
+      ],
+      "affiliationShort": "Landau Institute",
+      "interests": "Conformal field theory, integrable models and string theory.",
+      "contextOnly": true,
+      "notes": "Included as a documented supervisor of a researcher in this collection.",
+      "sources": [
+        {
+          "label": "Russian Academy of Sciences profile",
+          "url": "https://new.ras.ru/staff/chlen-korrespondent-ran/belavin-aleksandr-abramovich/"
+        }
+      ]
+    },
+    {
+      "id": "alexei-bondal",
+      "name": "Alexei Bondal",
+      "nameRu": "Алексей Игоревич Бондал",
+      "field": "algebra",
+      "stage": "established",
+      "degree": "Doctor of Sciences",
+      "affiliations": [
+        "Steklov Institute · Moscow"
+      ],
+      "affiliationShort": "Steklov Institute · Moscow",
+      "interests": "Noncommutative algebraic geometry, derived categories and homological algebra.",
+      "contextOnly": true,
+      "notes": "Included as a documented supervisor of a researcher in this collection.",
+      "sources": [
+        {
+          "label": "Steklov Institute algebra department",
+          "url": "https://www.mi-ras.ru/index.php?c=show_dep&id=50"
+        }
+      ]
+    },
+    {
+      "id": "alexey-lvov",
+      "field": "algebra",
+      "degree": "MCS researcher · master’s student recorded 2025",
+      "interests": "Algebraic geometry; coherent sheaves on singular curves.",
+      "notes": "The MCS staff directory lists him as a researcher; the 2026 Rokhlin scholarship announcement records master’s study under Alexei Bondal. Doctoral status is not established.",
+      "sources": [
+        {
+          "label": "2026 Rokhlin scholarship announcement",
+          "url": "https://www.pdmi.ras.ru/pdmi/en/node/1357"
+        },
+        {
+          "label": "2025 mathematics centres conference programme: coherent sheaves on singular curves",
+          "url": "https://kmc.sfu-kras.ru/conf2025/files/V_ConfMC.pdf"
+        }
+      ]
+    },
+    {
+      "id": "mikhail-solomyak",
+      "name": "Mikhail Solomyak",
+      "nameRu": "Михаил Захарович Соломяк",
+      "field": "analysis",
+      "stage": "historical",
+      "degree": "Doctor of Sciences",
+      "affiliations": [
+        "SPbSU · historical"
+      ],
+      "affiliationShort": "SPbSU · historical",
+      "interests": "Functional analysis and spectral theory of differential operators.",
+      "contextOnly": true,
+      "notes": "Included as a documented supervisor of a researcher in this collection.",
+      "sources": [
+        {
+          "label": "Math-Net academic biography",
+          "url": "https://www.mathnet.ru/rus/person18043"
+        }
+      ]
+    },
+    {
+      "id": "valentin-skvortsov",
+      "name": "Valentin Skvortsov",
+      "nameRu": "Валентин Анатольевич Скворцов",
+      "field": "analysis",
+      "stage": "established",
+      "degree": "Doctor of Sciences",
+      "affiliations": [
+        "Moscow State University"
+      ],
+      "affiliationShort": "Moscow State University",
+      "interests": "Integration theory, Fourier series and real analysis.",
+      "contextOnly": true,
+      "notes": "Included as a documented supervisor of a researcher in this collection.",
+      "sources": [
+        {
+          "label": "MSU faculty profile",
+          "url": "https://new.math.msu.su/tffa/persons/skvortsov.html"
+        },
+        {
+          "label": "Math-Net researcher profile",
+          "url": "https://www.mathnet.ru/rus/person8400"
+        }
+      ]
+    },
+    {
+      "id": "sergey-telyakovskii",
+      "name": "Sergey Telyakovskii",
+      "nameRu": "Сергей Александрович Теляковский",
+      "field": "analysis",
+      "stage": "historical",
+      "degree": "Doctor of Sciences · 1967",
+      "affiliations": [
+        "Steklov Institute · historical"
+      ],
+      "affiliationShort": "Steklov Institute · historical",
+      "interests": "Approximation theory and Fourier series.",
+      "contextOnly": true,
+      "notes": "Included as a documented supervisor of a researcher in this collection.",
+      "sources": [
+        {
+          "label": "Memorial by colleagues and students, including Temlyakov",
+          "url": "https://journal.imm.uran.ru/sites/default/files/content/28_4/TrIMMUrORAN_2022_4_p17_L.pdf"
+        }
+      ]
+    },
+    {
+      "id": "evgeny-dolzhenko",
+      "name": "Evgeny Dolzhenko",
+      "nameRu": "Евгений Прокофьевич Долженко",
+      "field": "analysis",
+      "stage": "historical",
+      "degree": "Doctor of Sciences",
+      "affiliations": [
+        "Moscow State University · historical"
+      ],
+      "affiliationShort": "Moscow State University · historical",
+      "interests": "Complex analysis and approximation theory.",
+      "contextOnly": true,
+      "notes": "Included as a documented supervisor of a researcher in this collection.",
+      "sources": [
+        {
+          "label": "MSU academic biography",
+          "url": "https://letopis.msu.ru/peoples/2258"
+        }
+      ]
+    },
+    {
+      "id": "osipov",
+      "degree": "Candidate of Sciences · 2010",
+      "degreeShort": "Cand. Sci.",
+      "interests": "Harmonic analysis; Littlewood–Paley inequalities and square functions.",
+      "notes": "The 2010 PDMI thesis abstract identifies Sergei Kislyakov as supervisor. This is the harmonic analyst working with MCS, not the same-name algebraic geometer.",
+      "sources": [
+        {
+          "label": "PDMI Candidate thesis abstract",
+          "url": "https://pdmi.ras.ru/pdmi/en/system/files/osipov.pdf"
+        }
+      ]
+    },
+    {
+      "id": "petr-borodin",
+      "degree": "Doctor of Sciences · 2012",
+      "degreeShort": "DSc",
+      "interests": "Approximation theory and geometry of Banach spaces.",
+      "notes": "His MSU profile documents the 2012 Doctor of Sciences degree and supervision of diploma and Candidate theses. MCS lists him as a leading researcher.",
+      "sources": [
+        {
+          "label": "MSU researcher profile and supervised theses",
+          "url": "https://istina.msu.ru/workers/1276823/all/"
+        },
+        {
+          "label": "Math-Net academic biography",
+          "url": "https://www.mathnet.ru/rus/person8531"
+        }
+      ]
+    },
+    {
+      "id": "alexey-solodov",
+      "degree": "Doctor of Sciences · 2022",
+      "degreeShort": "DSc",
+      "interests": "Real analysis, generalized integration and approximation theory.",
+      "notes": "MSU records Candidate and Doctor of Sciences degrees in 1999 and 2022, respectively. MCS also lists him as a researcher.",
+      "sources": [
+        {
+          "label": "MSU academic profile",
+          "url": "https://istina.msu.ru/workers/1342363/all/"
+        }
+      ]
+    },
+    {
+      "id": "yuri-skvortsov",
+      "degree": "Specialist thesis · 2026; MCS researcher",
+      "degreeShort": "Researcher",
+      "interests": "Approximation theory, Banach spaces and Bernstein’s problem.",
+      "notes": "Borodin’s MSU record lists his specialist thesis in 2026. A Candidate degree or current doctoral enrollment has not been verified.",
+      "sources": [
+        {
+          "label": "MSU diploma supervision record",
+          "url": "https://istina.msu.ru/workers/1276823/all/"
+        },
+        {
+          "label": "Math-Net research interests",
+          "url": "https://www.mathnet.ru/rus/person195861"
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "source": "boris-makarov",
+      "target": "khrabrov",
+      "type": "doctoral",
+      "year": 2001,
+      "label": "Doctoral supervision · 2001",
+      "notes": "The advisee’s institutional profile explicitly identifies this dissertation supervisor.",
+      "sources": [
+        {
+          "label": "Institutional supervision record",
+          "url": "https://math-cs.spbu.ru/people/hrabrov-aleksandr-igorevich/"
+        }
+      ]
+    },
+    {
+      "source": "olga-holtz",
+      "target": "tyaglov",
+      "type": "doctoral",
+      "year": 2009,
+      "label": "Doctoral supervision · 2009",
+      "notes": "The advisee’s institutional profile explicitly identifies this dissertation supervisor.",
+      "sources": [
+        {
+          "label": "Institutional supervision record",
+          "url": "https://math-cs.spbu.ru/people/tyaglov-mihail-yurevich/"
+        }
+      ]
+    },
+    {
+      "source": "viktor-pliss",
+      "target": "pilyugin",
+      "type": "doctoral",
+      "year": 1974,
+      "label": "Doctoral supervision · 1974",
+      "notes": "The advisee’s institutional profile explicitly identifies this dissertation supervisor.",
+      "sources": [
+        {
+          "label": "Institutional supervision record",
+          "url": "https://math-cs.spbu.ru/people/pilyugin-s-yu/"
+        }
+      ]
+    },
+    {
+      "source": "alexander-belavin",
+      "target": "oleg-alekseev",
+      "type": "doctoral",
+      "year": 2012,
+      "label": "Doctoral supervision · 2012",
+      "notes": "The advisee’s institutional profile explicitly identifies this dissertation supervisor.",
+      "sources": [
+        {
+          "label": "Institutional supervision record",
+          "url": "https://math-cs.spbu.ru/people/alekseev-oleg-vadimovich/"
+        },
+        {
+          "label": "Candidate thesis abstract, supervisor on page 2",
+          "url": "https://www.itp.ac.ru/ru/dissertation-council/thesis/abstracts/2012-12-28-alekseev.pdf"
+        }
+      ]
+    },
+    {
+      "source": "alexei-bondal",
+      "target": "alexey-lvov",
+      "type": "mentorship",
+      "year": 2025,
+      "label": "Master’s research supervisor · recorded 2025",
+      "notes": "The November 2025 announcement of the 2026 Rokhlin scholarships lists Lvov as an MCS master’s student with A. I. Bondal as supervisor. This is not evidence of doctoral supervision.",
+      "sources": [
+        {
+          "label": "Institutional supervision record",
+          "url": "https://www.pdmi.ras.ru/pdmi/en/node/1357"
+        },
+        {
+          "label": "HSE 2024 student research competition: named supervisor",
+          "url": "https://www.hse.ru/nirs/nirs2024_results"
+        }
+      ]
+    },
+    {
+      "source": "mikhail-solomyak",
+      "target": "laptev",
+      "type": "doctoral",
+      "label": "Doctoral supervision · 1978",
+      "notes": "The June 2007 EMS Newsletter introduction of its new president explicitly names Michael Solomyak as Laptev’s PhD supervisor (page 7).",
+      "sources": [
+        {
+          "label": "Supervision source",
+          "url": "https://ems.press/content/serial-issue-files/13666?nt=1"
+        }
+      ]
+    },
+    {
+      "source": "hedenmalm",
+      "target": "baranov",
+      "type": "mentorship",
+      "label": "Postdoctoral supervision · 2005–2006",
+      "notes": "Hedenmalm lists Anton Baranov under supervised postdoctoral scholars in his CV (page 3).",
+      "sources": [
+        {
+          "label": "Supervision source",
+          "url": "https://bimsa.net/doc/cv/HaakanHandenmalm.pdf?v=XPLcE"
+        }
+      ]
+    },
+    {
+      "source": "kislyakov",
+      "target": "osipov",
+      "type": "doctoral",
+      "label": "Candidate thesis supervision · 2010",
+      "notes": "The Littlewood–Paley thesis abstract names Sergei Kislyakov as scientific supervisor on page 2. This identifies the harmonic analyst, distinct from the same-name algebraic geometer.",
+      "sources": [
+        {
+          "label": "Supervision source",
+          "url": "https://pdmi.ras.ru/pdmi/en/system/files/osipov.pdf"
+        }
+      ]
+    },
+    {
+      "source": "valentin-skvortsov",
+      "target": "alexey-solodov",
+      "type": "doctoral",
+      "label": "Candidate thesis supervision · 1999",
+      "notes": "The author’s MSU record lists V. A. Skvortsov as supervisor of the 1999 Candidate thesis on generalized integration of Banach-valued functions.",
+      "sources": [
+        {
+          "label": "Supervision source",
+          "url": "https://istina.msu.ru/workers/1342363/all/"
+        }
+      ]
+    },
+    {
+      "source": "sergey-telyakovskii",
+      "target": "temlyakov",
+      "type": "mentorship",
+      "label": "Research mentorship · MIPT and Steklov Institute",
+      "notes": "The memorial coauthored by Temlyakov names him as Telyakovskii’s student, with research beginning during his MIPT studies and continuing through graduate study. The precise formal dissertation role is not specified.",
+      "sources": [
+        {
+          "label": "Supervision source",
+          "url": "https://journal.imm.uran.ru/sites/default/files/content/28_4/TrIMMUrORAN_2022_4_p17_L.pdf"
+        }
+      ]
+    },
+    {
+      "source": "evgeny-dolzhenko",
+      "target": "petr-borodin",
+      "type": "doctoral",
+      "label": "Candidate thesis supervision · 1998",
+      "notes": "The Candidate thesis record, entered by Petr Borodin, names E. P. Dolzhenko as supervisor; defense 10 April 1998.",
+      "sources": [
+        {
+          "label": "Supervision source",
+          "url": "https://istina.msu.ru/dissertations/12195085/"
+        }
+      ]
+    },
+    {
+      "source": "petr-borodin",
+      "target": "yuri-skvortsov",
+      "type": "mentorship",
+      "label": "Specialist thesis supervision · 2026",
+      "notes": "Borodin’s MSU list of supervised diploma theses identifies Yuri Aleksandrovich Skvortsov and his 2026 specialist thesis on elements with prescribed deviations from expanding systems of subspaces.",
+      "sources": [
+        {
+          "label": "Supervision source",
+          "url": "https://istina.msu.ru/workers/1276823/all/"
+        }
+      ]
+    }
+  ]
+}

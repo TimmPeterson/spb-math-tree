@@ -1,0 +1,1022 @@
+{
+  "people": [
+    {
+      "id": "temirlan-abildaev",
+      "name": "Temirlan Abildaev",
+      "nameRu": "Темирлан Абильдаев",
+      "field": "probability",
+      "stage": "student",
+      "degree": "PhD student · documented 2025",
+      "affiliations": [
+        "PDMI"
+      ],
+      "interests": "Lévy processes, local times and stochastic analysis.",
+      "notes": "Doctoral status and PDMI research appointment documented by the dated EIMI fellowship results; a later enrolment update was not located.",
+      "statusAsOf": "2025-06-08",
+      "sources": [
+        {
+          "label": "EIMI doctoral fellowship results · June 2025",
+          "url": "https://eimi.ru/news/5885/"
+        },
+        {
+          "label": "St Petersburg Youth Conference · probability programme 2025",
+          "url": "https://www.mathnet.ru/ConfLogos/2677/2677-Program.pdf"
+        }
+      ]
+    },
+    {
+      "id": "daria-aksenova",
+      "name": "Daria Aksenova",
+      "nameRu": "Дарья Дмитриевна Аксенова",
+      "field": "geometry",
+      "stage": "student",
+      "degree": "PhD student · documented 2025",
+      "affiliations": [
+        "PDMI"
+      ],
+      "interests": "Topology, compactifications and extension of continuous maps.",
+      "notes": "Doctoral status and PDMI research appointment documented by the dated EIMI fellowship results; a later enrolment update was not located.",
+      "statusAsOf": "2025-06-08",
+      "sources": [
+        {
+          "label": "EIMI doctoral fellowship results · June 2025",
+          "url": "https://eimi.ru/news/5885/"
+        },
+        {
+          "label": "Math-Net author profile and topology publications",
+          "url": "https://www.mathnet.ru/rus/person176401"
+        }
+      ]
+    },
+    {
+      "id": "mikhail-germanskov",
+      "name": "Mikhail Germanskov",
+      "nameRu": "Михаил Витальевич Германсков",
+      "field": "probability",
+      "stage": "student",
+      "degree": "PhD student · documented 2025",
+      "affiliations": [
+        "PDMI"
+      ],
+      "interests": "Stochastic geometry, intrinsic volumes and combinatorics.",
+      "notes": "Doctoral status and PDMI research appointment documented by the dated EIMI fellowship results; a later enrolment update was not located.",
+      "statusAsOf": "2025-06-08",
+      "sources": [
+        {
+          "label": "EIMI doctoral fellowship results · June 2025",
+          "url": "https://eimi.ru/news/5885/"
+        },
+        {
+          "label": "Research talk · intrinsic volumes, May 2025",
+          "url": "https://www.mathnet.ru/rus/present46275"
+        },
+        {
+          "label": "On Steiner entire function · 2025",
+          "url": "https://arxiv.org/abs/2507.11626"
+        }
+      ]
+    },
+    {
+      "id": "yuriy-dementiev",
+      "name": "Yuriy Dementiev",
+      "nameRu": "Юрий Ильич Дементьев",
+      "field": "discrete",
+      "stage": "student",
+      "degree": "PhD student · documented 2025",
+      "affiliations": [
+        "PDMI",
+        "SPbSU MCS"
+      ],
+      "interests": "Exact and parameterized algorithms, communication complexity and algorithmic game theory.",
+      "notes": "Doctoral status and PDMI research appointment documented by the dated EIMI fellowship results; a later enrolment update was not located.",
+      "statusAsOf": "2025-06-08",
+      "sources": [
+        {
+          "label": "EIMI doctoral fellowship results · June 2025",
+          "url": "https://eimi.ru/news/5885/"
+        },
+        {
+          "label": "MCS staff profile",
+          "url": "https://math-cs.spbu.ru/people/dementev-yurij-ilich/"
+        },
+        {
+          "label": "Learning Augmented Exact Exponential Algorithms · 2026",
+          "url": "https://arxiv.org/abs/2606.18807"
+        }
+      ]
+    },
+    {
+      "id": "vsevolod-evtushevsky",
+      "name": "Vsevolod Evtushevsky",
+      "nameRu": "Всеволод Юрьевич Евтушевский",
+      "field": "discrete",
+      "stage": "student",
+      "degree": "PhD student · documented 2025",
+      "affiliations": [
+        "PDMI"
+      ],
+      "interests": "Graded graphs, Young–Fibonacci combinatorics and central measures.",
+      "notes": "Doctoral status and PDMI research appointment documented by the dated EIMI fellowship results; a later enrolment update was not located.",
+      "statusAsOf": "2025-06-08",
+      "sources": [
+        {
+          "label": "EIMI doctoral fellowship results · June 2025",
+          "url": "https://eimi.ru/news/5885/"
+        },
+        {
+          "label": "Path enumeration on the Young–Fibonacci graph",
+          "url": "https://www.mathnet.ru/rus/znsl6777"
+        }
+      ]
+    },
+    {
+      "id": "artur-ignatiev",
+      "name": "Artur Ignatiev",
+      "nameRu": "Артур Андреевич Игнатьев",
+      "field": "discrete",
+      "stage": "student",
+      "degree": "PhD student · since 2024",
+      "affiliations": [
+        "PDMI",
+        "SPbSU MCS"
+      ],
+      "interests": "Parameterized algorithms, communication complexity and algorithmic game theory.",
+      "notes": "Personal academic profile explicitly lists PhD studies at PDMI from 2024; also works in the SPbSU Markov Laboratory.",
+      "statusAsOf": "2025-06-08",
+      "sources": [
+        {
+          "label": "EIMI doctoral fellowship results · June 2025",
+          "url": "https://eimi.ru/news/5885/"
+        },
+        {
+          "label": "Personal academic profile · doctoral studies since 2024",
+          "url": "https://aaignatiev.github.io/"
+        },
+        {
+          "label": "SPbSU research profile",
+          "url": "https://pureportal.spbu.ru/ru/persons/--(8e35588e-500c-4575-85c2-96c1d3363c4b).html"
+        }
+      ]
+    },
+    {
+      "id": "viktor-lavrukhin",
+      "name": "Viktor Lavrukhin",
+      "nameRu": "Виктор Александрович Лаврухин",
+      "field": "geometry",
+      "stage": "student",
+      "degree": "PhD student · documented 2025",
+      "affiliations": [
+        "PDMI"
+      ],
+      "interests": "Algebraic topology, cobordism and characteristic numbers.",
+      "notes": "Doctoral status and PDMI research appointment documented by the dated EIMI fellowship results; a later enrolment update was not located.",
+      "statusAsOf": "2025-06-08",
+      "sources": [
+        {
+          "label": "EIMI doctoral fellowship results · June 2025",
+          "url": "https://eimi.ru/news/5885/"
+        },
+        {
+          "label": "Secondary Stiefel–Whitney numbers and cobordism groups · 2025",
+          "url": "https://arxiv.org/abs/2512.06371"
+        }
+      ]
+    },
+    {
+      "id": "irina-lukashova",
+      "name": "Irina Lukashova",
+      "nameRu": "Ирина Игоревна Лукашова",
+      "field": "probability",
+      "stage": "student",
+      "degree": "PhD student · documented 2025",
+      "affiliations": [
+        "PDMI"
+      ],
+      "interests": "Branching random walks, immigration and limit theorems.",
+      "notes": "Doctoral status and PDMI research appointment documented by the dated EIMI fellowship results; a later enrolment update was not located.",
+      "statusAsOf": "2025-06-08",
+      "sources": [
+        {
+          "label": "EIMI doctoral fellowship results · June 2025",
+          "url": "https://eimi.ru/news/5885/"
+        },
+        {
+          "label": "Critical periodic branching random walks · PDMI 2025",
+          "url": "https://www.mathnet.ru/rus/znsl7608"
+        }
+      ]
+    },
+    {
+      "id": "alexander-tokmachev",
+      "name": "Alexander Tokmachev",
+      "nameRu": "Александр Сергеевич Токмачев",
+      "field": "probability",
+      "stage": "student",
+      "degree": "PhD student · documented 2025",
+      "affiliations": [
+        "PDMI"
+      ],
+      "interests": "Random lattice polygons and stochastic geometry.",
+      "notes": "Doctoral status and PDMI research appointment documented by the dated EIMI fellowship results; a later enrolment update was not located.",
+      "statusAsOf": "2025-06-08",
+      "sources": [
+        {
+          "label": "EIMI doctoral fellowship results · June 2025",
+          "url": "https://eimi.ru/news/5885/"
+        },
+        {
+          "label": "PDMI young researchers competition · verified supervisors",
+          "url": "https://www.pdmi.ras.ru/pdmi/%D0%BA%D0%BE%D0%BD%D0%BA%D1%83%D1%80%D1%81-%D0%BC%D0%BE%D0%BB%D0%BE%D0%B4%D1%8B%D1%85-%D1%83%D1%87%D0%B5%D0%BD%D1%8B%D1%85"
+        }
+      ]
+    },
+    {
+      "id": "konstantin-chelpanov",
+      "name": "Konstantin Chelpanov",
+      "nameRu": "Константин Вячеславович Челпанов",
+      "field": "discrete",
+      "stage": "student",
+      "degree": "PhD student · 2023 cohort",
+      "affiliations": [
+        "PDMI",
+        "SPbSU MCS"
+      ],
+      "interests": "Graph theory, spanning trees and combinatorics.",
+      "notes": "Listed in the MCS mathematical logic, algebra, number theory and discrete mathematics doctoral programme; PDMI research fellowship in 2025.",
+      "statusAsOf": "2025-06-08",
+      "sources": [
+        {
+          "label": "EIMI doctoral fellowship results · June 2025",
+          "url": "https://eimi.ru/news/5885/"
+        },
+        {
+          "label": "SPbSU doctoral profile · 2023 cohort",
+          "url": "https://pureportal.spbu.ru/ru/persons/--(c2f748b8-9c88-4af3-9234-702126b921b7).html"
+        },
+        {
+          "label": "Sirius faculty profile · MCS doctoral student",
+          "url": "https://sochisirius.ru/obuchenie/nauka/smena1885/9163"
+        }
+      ]
+    },
+    {
+      "id": "pavel-akatsevich",
+      "name": "Pavel Akatsevich",
+      "nameRu": "Павел Викторович Акацевич",
+      "field": "physics",
+      "stage": "student",
+      "degree": "PhD student · documented 2024",
+      "affiliations": [
+        "PDMI"
+      ],
+      "interests": "Quantum field theory, nonlinear sigma models and renormalization.",
+      "notes": "Doctoral fellowship and PDMI research position documented in March 2024; PDMI affiliation also appears on the 2025 preprint.",
+      "statusAsOf": "2024-03-27",
+      "sources": [
+        {
+          "label": "EIMI doctoral fellowship results · March 2024",
+          "url": "https://eimi.ru/news/5835/"
+        },
+        {
+          "label": "PDMI preprint 08/2025 · nonlinear sigma model",
+          "url": "https://www.pdmi.ras.ru/preprint/2025/25-08.html"
+        }
+      ]
+    },
+    {
+      "id": "valeriia-stolbova",
+      "name": "Valeriia Stolbova",
+      "nameRu": "Валерия Столбова",
+      "field": "physics",
+      "stage": "student",
+      "degree": "PhD student · documented 2024",
+      "affiliations": [
+        "PDMI"
+      ],
+      "interests": "Integrable quantum field theory, scattering amplitudes and the S-matrix bootstrap.",
+      "notes": "Doctoral fellowship and PDMI research position documented in March 2024; no later enrolment or degree update was located.",
+      "statusAsOf": "2024-03-27",
+      "sources": [
+        {
+          "label": "EIMI doctoral fellowship results · March 2024",
+          "url": "https://eimi.ru/news/5835/"
+        },
+        {
+          "label": "The S-matrix bootstrap · research paper",
+          "url": "https://arxiv.org/abs/2311.14418"
+        },
+        {
+          "label": "PDMI affiliation · Faddeev conference participants 2024",
+          "url": "https://indico.eimi.ru/event/1534/registrations/participants"
+        }
+      ]
+    },
+    {
+      "id": "timofey-sulimov",
+      "name": "Timofey Sulimov",
+      "nameRu": "Тимофей Вадимович Сулимов",
+      "field": "physics",
+      "stage": "student",
+      "degree": "PhD student · documented 2024",
+      "affiliations": [
+        "PDMI",
+        "SPbSU MCS"
+      ],
+      "interests": "Quantum scattering amplitudes, symmetries and homological algebra.",
+      "notes": "PDMI doctoral fellowship documented in March 2024; MCS lists a research assistant appointment.",
+      "statusAsOf": "2024-03-27",
+      "sources": [
+        {
+          "label": "EIMI doctoral fellowship results · March 2024",
+          "url": "https://eimi.ru/news/5835/"
+        },
+        {
+          "label": "PDMI research talk · homotopy transfer and scattering",
+          "url": "https://www.mathnet.ru/php/presentation.phtml?option_lang=eng&presentid=41586"
+        },
+        {
+          "label": "MCS staff profile",
+          "url": "https://math-cs.spbu.ru/people/sulimov-timofej-vadimovich/"
+        }
+      ]
+    },
+    {
+      "id": "ilya-shirokov",
+      "name": "Ilya Shirokov",
+      "nameRu": "Илья Широков",
+      "field": "geometry",
+      "stage": "student",
+      "degree": "PhD student · documented 2024",
+      "affiliations": [
+        "PDMI"
+      ],
+      "interests": "Geometric topology, convex surfaces and extensions of Hopf’s theorem.",
+      "notes": "PDMI doctoral fellowship documented in March 2024; a 2025 conference paper confirms PDMI affiliation. This is the topologist I. M. Shirokov.",
+      "statusAsOf": "2024-03-27",
+      "sources": [
+        {
+          "label": "EIMI doctoral fellowship results · March 2024",
+          "url": "https://eimi.ru/news/5835/"
+        },
+        {
+          "label": "Mathematical Centres Conference 2025 · pp. 111–115",
+          "url": "https://kmc.sfu-kras.ru/conf2025/files/sbornik_2025-v0.pdf"
+        }
+      ]
+    },
+    {
+      "id": "danil-bystrov",
+      "name": "Danil Bystrov",
+      "nameRu": "Данил Владимирович Быстров",
+      "field": "analysis",
+      "stage": "student",
+      "degree": "Doctoral entrant · 2025",
+      "affiliations": [
+        "PDMI"
+      ],
+      "interests": "Nonlinear partial differential equations and boundary value problems.",
+      "notes": "Selected for the EIMI fellowship for students entering doctoral study in 2025, with a PDMI research appointment. Status is dated to that announcement.",
+      "statusAsOf": "2025-09-18",
+      "sources": [
+        {
+          "label": "EIMI doctoral entrants · September 2025",
+          "url": "https://eimi.ru/news/5902/"
+        },
+        {
+          "label": "Robin problem for quasilinear equations · SPbSU publication record",
+          "url": "https://pureportal.spbu.ru/ru/publications/---------(3ecf5682-4ddc-47dd-bcf8-76060f5e5823)/export.html"
+        }
+      ]
+    },
+    {
+      "id": "petr-mishura",
+      "name": "Petr Mishura",
+      "nameRu": "Петр Степанович Мишура",
+      "field": "discrete",
+      "stage": "student",
+      "degree": "Doctoral entrant · 2025",
+      "affiliations": [
+        "PDMI"
+      ],
+      "interests": "Graph colourings and probabilistic methods in combinatorics.",
+      "notes": "Selected for the EIMI fellowship for students entering doctoral study in 2025, with a PDMI research appointment. Status is dated to that announcement.",
+      "statusAsOf": "2025-09-18",
+      "sources": [
+        {
+          "label": "EIMI doctoral entrants · September 2025",
+          "url": "https://eimi.ru/news/5902/"
+        },
+        {
+          "label": "Graph colouring research talk · 2024",
+          "url": "https://www.mathnet.ru/php/seminars.phtml?option_lang=rus&presentid=42298"
+        }
+      ]
+    },
+    {
+      "id": "matvey-sushkov",
+      "name": "Matvey Sushkov",
+      "nameRu": "Матвей Станиславович Сушков",
+      "field": "probability",
+      "stage": "student",
+      "degree": "Doctoral entrant · 2025",
+      "affiliations": [
+        "PDMI"
+      ],
+      "interests": "Random Young diagrams, random matrix ensembles and representation theory.",
+      "notes": "Selected for the EIMI fellowship for students entering doctoral study in 2025, with a PDMI research appointment. Status is dated to that announcement.",
+      "statusAsOf": "2025-09-18",
+      "sources": [
+        {
+          "label": "EIMI doctoral entrants · September 2025",
+          "url": "https://eimi.ru/news/5902/"
+        },
+        {
+          "label": "Random Young diagrams and Jacobi unitary ensemble · SPbSU",
+          "url": "https://pureportal.spbu.ru/en/publications/random-young-diagrams-and-jacobi-unitary-ensemble(28b07281-4664-47e5-ad5b-c0f71f76f612)/export.html"
+        }
+      ]
+    },
+    {
+      "id": "yakov-zhukov",
+      "name": "Yakov Zhukov",
+      "nameRu": "Яков Валерьевич Жуков",
+      "field": "discrete",
+      "stage": "student",
+      "degree": "Doctoral entrant · 2025",
+      "affiliations": [
+        "PDMI"
+      ],
+      "interests": "Game theory, coalition formation and discrete optimization.",
+      "notes": "Selected for the EIMI fellowship for students entering doctoral study in 2025, with a PDMI research appointment. Status is dated to that announcement. Also works in the HSE Game Theory and Decision Making Laboratory.",
+      "statusAsOf": "2025-09-18",
+      "sources": [
+        {
+          "label": "EIMI doctoral entrants · September 2025",
+          "url": "https://eimi.ru/news/5902/"
+        },
+        {
+          "label": "HSE academic profile · mathematical research and publications",
+          "url": "https://www.hse.ru/org/persons/766588937/"
+        }
+      ]
+    },
+    {
+      "id": "vladimir-polyakov",
+      "name": "Vladimir Polyakov",
+      "nameRu": "Владимир Михайлович Поляков",
+      "field": "algebra",
+      "stage": "student",
+      "degree": "Candidate thesis pending · 2026",
+      "affiliations": [
+        "PDMI"
+      ],
+      "interests": "Arithmetic geometry and vector bundles on the arithmetic projective line.",
+      "notes": "Candidate thesis accepted for defence on 16 September 2026; it has not yet been defended as of 10 September 2026.",
+      "statusAsOf": "2026-09-10",
+      "sources": [
+        {
+          "label": "EIMI research appointment results · October 2025",
+          "url": "https://eimi.ru/news/5905/"
+        },
+        {
+          "label": "PDMI Candidate thesis · defence scheduled 16 September 2026",
+          "url": "https://www.pdmi.ras.ru/pdmi/dissertatiton/2026-09-16t000000-%D0%BF%D0%BE%D0%BB%D1%8F%D0%BA%D0%BE%D0%B2-%D0%B2%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80-%D0%BC%D0%B8%D1%85%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2%D0%B8%D1%87"
+        },
+        {
+          "label": "Vector bundles · 2024 paper and doctoral affiliation",
+          "url": "https://journal.imm.uran.ru/2024-v.30-1-pp.156-169"
+        }
+      ]
+    },
+    {
+      "id": "tatiana-moseeva",
+      "name": "Tatiana Moseeva",
+      "nameRu": "Татьяна Дмитриевна Мосеева",
+      "field": "probability",
+      "stage": "established",
+      "degree": "Candidate thesis defended · 2026",
+      "affiliations": [
+        "PDMI",
+        "SPbSU MCS"
+      ],
+      "interests": "Random polytopes, sections of convex bodies and stochastic geometry.",
+      "notes": "Successful Candidate of Sciences defence recorded by the PDMI dissertation council on 2026-08-31.",
+      "statusAsOf": "2026-08-31",
+      "sources": [
+        {
+          "label": "PDMI Candidate thesis · defence results and supervisor",
+          "url": "https://www.pdmi.ras.ru/pdmi/dissertatiton/2026-08-31t000000-%D0%BC%D0%BE%D1%81%D0%B5%D0%B5%D0%B2%D0%B0-%D1%82%D0%B0%D1%82%D1%8C%D1%8F%D0%BD%D0%B0-%D0%B4%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B5%D0%B2%D0%BD%D0%B0"
+        },
+        {
+          "label": "EIMI doctoral fellowship results · June 2025",
+          "url": "https://eimi.ru/news/5885/"
+        },
+        {
+          "label": "MCS · successful Candidate defence",
+          "url": "https://math-cs.spbu.ru/news/uspeshnaya-zashhita-kandidatskoj-dissertatsii-4/"
+        }
+      ]
+    },
+    {
+      "id": "pavel-gubkin",
+      "name": "Pavel Gubkin",
+      "nameRu": "Павел Васильевич Губкин",
+      "field": "analysis",
+      "stage": "established",
+      "degree": "Candidate thesis defended · 2026",
+      "affiliations": [
+        "PDMI"
+      ],
+      "interests": "Spectral theory of Dirac operators and Krein systems.",
+      "notes": "Successful Candidate of Sciences defence recorded by the PDMI dissertation council on 2026-02-26.",
+      "statusAsOf": "2026-02-26",
+      "sources": [
+        {
+          "label": "PDMI Candidate thesis · defence results and supervisor",
+          "url": "https://www.pdmi.ras.ru/pdmi/dissertatiton/2026-02-26t000000-%D0%B3%D1%83%D0%B1%D0%BA%D0%B8%D0%BD-%D0%BF%D0%B0%D0%B2%D0%B5%D0%BB-%D0%B2%D0%B0%D1%81%D0%B8%D0%BB%D1%8C%D0%B5%D0%B2%D0%B8%D1%87"
+        },
+        {
+          "label": "EIMI doctoral fellowship results · June 2025",
+          "url": "https://eimi.ru/news/5885/"
+        },
+        {
+          "label": "PDMI young researchers competition · verified supervisors",
+          "url": "https://www.pdmi.ras.ru/pdmi/%D0%BA%D0%BE%D0%BD%D0%BA%D1%83%D1%80%D1%81-%D0%BC%D0%BE%D0%BB%D0%BE%D0%B4%D1%8B%D1%85-%D1%83%D1%87%D0%B5%D0%BD%D1%8B%D1%85"
+        }
+      ]
+    },
+    {
+      "id": "andrey-lyulintsev",
+      "name": "Andrey Lyulintsev",
+      "nameRu": "Андрей Валерьевич Люлинцев",
+      "field": "probability",
+      "stage": "established",
+      "degree": "Candidate thesis defended · 2025",
+      "affiliations": [
+        "PDMI"
+      ],
+      "interests": "Branching random walks and Jacobi branching processes.",
+      "notes": "Successful Candidate of Sciences defence recorded by the PDMI dissertation council on 2025-09-22.",
+      "statusAsOf": "2025-09-22",
+      "sources": [
+        {
+          "label": "PDMI Candidate thesis · defence results and supervisor",
+          "url": "https://www.pdmi.ras.ru/pdmi/dissertatiton/2025-09-22t000000-%D0%BB%D1%8E%D0%BB%D0%B8%D0%BD%D1%86%D0%B5%D0%B2-%D0%B0%D0%BD%D0%B4%D1%80%D0%B5%D0%B9-%D0%B2%D0%B0%D0%BB%D0%B5%D1%80%D1%8C%D0%B5%D0%B2%D0%B8%D1%87"
+        },
+        {
+          "label": "EIMI research appointment results · October 2025",
+          "url": "https://eimi.ru/news/5905/"
+        }
+      ]
+    },
+    {
+      "id": "ekaterina-simarova",
+      "name": "Ekaterina Simarova",
+      "nameRu": "Екатерина Николаевна Симарова",
+      "field": "probability",
+      "stage": "established",
+      "degree": "Candidate thesis defended · 2024",
+      "affiliations": [
+        "PDMI"
+      ],
+      "interests": "Extreme-value statistics and limit theorems.",
+      "notes": "Successful Candidate of Sciences defence recorded by the PDMI dissertation council on 2024-04-22.",
+      "statusAsOf": "2024-04-22",
+      "sources": [
+        {
+          "label": "PDMI Candidate thesis · defence results and supervisor",
+          "url": "https://www.pdmi.ras.ru/pdmi/dissertatiton/2024-04-22t000000-%D1%81%D0%B8%D0%BC%D0%B0%D1%80%D0%BE%D0%B2%D0%B0-%D0%B5%D0%BA%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D0%B0-%D0%BD%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B5%D0%B2%D0%BD%D0%B0"
+        },
+        {
+          "label": "EIMI research appointment results · October 2025",
+          "url": "https://eimi.ru/news/5905/"
+        }
+      ]
+    },
+    {
+      "id": "ekaterina-zlobina",
+      "name": "Ekaterina Zlobina",
+      "nameRu": "Екатерина Андреевна Злобина",
+      "field": "physics",
+      "stage": "established",
+      "degree": "Candidate thesis defended · 2024",
+      "affiliations": [
+        "PDMI"
+      ],
+      "interests": "Wave diffraction and high-frequency asymptotics.",
+      "notes": "Successful Candidate of Sciences defence recorded by the PDMI dissertation council on 2024-04-08.",
+      "statusAsOf": "2024-04-08",
+      "sources": [
+        {
+          "label": "PDMI Candidate thesis · defence results and supervisor",
+          "url": "https://www.pdmi.ras.ru/pdmi/dissertatiton/2024-04-08t000000-%D0%B7%D0%BB%D0%BE%D0%B1%D0%B8%D0%BD%D0%B0-%D0%B5%D0%BA%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D0%B0-%D0%B0%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D0%BD%D0%B0"
+        },
+        {
+          "label": "EIMI research appointment results · October 2025",
+          "url": "https://eimi.ru/news/5905/"
+        }
+      ]
+    },
+    {
+      "id": "nikita-belousov",
+      "name": "Nikita Belousov",
+      "nameRu": "Никита Максимович Белоусов",
+      "field": "physics",
+      "stage": "established",
+      "degree": "Candidate thesis defended · 2024",
+      "affiliations": [
+        "PDMI"
+      ],
+      "interests": "Quantum integrable systems and Baxter Q-operators.",
+      "notes": "Successful Candidate of Sciences defence recorded by the PDMI dissertation council on 2024-04-01.",
+      "statusAsOf": "2024-04-01",
+      "sources": [
+        {
+          "label": "PDMI Candidate thesis · defence results and supervisor",
+          "url": "https://www.pdmi.ras.ru/pdmi/dissertatiton/2024-04-01t000000-%D0%B1%D0%B5%D0%BB%D0%BE%D1%83%D1%81%D0%BE%D0%B2-%D0%BD%D0%B8%D0%BA%D0%B8%D1%82%D0%B0-%D0%BC%D0%B0%D0%BA%D1%81%D0%B8%D0%BC%D0%BE%D0%B2%D0%B8%D1%87"
+        },
+        {
+          "label": "PDMI young researchers competition · verified supervisors",
+          "url": "https://www.pdmi.ras.ru/pdmi/%D0%BA%D0%BE%D0%BD%D0%BA%D1%83%D1%80%D1%81-%D0%BC%D0%BE%D0%BB%D0%BE%D0%B4%D1%8B%D1%85-%D1%83%D1%87%D0%B5%D0%BD%D1%8B%D1%85"
+        }
+      ]
+    },
+    {
+      "id": "maxim-nikolaev",
+      "name": "Maxim Nikolaev",
+      "nameRu": "Максим Сергеевич Николаев",
+      "field": "discrete",
+      "stage": "established",
+      "degree": "Candidate thesis defended · 2025",
+      "affiliations": [
+        "PDMI"
+      ],
+      "interests": "String algorithms, approximation algorithms and shortest superstrings.",
+      "notes": "Successful Candidate of Sciences defence recorded by the PDMI dissertation council on 2025-06-25.",
+      "statusAsOf": "2025-06-25",
+      "sources": [
+        {
+          "label": "PDMI Candidate thesis · defence results and supervisor",
+          "url": "https://www.pdmi.ras.ru/pdmi/dissertatiton/2025-06-25t000000-%D0%BD%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B5%D0%B2-%D0%BC%D0%B0%D0%BA%D1%81%D0%B8%D0%BC-%D1%81%D0%B5%D1%80%D0%B3%D0%B5%D0%B5%D0%B2%D0%B8%D1%87"
+        },
+        {
+          "label": "PDMI research staff",
+          "url": "https://www.pdmi.ras.ru/pdmi/researchers"
+        }
+      ]
+    },
+    {
+      "id": "igor-baskov",
+      "name": "Igor Baskov",
+      "nameRu": "Игорь Сергеевич Басков",
+      "field": "algebra",
+      "stage": "researcher",
+      "degree": "Researcher",
+      "affiliations": [
+        "PDMI"
+      ],
+      "interests": "Algebraic de Rham cohomology, deformation theory and noncommutative geometry.",
+      "notes": "PDMI research appointment documented in October 2025. A doctoral degree or continuing doctoral enrolment was not established; 2022 PDMI competition names his research supervisor.",
+      "statusAsOf": "2025-10-08",
+      "sources": [
+        {
+          "label": "EIMI research appointment results · October 2025",
+          "url": "https://eimi.ru/news/5905/"
+        },
+        {
+          "label": "PDMI academic profile",
+          "url": "https://www.pdmi.ras.ru/pdmi/en/node/1137"
+        },
+        {
+          "label": "PDMI young researchers competition · verified supervisors",
+          "url": "https://www.pdmi.ras.ru/pdmi/%D0%BA%D0%BE%D0%BD%D0%BA%D1%83%D1%80%D1%81-%D0%BC%D0%BE%D0%BB%D0%BE%D0%B4%D1%8B%D1%85-%D1%83%D1%87%D0%B5%D0%BD%D1%8B%D1%85"
+        }
+      ]
+    },
+    {
+      "id": "roman-bessonov",
+      "name": "Roman Bessonov",
+      "nameRu": "Роман Викторович Бессонов",
+      "field": "analysis",
+      "stage": "established",
+      "degree": "Candidate of Sciences",
+      "affiliations": [
+        "PDMI"
+      ],
+      "interests": "Spectral theory, complex analysis and wave operators.",
+      "notes": "PDMI mathematical analysis researcher and doctoral supervisor.",
+      "statusAsOf": "2026-09-10",
+      "sources": [
+        {
+          "label": "PDMI research staff",
+          "url": "https://www.pdmi.ras.ru/pdmi/researchers"
+        },
+        {
+          "label": "Math-Net academic profile",
+          "url": "https://www.mathnet.ru/rus/person69627"
+        },
+        {
+          "label": "PDMI publications · 2025",
+          "url": "https://www.pdmi.ras.ru/pdmi/en/publications/2025"
+        }
+      ]
+    },
+    {
+      "id": "alexander-l-smirnov",
+      "name": "Alexander L. Smirnov",
+      "nameRu": "Александр Леонидович Смирнов",
+      "field": "algebra",
+      "stage": "established",
+      "degree": "Doctor of Sciences",
+      "affiliations": [
+        "PDMI"
+      ],
+      "interests": "Algebraic and arithmetic geometry, vector bundles and intersection theory.",
+      "notes": "PDMI leading researcher in algebra and number theory; supervisor of Vladimir Polyakov’s 2026 Candidate thesis.",
+      "statusAsOf": "2026-09-10",
+      "sources": [
+        {
+          "label": "PDMI academic profile",
+          "url": "https://www.pdmi.ras.ru/ru/perso/smirnov.php"
+        },
+        {
+          "label": "PDMI thesis record · active doctoral supervision",
+          "url": "https://www.pdmi.ras.ru/pdmi/dissertatiton/2026-09-16t000000-%D0%BF%D0%BE%D0%BB%D1%8F%D0%BA%D0%BE%D0%B2-%D0%B2%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80-%D0%BC%D0%B8%D1%85%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2%D0%B8%D1%87"
+        }
+      ]
+    },
+    {
+      "id": "alexey-kiselev",
+      "name": "Alexey Kiselev",
+      "nameRu": "Алексей Прохорович Киселев",
+      "field": "physics",
+      "stage": "established",
+      "degree": "Doctor of Sciences",
+      "affiliations": [
+        "PDMI"
+      ],
+      "interests": "Wave propagation, diffraction and asymptotic methods.",
+      "notes": "PDMI researcher and doctoral supervisor in mathematical wave theory.",
+      "statusAsOf": "2026-09-10",
+      "sources": [
+        {
+          "label": "PDMI research staff",
+          "url": "https://www.pdmi.ras.ru/pdmi/researchers"
+        },
+        {
+          "label": "PDMI thesis record · doctoral supervision",
+          "url": "https://www.pdmi.ras.ru/pdmi/dissertatiton/2024-04-08t000000-%D0%B7%D0%BB%D0%BE%D0%B1%D0%B8%D0%BD%D0%B0-%D0%B5%D0%BA%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D0%B0-%D0%B0%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D0%BD%D0%B0"
+        }
+      ]
+    },
+    {
+      "id": "dospolova",
+      "name": "Maria Dospolova",
+      "nameRu": "Мария Каиржановна Досполова",
+      "field": "probability",
+      "affiliations": [
+        "SPbSU MCS",
+        "PDMI"
+      ],
+      "status": "Research engineer · student seminar leader",
+      "degree": "Candidate thesis defended · 2026",
+      "interests": "Intrinsic and mixed volumes of infinite-dimensional convex bodies; stochastic geometry.",
+      "sources": [
+        {
+          "label": "SPbSU MCS profile",
+          "url": "https://math-cs.spbu.ru/people/dospolova-mariya-kairzhanovna/"
+        },
+        {
+          "label": "PDMI defense and positive degree vote",
+          "url": "https://pdmi.ras.ru/pdmi/dissertatiton/2026-02-16t000000-%D0%B4%D0%BE%D1%81%D0%BF%D0%BE%D0%BB%D0%BE%D0%B2%D0%B0-%D0%BC%D0%B0%D1%80%D0%B8%D1%8F-%D0%BA%D0%B0%D0%B8%D1%80%D0%B6%D0%B0%D0%BD%D0%BE%D0%B2%D0%BD%D0%B0"
+        },
+        {
+          "label": "Student seminar in probability and geometry",
+          "url": "https://www.mathnet.ru/rus/conf2739"
+        },
+        {
+          "label": "PDMI Candidate thesis · successful defence",
+          "url": "https://www.pdmi.ras.ru/pdmi/dissertatiton/2026-02-16t000000-%D0%B4%D0%BE%D1%81%D0%BF%D0%BE%D0%BB%D0%BE%D0%B2%D0%B0-%D0%BC%D0%B0%D1%80%D0%B8%D1%8F-%D0%BA%D0%B0%D0%B8%D1%80%D0%B6%D0%B0%D0%BD%D0%BE%D0%B2%D0%BD%D0%B0"
+        }
+      ],
+      "historical": false,
+      "notes": "Successful Candidate of Sciences defence recorded by the PDMI dissertation council on 2026-02-16.",
+      "stage": "established",
+      "statusAsOf": "2026-02-16"
+    },
+    {
+      "id": "antonenko",
+      "name": "Pavel Antonenko",
+      "nameRu": "Павел Владимирович Антоненко",
+      "field": "physics",
+      "degree": "Candidate thesis defended · 2026",
+      "affiliations": [
+        "PDMI"
+      ],
+      "interests": "Quantum integrable systems, representation theory and quantum groups.",
+      "sources": [
+        {
+          "title": "PDMI profile",
+          "url": "https://www.pdmi.ras.ru/pdmi/staff/павел-владимирович-антоненко-0"
+        },
+        {
+          "title": "Successful candidate defense, 15 June 2026",
+          "url": "https://www.pdmi.ras.ru/pdmi/en/node/1360"
+        },
+        {
+          "label": "PDMI Candidate thesis · successful defence",
+          "url": "https://www.pdmi.ras.ru/pdmi/dissertatiton/2026-06-15t000000-%D0%B0%D0%BD%D1%82%D0%BE%D0%BD%D0%B5%D0%BD%D0%BA%D0%BE-%D0%BF%D0%B0%D0%B2%D0%B5%D0%BB-%D0%B2%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B8%D1%87"
+        }
+      ],
+      "note": "Council unanimously voted for the Candidate degree on 15 June 2026; administrative degree award not separately checked.",
+      "stage": "established",
+      "statusAsOf": "2026-06-15",
+      "notes": "Successful Candidate of Sciences defence recorded by the PDMI dissertation council on 2026-06-15."
+    },
+    {
+      "id": "sergey-e-nikitin",
+      "name": "Sergey E. Nikitin",
+      "nameRu": "Сергей Евгеньевич Никитин",
+      "field": "probability",
+      "stage": "student",
+      "degree": "Doctoral entrant · 2025",
+      "affiliations": [
+        "PDMI"
+      ],
+      "interests": "Wiener processes, stochastic approximation and energy minimization.",
+      "notes": "Selected for the EIMI fellowship for students entering doctoral study in 2025, with a PDMI research appointment. Full name and research field are confirmed by Math-Net.",
+      "statusAsOf": "2025-09-18",
+      "sources": [
+        {
+          "label": "EIMI doctoral entrants · September 2025",
+          "url": "https://eimi.ru/news/5902/"
+        },
+        {
+          "label": "Math-Net · full academic name and publications",
+          "url": "https://www.mathnet.ru/rus/person192143"
+        },
+        {
+          "label": "Energy saving approximation of Wiener process · 2024",
+          "url": "https://www.mathnet.ru/rus/tvp5664"
+        }
+      ]
+    },
+    {
+      "id": "ilya-gushchin",
+      "name": "Ilya Gushchin",
+      "nameRu": "Илья Олегович Гущин",
+      "field": "analysis",
+      "stage": "student",
+      "degree": "Doctoral entrant · 2025",
+      "affiliations": [
+        "PDMI"
+      ],
+      "interests": "Functional analysis, operator averaging and spaces of smooth functions.",
+      "notes": "Selected for the EIMI fellowship for students entering doctoral study in 2025, with a PDMI research appointment. Full name and research field also appear in the August 2025 Mathematical Centres Conference programme.",
+      "statusAsOf": "2025-09-18",
+      "sources": [
+        {
+          "label": "EIMI doctoral entrants · September 2025",
+          "url": "https://eimi.ru/news/5902/"
+        },
+        {
+          "label": "Mathematical Centres Conference · 2025 programme, p. 16",
+          "url": "https://pureportal.spbu.ru/files/141514997/V_ConfMC.pdf"
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "source": "zaporozhets",
+      "target": "alexander-tokmachev",
+      "type": "doctoral",
+      "label": "Doctoral supervisor",
+      "year": 2024,
+      "sources": [
+        {
+          "label": "PDMI young researchers competition · verified supervisors",
+          "url": "https://www.pdmi.ras.ru/pdmi/%D0%BA%D0%BE%D0%BD%D0%BA%D1%83%D1%80%D1%81-%D0%BC%D0%BE%D0%BB%D0%BE%D0%B4%D1%8B%D1%85-%D1%83%D1%87%D0%B5%D0%BD%D1%8B%D1%85"
+        }
+      ]
+    },
+    {
+      "source": "alexander-l-smirnov",
+      "target": "vladimir-polyakov",
+      "type": "doctoral",
+      "label": "Doctoral supervisor",
+      "year": 2026,
+      "sources": [
+        {
+          "label": "PDMI thesis record · named supervisor",
+          "url": "https://www.pdmi.ras.ru/pdmi/dissertatiton/2026-09-16t000000-%D0%BF%D0%BE%D0%BB%D1%8F%D0%BA%D0%BE%D0%B2-%D0%B2%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80-%D0%BC%D0%B8%D1%85%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2%D0%B8%D1%87"
+        }
+      ]
+    },
+    {
+      "source": "zaporozhets",
+      "target": "tatiana-moseeva",
+      "type": "doctoral",
+      "label": "Doctoral supervisor",
+      "year": 2026,
+      "sources": [
+        {
+          "label": "PDMI Candidate thesis · defence results and supervisor",
+          "url": "https://www.pdmi.ras.ru/pdmi/dissertatiton/2026-08-31t000000-%D0%BC%D0%BE%D1%81%D0%B5%D0%B5%D0%B2%D0%B0-%D1%82%D0%B0%D1%82%D1%8C%D1%8F%D0%BD%D0%B0-%D0%B4%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B5%D0%B2%D0%BD%D0%B0"
+        }
+      ]
+    },
+    {
+      "source": "roman-bessonov",
+      "target": "pavel-gubkin",
+      "type": "doctoral",
+      "label": "Doctoral supervisor",
+      "year": 2026,
+      "sources": [
+        {
+          "label": "PDMI Candidate thesis · defence results and supervisor",
+          "url": "https://www.pdmi.ras.ru/pdmi/dissertatiton/2026-02-26t000000-%D0%B3%D1%83%D0%B1%D0%BA%D0%B8%D0%BD-%D0%BF%D0%B0%D0%B2%D0%B5%D0%BB-%D0%B2%D0%B0%D1%81%D0%B8%D0%BB%D1%8C%D0%B5%D0%B2%D0%B8%D1%87"
+        }
+      ]
+    },
+    {
+      "source": "smorodina",
+      "target": "andrey-lyulintsev",
+      "type": "doctoral",
+      "label": "Doctoral supervisor",
+      "year": 2025,
+      "sources": [
+        {
+          "label": "PDMI Candidate thesis · defence results and supervisor",
+          "url": "https://www.pdmi.ras.ru/pdmi/dissertatiton/2025-09-22t000000-%D0%BB%D1%8E%D0%BB%D0%B8%D0%BD%D1%86%D0%B5%D0%B2-%D0%B0%D0%BD%D0%B4%D1%80%D0%B5%D0%B9-%D0%B2%D0%B0%D0%BB%D0%B5%D1%80%D1%8C%D0%B5%D0%B2%D0%B8%D1%87"
+        }
+      ]
+    },
+    {
+      "source": "zaporozhets",
+      "target": "ekaterina-simarova",
+      "type": "doctoral",
+      "label": "Doctoral supervisor",
+      "year": 2024,
+      "sources": [
+        {
+          "label": "PDMI Candidate thesis · defence results and supervisor",
+          "url": "https://www.pdmi.ras.ru/pdmi/dissertatiton/2024-04-22t000000-%D1%81%D0%B8%D0%BC%D0%B0%D1%80%D0%BE%D0%B2%D0%B0-%D0%B5%D0%BA%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D0%B0-%D0%BD%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B5%D0%B2%D0%BD%D0%B0"
+        }
+      ]
+    },
+    {
+      "source": "alexey-kiselev",
+      "target": "ekaterina-zlobina",
+      "type": "doctoral",
+      "label": "Doctoral supervisor",
+      "year": 2024,
+      "sources": [
+        {
+          "label": "PDMI Candidate thesis · defence results and supervisor",
+          "url": "https://www.pdmi.ras.ru/pdmi/dissertatiton/2024-04-08t000000-%D0%B7%D0%BB%D0%BE%D0%B1%D0%B8%D0%BD%D0%B0-%D0%B5%D0%BA%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D0%B0-%D0%B0%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D0%BD%D0%B0"
+        }
+      ]
+    },
+    {
+      "source": "derkachov",
+      "target": "nikita-belousov",
+      "type": "doctoral",
+      "label": "Doctoral supervisor",
+      "year": 2024,
+      "sources": [
+        {
+          "label": "PDMI Candidate thesis · defence results and supervisor",
+          "url": "https://www.pdmi.ras.ru/pdmi/dissertatiton/2024-04-01t000000-%D0%B1%D0%B5%D0%BB%D0%BE%D1%83%D1%81%D0%BE%D0%B2-%D0%BD%D0%B8%D0%BA%D0%B8%D1%82%D0%B0-%D0%BC%D0%B0%D0%BA%D1%81%D0%B8%D0%BC%D0%BE%D0%B2%D0%B8%D1%87"
+        }
+      ]
+    },
+    {
+      "source": "kulikov",
+      "target": "maxim-nikolaev",
+      "type": "doctoral",
+      "label": "Doctoral supervisor",
+      "year": 2025,
+      "sources": [
+        {
+          "label": "PDMI Candidate thesis · defence results and supervisor",
+          "url": "https://www.pdmi.ras.ru/pdmi/dissertatiton/2025-06-25t000000-%D0%BD%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B5%D0%B2-%D0%BC%D0%B0%D0%BA%D1%81%D0%B8%D0%BC-%D1%81%D0%B5%D1%80%D0%B3%D0%B5%D0%B5%D0%B2%D0%B8%D1%87"
+        }
+      ]
+    },
+    {
+      "source": "semen-podkorytov",
+      "target": "igor-baskov",
+      "type": "research",
+      "label": "Research supervisor",
+      "year": 2022,
+      "sources": [
+        {
+          "label": "PDMI young researchers competition · verified supervisors",
+          "url": "https://www.pdmi.ras.ru/pdmi/%D0%BA%D0%BE%D0%BD%D0%BA%D1%83%D1%80%D1%81-%D0%BC%D0%BE%D0%BB%D0%BE%D0%B4%D1%8B%D1%85-%D1%83%D1%87%D0%B5%D0%BD%D1%8B%D1%85"
+        }
+      ]
+    }
+  ],
+  "researchNotes": "Status comes from dated 2024/2025 doctoral fellowship results or individual university profiles. Successful defences through 10 September 2026 are marked separately. Coauthorship alone has not been turned into supervision edges."
+}

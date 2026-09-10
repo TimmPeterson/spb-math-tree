@@ -1,0 +1,490 @@
+{
+  "people": [
+    {
+      "id": "tatiana-suslina",
+      "name": "Tatiana Suslina",
+      "nameRu": "Татьяна Александровна Суслина",
+      "field": "analysis",
+      "stage": "established",
+      "degree": "Doctor of Sciences",
+      "affiliations": [
+        "SPbSU Physics"
+      ],
+      "affiliationShort": "SPbSU Physics",
+      "interests": "Spectral theory, periodic differential operators and homogenization.",
+      "sources": [
+        {
+          "label": "PDMI academic profile",
+          "url": "https://pdmi.ras.ru/pdmi/staff/%D1%82%D0%B0%D1%82%D1%8C%D1%8F%D0%BD%D0%B0-%D0%B0%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B2%D0%BD%D0%B0-%D1%81%D1%83%D1%81%D0%BB%D0%B8%D0%BD%D0%B0"
+        },
+        {
+          "label": "SPbSU faculty profile",
+          "url": "https://pureportal.spbu.ru/ru/persons/--(d654a1c2-c100-431e-b7ed-69d3d20cf68e).html"
+        }
+      ],
+      "notes": "SPbSU professor and documented research supervisor of Arseny Mishulovich; PDMI profile also lists her doctorate."
+    },
+    {
+      "id": "vladimir-kapustin",
+      "name": "Vladimir Kapustin",
+      "nameRu": "Владимир Владимирович Капустин",
+      "field": "analysis",
+      "stage": "established",
+      "degree": "Doctor of Sciences · 2013",
+      "affiliations": [
+        "PDMI"
+      ],
+      "affiliationShort": "PDMI",
+      "interests": "Operator theory, Cauchy-type integrals, Clark measures and complex analysis.",
+      "sources": [
+        {
+          "label": "PDMI researcher profile",
+          "url": "https://pdmi.ras.ru/pdmi/staff/%D0%B2%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80-%D0%B2%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B8%D1%87-%D0%BA%D0%B0%D0%BF%D1%83%D1%81%D1%82%D0%B8%D0%BD"
+        },
+        {
+          "label": "PDMI Doctor of Sciences thesis record",
+          "url": "https://www.pdmi.ras.ru/pdmi/en/dissertatiton/2013-11-18-%D0%BA%D0%B0%D0%BF%D1%83%D1%81%D1%82%D0%B8%D0%BD-%D0%B2%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80-%D0%B2%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B8%D1%87"
+        }
+      ]
+    },
+    {
+      "id": "yakov-nikitin",
+      "name": "Yakov Nikitin",
+      "nameRu": "Яков Юрьевич Никитин",
+      "field": "probability",
+      "stage": "historical",
+      "degree": "Doctor of Sciences · 1988",
+      "affiliations": [
+        "SPbSU · historical"
+      ],
+      "affiliationShort": "SPbSU · historical",
+      "interests": "Asymptotic statistics, large deviations and efficiency of statistical tests.",
+      "sources": [
+        {
+          "label": "St Petersburg Mathematical Society memorial",
+          "url": "https://mathsoc.spb.ru/pers/nikitin/"
+        },
+        {
+          "label": "Math-Net academic biography",
+          "url": "https://www.mathnet.ru/eng/person17465"
+        }
+      ],
+      "contextOnly": true,
+      "notes": "1947–2020. Included as Ekaterina Simarova’s documented specialist thesis supervisor."
+    },
+    {
+      "id": "yakov-sinai",
+      "name": "Yakov Sinai",
+      "nameRu": "Яков Григорьевич Синай",
+      "field": "probability",
+      "stage": "established",
+      "degree": "PhD · 1960",
+      "affiliations": [
+        "Princeton University"
+      ],
+      "affiliationShort": "Princeton University",
+      "interests": "Ergodic theory, dynamical systems and mathematical physics.",
+      "sources": [
+        {
+          "label": "Princeton faculty profile",
+          "url": "https://www.math.princeton.edu/people/yakov-sinai"
+        },
+        {
+          "label": "Princeton academic biography",
+          "url": "https://faculty.princeton.edu/people/yakov-sinai"
+        }
+      ],
+      "contextOnly": true,
+      "notes": "Princeton professor emeritus. Included as Alexander Bufetov’s documented PhD supervisor; no current St Petersburg appointment is claimed."
+    },
+    {
+      "id": "roman-bessonov",
+      "name": "Roman Bessonov",
+      "nameRu": "Роман Викторович Бессонов",
+      "field": "analysis",
+      "stage": "established",
+      "degree": "Candidate of Sciences",
+      "affiliations": [
+        "University of Ljubljana"
+      ],
+      "interests": "Spectral theory, complex analysis and wave operators.",
+      "notes": "Own academic CV lists PDMI employment 2014–2025 and SPbSU employment 2018–2024; now associate professor at the University of Ljubljana. Included for his documented St Petersburg supervision lineage.",
+      "statusAsOf": "2026-09-10",
+      "sources": [
+        {
+          "label": "PDMI research staff",
+          "url": "https://www.pdmi.ras.ru/pdmi/researchers"
+        },
+        {
+          "label": "Math-Net academic profile",
+          "url": "https://www.mathnet.ru/rus/person69627"
+        },
+        {
+          "label": "PDMI publications · 2025",
+          "url": "https://www.pdmi.ras.ru/pdmi/en/publications/2025"
+        },
+        {
+          "label": "Own homepage · employment, education and students",
+          "url": "https://romanbessonov.github.io/"
+        }
+      ],
+      "affiliationShort": "Ljubljana · former PDMI / MCS",
+      "contextOnly": true
+    },
+    {
+      "id": "oleg-zayats",
+      "name": "Oleg Zayats",
+      "nameRu": "Олег Иванович Заяц",
+      "field": "probability",
+      "stage": "established",
+      "degree": "Candidate of Sciences · 1995",
+      "affiliations": [
+        "Peter the Great St Petersburg Polytechnic University"
+      ],
+      "affiliationShort": "SPbPU",
+      "contextOnly": true,
+      "interests": "Stochastic systems, random oscillations, queueing theory and statistical estimation.",
+      "notes": "Included as Mikhail Tunik’s documented Bachelor’s and Master’s thesis supervisor.",
+      "sources": [
+        {
+          "label": "SPbPU journal author profile and stochastic-systems publication",
+          "url": "https://physmath.spbstu.ru/author/3281/"
+        },
+        {
+          "label": "Russian State Library · Candidate thesis catalog record",
+          "url": "https://search.rsl.ru/ru/record/01000110095"
+        }
+      ]
+    },
+    {
+      "id": "mikhail-tunik",
+      "name": "Mikhail Tunik",
+      "nameRu": "Михаил Юрьевич Туник",
+      "field": "probability",
+      "stage": "researcher",
+      "status": "MCS researcher",
+      "degree": "MSc in applied mathematics · 2019",
+      "affiliations": [
+        "SPbSU MCS"
+      ],
+      "interests": "Probability theory and mathematical statistics.",
+      "notes": "Current MCS research engineer. Own faculty profile confirms SPbPU Bachelor’s degree in 2017 and Master’s degree in 2019; doctoral enrolment or an awarded research degree is not established.",
+      "statusAsOf": "2026-09-10",
+      "sources": [
+        {
+          "label": "MCS faculty directory profile",
+          "url": "https://math-cs.spbu.ru/people/tunik-m-y/"
+        },
+        {
+          "label": "SPbPU Master’s thesis record · supervisor and degree",
+          "url": "https://elib.spbstu.ru/dl/3/2019/vr/vr19-1947.pdf/info"
+        }
+      ],
+      "historical": false
+    }
+  ],
+  "links": [
+    {
+      "source": "stolyarov",
+      "target": "nikita-dobronravov",
+      "type": "research",
+      "label": "Master’s thesis supervisor",
+      "year": 2023,
+      "sources": [
+        {
+          "label": "SPbSU bachelor’s thesis · title page, 2021",
+          "url": "https://dspace.spbu.ru/handle/11701/30469"
+        },
+        {
+          "label": "SPbSU master’s thesis · title page, 2023",
+          "url": "https://dspace.spbu.ru/handle/11701/41894"
+        },
+        {
+          "label": "Research paper · explicit scientific supervisor acknowledgement, 2022",
+          "url": "https://arxiv.org/pdf/2204.10441"
+        }
+      ],
+      "notes": "Supervisor verified on the thesis title page. This establishes supervision at the named degree level; doctoral supervision is not inferred."
+    },
+    {
+      "source": "stolyarov",
+      "target": "egor-dobronravov",
+      "type": "research",
+      "label": "Master’s thesis supervisor",
+      "year": 2023,
+      "sources": [
+        {
+          "label": "SPbSU bachelor’s thesis · title page, 2021",
+          "url": "https://dspace.spbu.ru/handle/11701/30402"
+        },
+        {
+          "label": "SPbSU master’s thesis · title page, 2023",
+          "url": "https://dspace.spbu.ru/handle/11701/41870"
+        },
+        {
+          "label": "Research paper · explicit scientific supervisor acknowledgement, 2026",
+          "url": "https://arxiv.org/pdf/2608.08783"
+        }
+      ],
+      "notes": "Supervisor verified on the thesis title page. This establishes supervision at the named degree level; doctoral supervision is not inferred."
+    },
+    {
+      "source": "tatiana-suslina",
+      "target": "arseny-mishulovich",
+      "type": "research",
+      "label": "Master’s thesis supervisor",
+      "year": 2023,
+      "sources": [
+        {
+          "label": "SPbSU master’s thesis · title page, 2023",
+          "url": "https://dspace.spbu.ru/handle/11701/42666"
+        },
+        {
+          "label": "Research paper · explicit scientific supervisor acknowledgement, 2022",
+          "url": "https://ftp.pdmi.ras.ru/pub/publicat/znsl/v516/p135.pdf"
+        }
+      ],
+      "notes": "Supervisor verified on the thesis title page. This establishes supervision at the named degree level; doctoral supervision is not inferred."
+    },
+    {
+      "source": "lifshits",
+      "target": "viktor-khamzin",
+      "type": "research",
+      "label": "Bachelor’s thesis supervisor",
+      "year": 2024,
+      "sources": [
+        {
+          "label": "SPbSU bachelor’s thesis · title page, 2024",
+          "url": "https://dspace.spbu.ru/handle/11701/46176"
+        }
+      ],
+      "notes": "Supervisor verified on the thesis title page. This establishes supervision at the named degree level; doctoral supervision is not inferred."
+    },
+    {
+      "source": "lifshits",
+      "target": "arman-tadevosyan",
+      "type": "research",
+      "label": "Master’s thesis supervisor",
+      "year": 2023,
+      "sources": [
+        {
+          "label": "SPbSU master’s thesis · title page, 2023",
+          "url": "https://dspace.spbu.ru/handle/11701/41896"
+        },
+        {
+          "label": "SPbSU bachelor’s thesis · title page, 2021",
+          "url": "https://dspace.spbu.ru/handle/11701/30473"
+        }
+      ],
+      "notes": "Supervisor verified on the thesis title page. This establishes supervision at the named degree level; doctoral supervision is not inferred."
+    },
+    {
+      "source": "vershik",
+      "target": "mikhail-germanskov",
+      "type": "research",
+      "label": "Bachelor’s thesis supervisor",
+      "year": 2022,
+      "sources": [
+        {
+          "label": "SPbSU bachelor’s thesis · title page, 2022",
+          "url": "https://dspace.spbu.ru/handle/11701/40025"
+        }
+      ],
+      "notes": "Supervisor verified on the thesis title page. This establishes supervision at the named degree level; doctoral supervision is not inferred."
+    },
+    {
+      "source": "fedor-petrov",
+      "target": "mikhail-germanskov",
+      "type": "research",
+      "label": "Master’s thesis supervisor",
+      "year": 2024,
+      "sources": [
+        {
+          "label": "SPbSU master’s thesis · title page, 2024",
+          "url": "https://dspace.spbu.ru/handle/11701/45860"
+        }
+      ],
+      "notes": "Supervisor verified on the thesis title page. This establishes supervision at the named degree level; doctoral supervision is not inferred."
+    },
+    {
+      "source": "stolyarov",
+      "target": "mikhail-novikov",
+      "type": "research",
+      "label": "Master’s thesis supervisor",
+      "year": 2023,
+      "sources": [
+        {
+          "label": "SPbSU master’s thesis · title page, 2023",
+          "url": "https://dspace.spbu.ru/handle/11701/41900"
+        },
+        {
+          "label": "SPbSU bachelor’s thesis · title page, 2021",
+          "url": "https://dspace.spbu.ru/handle/11701/30482"
+        }
+      ],
+      "notes": "Supervisor verified on the thesis title page. This establishes supervision at the named degree level; doctoral supervision is not inferred."
+    },
+    {
+      "source": "vsemirnov",
+      "target": "alexander-dorokhin",
+      "type": "research",
+      "label": "Bachelor’s thesis supervisor",
+      "year": 2023,
+      "sources": [
+        {
+          "label": "SPbSU bachelor’s thesis · title page, 2023",
+          "url": "https://dspace.spbu.ru/handle/11701/44660"
+        }
+      ],
+      "notes": "Supervisor verified on the thesis title page. This establishes supervision at the named degree level; doctoral supervision is not inferred."
+    },
+    {
+      "source": "mozolyako",
+      "target": "gleb-yudin",
+      "type": "research",
+      "label": "Bachelor’s thesis supervisor",
+      "year": 2024,
+      "sources": [
+        {
+          "label": "SPbSU bachelor’s thesis · title page, 2024",
+          "url": "https://dspace.spbu.ru/handle/11701/46128"
+        }
+      ],
+      "notes": "Supervisor verified on the thesis title page. This establishes supervision at the named degree level; doctoral supervision is not inferred."
+    },
+    {
+      "source": "stolyarov",
+      "target": "leonid-gorbunov",
+      "type": "research",
+      "label": "Bachelor’s thesis supervisor",
+      "year": 2024,
+      "sources": [
+        {
+          "label": "SPbSU bachelor’s thesis · title page, 2024",
+          "url": "https://dspace.spbu.ru/handle/11701/46201"
+        }
+      ],
+      "notes": "Supervisor verified on the thesis title page. This establishes supervision at the named degree level; doctoral supervision is not inferred."
+    },
+    {
+      "source": "lifshits",
+      "target": "sergey-e-nikitin",
+      "type": "research",
+      "label": "Bachelor’s thesis supervisor",
+      "year": 2023,
+      "sources": [
+        {
+          "label": "SPbSU bachelor’s thesis · title page, 2023",
+          "url": "https://dspace.spbu.ru/handle/11701/42049"
+        }
+      ],
+      "notes": "Supervisor verified on the thesis title page. This establishes supervision at the named degree level; doctoral supervision is not inferred."
+    },
+    {
+      "source": "yakov-nikitin",
+      "target": "ekaterina-simarova",
+      "type": "research",
+      "label": "Specialist thesis supervisor",
+      "year": 2019,
+      "sources": [
+        {
+          "label": "SPbSU specialist thesis · title page, 2019",
+          "url": "https://dspace.spbu.ru/handle/11701/25812"
+        }
+      ],
+      "notes": "Supervisor verified on the thesis title page. This establishes supervision at the named degree level; doctoral supervision is not inferred."
+    },
+    {
+      "source": "pilyugin",
+      "target": "vladimir-shalgin",
+      "type": "doctoral",
+      "label": "Doctoral research supervisor",
+      "year": 2026,
+      "sources": [
+        {
+          "label": "Ministry doctoral scholarship application register · Shalgin row 5691, 17 March 2026",
+          "url": "https://minobrnauki.gov.ru/upload/iblock/b1c/mm45y1ob60j3geu7a9wm106leh3h8n5a.pdf"
+        },
+        {
+          "label": "Ministry doctoral scholarship application register · Shalgin row 4344, 19 March 2025",
+          "url": "https://minobrnauki.gov.ru/upload/iblock/59f/b5xxrsnxpq3br3a4xnvvvmz0biuckwz4.pdf"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "source": "vladimir-kapustin",
+      "target": "roman-bessonov",
+      "type": "doctoral",
+      "label": "Candidate dissertation supervisor",
+      "year": 2013,
+      "sources": [
+        {
+          "label": "Roman Bessonov · own education and supervision record",
+          "url": "https://romanbessonov.github.io/"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "source": "khavin",
+      "target": "roman-bessonov",
+      "type": "research",
+      "label": "Specialist thesis supervisor",
+      "year": 2009,
+      "sources": [
+        {
+          "label": "Roman Bessonov · own education and supervision record",
+          "url": "https://romanbessonov.github.io/"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "source": "yakov-sinai",
+      "target": "alexander-bufetov",
+      "type": "doctoral",
+      "label": "Princeton PhD supervisor",
+      "year": 2005,
+      "sources": [
+        {
+          "label": "Alexander Bufetov · own CV, education section",
+          "url": "https://matematica.unibo.it/it/eventi/spazi-di-funzioni-olomorfe-con-nucleo-riproducente/unibo.tiles.multi.links_attachments/b449c8cb6a9d439eb7272445128894cd/%40%40objects-download/af9692c95b3c4e6c8543a64caf5b8ca4/file/CV-Bufetov-2020.pdf"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "source": "smorodina",
+      "target": "temirlan-abildaev",
+      "type": "research",
+      "label": "Master’s thesis supervisor",
+      "year": 2022,
+      "notes": "Named supervisor verified on the SPbSU master’s thesis title page and supervisor review; doctoral supervision is not inferred.",
+      "sources": [
+        {
+          "label": "SPbSU master’s thesis · title page and supervisor review, 2022",
+          "url": "https://dspace.spbu.ru/handle/11701/39496"
+        }
+      ]
+    },
+    {
+      "source": "oleg-zayats",
+      "target": "mikhail-tunik",
+      "type": "research",
+      "label": "Master’s thesis supervisor",
+      "year": 2019,
+      "notes": "SPbPU’s institutional repository explicitly identifies the supervisor of both the Bachelor’s and Master’s theses. Doctoral supervision is not inferred.",
+      "sources": [
+        {
+          "label": "SPbPU Master’s thesis · explicit supervisor metadata, 2019",
+          "url": "https://elib.spbstu.ru/dl/3/2019/vr/vr19-1947.pdf/info"
+        },
+        {
+          "label": "SPbPU Bachelor’s thesis · explicit supervisor metadata, 2017",
+          "url": "https://elib.spbstu.ru/dl/2/v17-6579.pdf/info"
+        }
+      ]
+    }
+  ]
+}

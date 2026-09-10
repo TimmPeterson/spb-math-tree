@@ -1,0 +1,449 @@
+{
+  "people": [
+    {
+      "id": "maxim-karev",
+      "name": "Maxim Karev",
+      "nameRu": "Максим Владимирович Карев",
+      "field": "geometry",
+      "stage": "established",
+      "degree": "PhD",
+      "affiliations": [
+        "SPbSU (supervisor, 2022)",
+        "PDMI (former affiliation)"
+      ],
+      "interests": "Knot invariants, low-dimensional topology and enumerative geometry.",
+      "notes": "Included as the documented supervisor of Daniil Fomichev’s 2022 mathematics bachelor’s thesis. A 2011 Oberwolfach conference roster identifies him as Dr.; no current appointment is asserted.",
+      "contextOnly": true,
+      "historical": false,
+      "statusAsOf": "2022",
+      "sources": [
+        {
+          "label": "SPbSU researcher profile",
+          "url": "https://pureportal.spbu.ru/ru/persons/--(23b97110-d5a7-4404-8f67-0692aca18c30).html"
+        },
+        {
+          "label": "Fomichev bachelor’s thesis: Karev’s position and supervision",
+          "url": "https://dspace.spbu.ru/handle/11701/40111"
+        },
+        {
+          "label": "Oberwolfach report: Dr. Maxim Karev, University of Geneva · 2011",
+          "url": "https://ems.press/content/serial-article-files/46333?nt=1"
+        },
+        {
+          "label": "PDMI conference participant affiliation · 2019",
+          "url": "https://www.pdmi.ras.ru/EIMI/2019/tgd/list.html"
+        }
+      ]
+    },
+    {
+      "id": "sergei-matveev",
+      "name": "Sergei Matveev",
+      "nameRu": "Сергей Владимирович Матвеев",
+      "field": "geometry",
+      "stage": "established",
+      "degree": "Doctor of Sciences",
+      "affiliations": [
+        "Chelyabinsk State University",
+        "IMM, Ural Branch RAS"
+      ],
+      "interests": "Algorithmic topology of three-dimensional manifolds, knot classification and manifold complexity.",
+      "notes": "External academic ancestor, included as Evgeny Fominykh’s documented Candidate of Sciences supervisor.",
+      "contextOnly": true,
+      "historical": false,
+      "sources": [
+        {
+          "label": "Russian Academy of Sciences: Sergei Matveev",
+          "url": "https://new.ras.ru/staff/akademiki/matveev-sergey-vladimirovich/"
+        },
+        {
+          "label": "Math-Net researcher profile",
+          "url": "https://www.mathnet.ru/person8625"
+        },
+        {
+          "label": "Fominykh’s MCS biography: dissertation supervisor",
+          "url": "https://math-cs.spbu.ru/people/fominykh-e-a/"
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "source": "andrey-malyutin",
+      "target": "vasily-ionin",
+      "type": "research",
+      "label": "Bachelor’s thesis supervisor · 2022",
+      "year": 2022,
+      "notes": "The title page names Andrey Valeryevich Malyutin as scientific supervisor of Ionin’s bachelor’s thesis on braid-group subgroups.",
+      "sources": [
+        {
+          "label": "SPbSU bachelor’s thesis · 2022",
+          "url": "https://dspace.spbu.ru/handle/11701/39770"
+        },
+        {
+          "label": "Thesis title page: author and scientific supervisor",
+          "url": "https://api.dspace.spbu.ru/server/api/core/bitstreams/9c3ab35a-27ea-4ef4-b779-fe2cf1c73bf3/content"
+        }
+      ]
+    },
+    {
+      "source": "victor-petrov",
+      "target": "vasily-ionin",
+      "type": "research",
+      "label": "Master’s thesis supervisor · 2024",
+      "year": 2024,
+      "notes": "The title page names Viktor Alexandrovich Petrov as scientific supervisor; Sergey Olegovich Ivanov is explicitly the reviewer. This is a master’s supervision relationship.",
+      "sources": [
+        {
+          "label": "SPbSU master’s thesis · 2024",
+          "url": "https://dspace.spbu.ru/handle/11701/45803"
+        },
+        {
+          "label": "Thesis title page: author and scientific supervisor",
+          "url": "https://api.dspace.spbu.ru/server/api/core/bitstreams/b7c0ceaa-edb5-4217-bdc6-4899304699f3/content"
+        }
+      ]
+    },
+    {
+      "source": "andrey-malyutin",
+      "target": "ruslan-magdiev",
+      "type": "research",
+      "label": "Bachelor’s thesis supervisor · 2023",
+      "year": 2023,
+      "notes": "Malyutin supervised the bachelor’s thesis on geodesic words, dead ends and the isoperimetric problem in groups.",
+      "sources": [
+        {
+          "label": "SPbSU bachelor’s thesis · 2023",
+          "url": "https://dspace.spbu.ru/handle/11701/42184"
+        },
+        {
+          "label": "Thesis title page: author and scientific supervisor",
+          "url": "https://api.dspace.spbu.ru/server/api/core/bitstreams/c7482628-4b39-4f8c-8315-f1b2b3210ad2/content"
+        }
+      ]
+    },
+    {
+      "source": "fedor-petrov",
+      "target": "vladislav-khramov",
+      "type": "research",
+      "label": "Bachelor’s thesis supervisor · 2024",
+      "year": 2024,
+      "notes": "The thesis title page explicitly names Fedor Vladimirovich Petrov as scientific supervisor of work on sandpile groups of infinite graphs.",
+      "sources": [
+        {
+          "label": "SPbSU bachelor’s thesis · 2024",
+          "url": "https://dspace.spbu.ru/handle/11701/46396"
+        },
+        {
+          "label": "Thesis title page: author and scientific supervisor",
+          "url": "https://api.dspace.spbu.ru/server/api/core/bitstreams/ad7fc831-f55b-4a3d-bc97-870283606758/content"
+        }
+      ]
+    },
+    {
+      "source": "bondarko",
+      "target": "alexander-aizatov",
+      "type": "research",
+      "label": "Bachelor’s and master’s thesis supervisor · 2022, 2024",
+      "year": "2022–2024",
+      "notes": "Both thesis records and title pages identify Mikhail Vladimirovich Bondarko as scientific supervisor of work on triangulated categories.",
+      "sources": [
+        {
+          "label": "SPbSU bachelor’s thesis · 2022",
+          "url": "https://dspace.spbu.ru/handle/11701/39543"
+        },
+        {
+          "label": "Thesis title page: author and scientific supervisor",
+          "url": "https://api.dspace.spbu.ru/server/api/core/bitstreams/f2b50a05-ce91-4c32-b2cb-6038d291fd67/content"
+        },
+        {
+          "label": "SPbSU master’s thesis · 2024",
+          "url": "https://dspace.spbu.ru/handle/11701/45782"
+        },
+        {
+          "label": "Thesis title page: author and scientific supervisor",
+          "url": "https://api.dspace.spbu.ru/server/api/core/bitstreams/8301c85b-d9ec-45e1-9f35-65953a360875/content"
+        }
+      ]
+    },
+    {
+      "source": "maxim-karev",
+      "target": "daniil-fomichev",
+      "type": "research",
+      "label": "Bachelor’s thesis supervisor · 2022",
+      "year": 2022,
+      "notes": "The title page names Maxim Vladimirovich Karev as scientific supervisor of the bachelor’s thesis expressing the J− invariant through a configuration-space integral.",
+      "sources": [
+        {
+          "label": "SPbSU bachelor’s thesis · 2022",
+          "url": "https://dspace.spbu.ru/handle/11701/40111"
+        },
+        {
+          "label": "Thesis title page: author and scientific supervisor",
+          "url": "https://api.dspace.spbu.ru/server/api/core/bitstreams/784986bb-f106-45a9-aeb1-2a78e8912d95/content"
+        }
+      ]
+    },
+    {
+      "source": "evgeny-fominykh",
+      "target": "daniil-fomichev",
+      "type": "research",
+      "label": "Master’s thesis supervisor · 2024",
+      "year": 2024,
+      "notes": "The title page names Evgeny Anatolyevich Fominykh as scientific supervisor of the master’s thesis on a 4-invariant on the Lando algebra.",
+      "sources": [
+        {
+          "label": "SPbSU master’s thesis · 2024",
+          "url": "https://dspace.spbu.ru/handle/11701/45878"
+        },
+        {
+          "label": "Thesis title page: author and scientific supervisor",
+          "url": "https://api.dspace.spbu.ru/server/api/core/bitstreams/f01c9e11-76e3-48a6-b3a4-00eecf17f01e/content"
+        }
+      ]
+    },
+    {
+      "source": "bondarko",
+      "target": "stepan-shamov",
+      "type": "doctoral",
+      "label": "Doctoral research supervisor · 2025",
+      "year": 2025,
+      "notes": "The Ministry’s 19 March 2025 list of accepted applications for full-time doctoral students names Stepan Vladimirovich Shamov and his scientific supervisor Mikhail Vladimirovich Bondarko (row 4350, application SPN.2025.03813). Bondarko also supervised Shamov’s 2022 bachelor’s thesis.",
+      "sources": [
+        {
+          "label": "Ministry of Science and Higher Education: doctoral scholarship applications · 19 March 2025, row 4350",
+          "url": "https://minobrnauki.gov.ru/upload/iblock/59f/b5xxrsnxpq3br3a4xnvvvmz0biuckwz4.pdf"
+        },
+        {
+          "label": "SPbSU bachelor’s thesis · 2022",
+          "url": "https://dspace.spbu.ru/handle/11701/40028"
+        },
+        {
+          "label": "Thesis title page: author and scientific supervisor",
+          "url": "https://api.dspace.spbu.ru/server/api/core/bitstreams/0c9790cc-7335-4eb7-9554-5ff68fe696a9/content"
+        }
+      ]
+    },
+    {
+      "source": "puzynina",
+      "target": "vladimir-schavelev",
+      "type": "research",
+      "label": "Bachelor’s and master’s thesis supervisor · 2022, 2024",
+      "year": "2022–2024",
+      "notes": "Both title pages explicitly name Svetlana Alexandrovna Puzynina as scientific supervisor of work on morphic words.",
+      "sources": [
+        {
+          "label": "SPbSU bachelor’s thesis · 2022",
+          "url": "https://dspace.spbu.ru/handle/11701/40263"
+        },
+        {
+          "label": "Thesis title page: author and scientific supervisor",
+          "url": "https://api.dspace.spbu.ru/server/api/core/bitstreams/2a9e5952-9aca-4787-a5e0-45f001703254/content"
+        },
+        {
+          "label": "SPbSU master’s thesis · 2024",
+          "url": "https://dspace.spbu.ru/handle/11701/45913"
+        },
+        {
+          "label": "Thesis title page: author and scientific supervisor",
+          "url": "https://api.dspace.spbu.ru/server/api/core/bitstreams/fefa33ec-94e9-4006-935d-182407ef2b4d/content"
+        }
+      ]
+    },
+    {
+      "source": "roman-bessonov",
+      "target": "stepan-konenkov",
+      "type": "research",
+      "label": "Bachelor’s thesis supervisor · 2020",
+      "year": 2020,
+      "notes": "The thesis title page and Bessonov’s own list of former students establish bachelor’s supervision, concerning automorphic Hardy classes and logarithmic capacity.",
+      "sources": [
+        {
+          "label": "SPbSU bachelor’s thesis · 2020",
+          "url": "https://dspace.spbu.ru/handle/11701/26767"
+        },
+        {
+          "label": "Thesis title page: author and scientific supervisor",
+          "url": "https://api.dspace.spbu.ru/server/api/core/bitstreams/0768e73b-a88c-4aa1-8441-3cd5ae1374fb/content"
+        },
+        {
+          "label": "Roman Bessonov: former BSc students",
+          "url": "https://romanbessonov.github.io/"
+        }
+      ]
+    },
+    {
+      "source": "mortenson",
+      "target": "stepan-konenkov",
+      "type": "research",
+      "label": "Master’s thesis supervisor · 2022",
+      "year": 2022,
+      "notes": "The thesis title page explicitly names Eric Todd Mortenson as scientific supervisor of work on Hecke-type double sums and q-series.",
+      "sources": [
+        {
+          "label": "SPbSU master’s thesis · 2022",
+          "url": "https://dspace.spbu.ru/handle/11701/41762"
+        },
+        {
+          "label": "Thesis title page: author and scientific supervisor",
+          "url": "https://api.dspace.spbu.ru/server/api/core/bitstreams/c7d7a288-afb3-4775-a9e4-c87b6c7cf9cb/content"
+        }
+      ]
+    },
+    {
+      "source": "andrey-malyutin",
+      "target": "alexey-miller",
+      "type": "research",
+      "label": "Bachelor’s and master’s thesis supervisor · 2020, 2022",
+      "year": "2020–2022",
+      "notes": "Both title pages explicitly name Andrey Valeryevich Malyutin as scientific supervisor. These sources establish undergraduate and master’s supervision; they do not establish a separate doctoral appointment.",
+      "sources": [
+        {
+          "label": "SPbSU bachelor’s thesis · 2020",
+          "url": "https://dspace.spbu.ru/handle/11701/26773"
+        },
+        {
+          "label": "Thesis title page: author and scientific supervisor",
+          "url": "https://api.dspace.spbu.ru/server/api/core/bitstreams/92ebf975-1ce9-424d-aed5-2ac60d1157fb/content"
+        },
+        {
+          "label": "SPbSU master’s thesis · 2022",
+          "url": "https://dspace.spbu.ru/handle/11701/39628"
+        },
+        {
+          "label": "Thesis title page: author and scientific supervisor",
+          "url": "https://api.dspace.spbu.ru/server/api/core/bitstreams/bb5b99bd-45af-4626-93f1-ba71306cd6ed/content"
+        }
+      ]
+    },
+    {
+      "source": "evgeny-fominykh",
+      "target": "daniil-nigomedyanov",
+      "type": "research",
+      "label": "Bachelor’s and master’s thesis supervisor · 2021, 2023",
+      "year": "2021–2023",
+      "notes": "Both title pages explicitly name Evgeny Anatolyevich Fominykh as scientific supervisor of work on triangulations and complexity of hyperbolic three-dimensional manifolds.",
+      "sources": [
+        {
+          "label": "SPbSU bachelor’s thesis · 2021",
+          "url": "https://dspace.spbu.ru/handle/11701/30483"
+        },
+        {
+          "label": "Thesis title page: author and scientific supervisor",
+          "url": "https://api.dspace.spbu.ru/server/api/core/bitstreams/bb625568-c87f-4fe5-a1b3-eabdca67fff9/content"
+        },
+        {
+          "label": "SPbSU master’s thesis · 2023",
+          "url": "https://dspace.spbu.ru/handle/11701/41901"
+        },
+        {
+          "label": "Thesis title page: author and scientific supervisor",
+          "url": "https://api.dspace.spbu.ru/server/api/core/bitstreams/a322023c-2710-4172-9b53-a4847931f6b7/content"
+        }
+      ]
+    },
+    {
+      "source": "sergei-ivanov",
+      "target": "ivan-vorobyov",
+      "type": "research",
+      "label": "Master’s thesis supervisor · 2024",
+      "year": 2024,
+      "notes": "The title page names Sergey Vladimirovich Ivanov as scientific supervisor of the master’s thesis on discrete reconstruction of the Levi-Civita connection; this is distinct from Sergey Olegovich Ivanov.",
+      "sources": [
+        {
+          "label": "SPbSU master’s thesis · 2024",
+          "url": "https://dspace.spbu.ru/handle/11701/46944"
+        },
+        {
+          "label": "Thesis title page: author and scientific supervisor",
+          "url": "https://api.dspace.spbu.ru/server/api/core/bitstreams/2c7a1b69-6483-47c9-b548-05e892e1f56d/content"
+        }
+      ]
+    },
+    {
+      "source": "fedor-petrov",
+      "target": "vsevolod-ivanov",
+      "type": "research",
+      "label": "Bachelor’s thesis supervisor · 2023",
+      "year": 2023,
+      "notes": "The title page names Fedor Vladimirovich Petrov as scientific supervisor of the bachelor’s thesis enumerating lattice paths in linearly bounded regions.",
+      "sources": [
+        {
+          "label": "SPbSU bachelor’s thesis · 2023",
+          "url": "https://dspace.spbu.ru/handle/11701/42209"
+        },
+        {
+          "label": "Thesis title page: author and scientific supervisor",
+          "url": "https://api.dspace.spbu.ru/server/api/core/bitstreams/ff347c43-3d62-4700-a0d5-a129539a40e5/content"
+        }
+      ]
+    },
+    {
+      "source": "evgeny-fominykh",
+      "target": "alexey-krivovichev",
+      "type": "research",
+      "label": "Bachelor’s thesis supervisor · 2023",
+      "year": 2023,
+      "notes": "The title page names Evgeny Anatolyevich Fominykh as scientific supervisor of the bachelor’s thesis on the epsilon invariant of Seifert manifolds.",
+      "sources": [
+        {
+          "label": "SPbSU bachelor’s thesis · 2023",
+          "url": "https://dspace.spbu.ru/handle/11701/42321"
+        },
+        {
+          "label": "Thesis title page: author and scientific supervisor",
+          "url": "https://api.dspace.spbu.ru/server/api/core/bitstreams/0bda96a8-58fb-4bcb-ab73-5bfd959ec8bb/content"
+        }
+      ]
+    },
+    {
+      "source": "stepanov",
+      "target": "kudryakov",
+      "type": "research",
+      "label": "Master’s thesis supervisor · 2024",
+      "year": 2024,
+      "notes": "The title page names Alexei Vladimirovich Stepanov as scientific supervisor of work on subgroups of Chevalley groups over rings; Yakov Nuzhin is explicitly the reviewer.",
+      "sources": [
+        {
+          "label": "SPbSU master’s thesis · 2024",
+          "url": "https://dspace.spbu.ru/handle/11701/45882"
+        },
+        {
+          "label": "Thesis title page: author and scientific supervisor",
+          "url": "https://api.dspace.spbu.ru/server/api/core/bitstreams/a37c4a55-e442-46c8-8270-71cf12ce9269/content"
+        }
+      ]
+    },
+    {
+      "source": "mortenson",
+      "target": "nikolai-borozenets",
+      "type": "research",
+      "label": "Undergraduate research supervisor · 2022",
+      "year": 2022,
+      "notes": "The official MCS report on NIRS-2022 identifies third-year mathematics bachelor’s student Nikolai Borozenets and names Eric Todd Mortenson as supervisor of his work on mock modularity and Andrews–Gordon identities.",
+      "sources": [
+        {
+          "label": "MCS student research competition results · NIRS-2022",
+          "url": "https://math-cs.spbu.ru/news/obyavleny-itogi-konkursa-nauchno-issledovatelskih-rabot-studentov-nirs-2022/"
+        }
+      ]
+    },
+    {
+      "source": "sergei-matveev",
+      "target": "evgeny-fominykh",
+      "type": "doctoral",
+      "label": "Candidate of Sciences supervisor · 2003",
+      "year": 2003,
+      "notes": "Fominykh’s official MCS biography explicitly names Sergey Vladimirovich Matveev as the supervisor of his Candidate of Sciences dissertation, defended in 2003.",
+      "sources": [
+        {
+          "label": "MCS biography: Candidate dissertation and supervisor",
+          "url": "https://math-cs.spbu.ru/people/fominykh-e-a/"
+        },
+        {
+          "label": "Fominykh’s academic CV · September 2018",
+          "url": "https://math-cs.spbu.ru/wp-content/uploads/2018/09/cv-fominykh-09-2018.pdf"
+        }
+      ]
+    }
+  ]
+}

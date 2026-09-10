@@ -1,0 +1,580 @@
+{
+  "checkedAt": "2026-09-10",
+  "scope": "Verified analysis/probability sample centered on SPbSU MCS and PDMI, with historical roots and one explicitly marked overseas alumnus. Not exhaustive; no current doctoral status inferred from employment title.",
+  "people": [
+    {
+      "id": "khavin",
+      "name": "Viktor Khavin",
+      "nameRu": "Виктор Петрович Хавин",
+      "field": "analysis",
+      "affiliations": [
+        "SPbSU · historical"
+      ],
+      "status": "Historical faculty · 1933–2015",
+      "degree": "Doctor of Sciences (1969)",
+      "interests": "Complex and harmonic analysis, Hardy spaces, and uncertainty principles.",
+      "sources": [
+        {
+          "label": "SPbSU memorial article (2016)",
+          "url": "https://www.mathsoc.spb.ru/pers/havin/pamyati-viktora-petrovicha-havina.pdf"
+        },
+        {
+          "label": "Math-Net researcher profile",
+          "url": "https://www.mathnet.ru/rus/person17648"
+        }
+      ],
+      "historical": true,
+      "notes": "MCS was founded after his death. Show as historical SPbSU ancestor, not current MCS faculty. MathNet profile has an obvious inconsistent degree date; memorial is used for degree."
+    },
+    {
+      "id": "nikolski",
+      "name": "Nikolai Nikolski",
+      "nameRu": "Николай Капитонович Никольский",
+      "field": "analysis",
+      "affiliations": [
+        "PDMI · historical",
+        "SPbSU · historical",
+        "Bordeaux"
+      ],
+      "status": "Academic ancestor · former PDMI and SPbSU",
+      "degree": "Doctor of Sciences (1973)",
+      "interests": "Operator theory, Hardy spaces, and complex and harmonic analysis.",
+      "sources": [
+        {
+          "label": "Math-Net researcher profile",
+          "url": "https://m.math-net.ru/php/person.phtml?option_lang=eng&personid=22328"
+        },
+        {
+          "label": "SPbSU memorial article (2016)",
+          "url": "https://www.mathsoc.spb.ru/pers/havin/pamyati-viktora-petrovicha-havina.pdf"
+        }
+      ],
+      "historical": true,
+      "notes": "Historical local affiliation; avoid claiming a current MCS appointment. Memorial explicitly identifies him as Khavin’s first graduate student."
+    },
+    {
+      "id": "baranov",
+      "name": "Anton Baranov",
+      "nameRu": "Антон Дмитриевич Баранов",
+      "field": "analysis",
+      "affiliations": [
+        "SPbSU MCS"
+      ],
+      "status": "Professor · Chebyshev Laboratory head",
+      "degree": "Doctor of Sciences (2011)",
+      "interests": "Complex and harmonic analysis; operator theory and model spaces.",
+      "sources": [
+        {
+          "label": "SPbSU MCS profile",
+          "url": "https://math-cs.spbu.ru/people/baranov-a-d/"
+        }
+      ],
+      "historical": false
+    },
+    {
+      "id": "belov",
+      "name": "Yurii Belov",
+      "nameRu": "Юрий Сергеевич Белов",
+      "field": "analysis",
+      "affiliations": [
+        "SPbSU MCS"
+      ],
+      "status": "Professor · deputy dean",
+      "degree": "Doctor of Sciences (2016)",
+      "interests": "Entire functions, reproducing kernels, Gabor analysis, and spectral synthesis.",
+      "sources": [
+        {
+          "label": "SPbSU MCS profile",
+          "url": "https://math-cs.spbu.ru/people/belov-yu-s/"
+        }
+      ],
+      "historical": false
+    },
+    {
+      "id": "mozolyako",
+      "name": "Pavel Mozolyako",
+      "nameRu": "Павел Александрович Мозоляко",
+      "field": "analysis",
+      "affiliations": [
+        "SPbSU MCS"
+      ],
+      "status": "Associate professor",
+      "degree": "Doctor of Sciences (2023)",
+      "interests": "Boundary behavior of harmonic functions, Dirichlet spaces, and discrete models.",
+      "sources": [
+        {
+          "label": "SPbSU MCS profile",
+          "url": "https://math-cs.spbu.ru/people/mozolyako-pavel-aleksandrovich/"
+        }
+      ],
+      "historical": false
+    },
+    {
+      "id": "vasyunin",
+      "name": "Vasily Vasyunin",
+      "nameRu": "Василий Иванович Васюнин",
+      "field": "analysis",
+      "affiliations": [
+        "SPbSU MCS",
+        "PDMI"
+      ],
+      "status": "Leading researcher",
+      "degree": "Doctor of Sciences (1993)",
+      "interests": "Bellman functions for sharp inequalities in analysis and probability; operator theory.",
+      "sources": [
+        {
+          "label": "SPbSU MCS profile",
+          "url": "https://math-cs.spbu.ru/people/vasyunin-v-i/"
+        },
+        {
+          "label": "PDMI profile",
+          "url": "https://www.pdmi.ras.ru/pdmi/en/staff/vasily-vasyunin"
+        }
+      ],
+      "historical": false
+    },
+    {
+      "id": "peller",
+      "name": "Vladimir Peller",
+      "nameRu": "Владимир Всеволодович Пеллер",
+      "field": "analysis",
+      "affiliations": [
+        "SPbSU MCS"
+      ],
+      "status": "Professor",
+      "degree": "Doctor of Sciences (1986)",
+      "interests": "Hankel and Toeplitz operators, operator perturbations, and noncommutative function theory.",
+      "sources": [
+        {
+          "label": "SPbSU MCS profile",
+          "url": "https://math-cs.spbu.ru/people/peller-vladimir-vsevolodovich/"
+        }
+      ],
+      "historical": false
+    },
+    {
+      "id": "kislyakov",
+      "name": "Sergei Kislyakov",
+      "nameRu": "Сергей Витальевич Кисляков",
+      "field": "analysis",
+      "affiliations": [
+        "SPbSU MCS",
+        "PDMI"
+      ],
+      "status": "Professor · RAS academician",
+      "degree": "Doctor of Sciences (1991)",
+      "interests": "Harmonic analysis, interpolation inequalities, and Banach spaces of functions.",
+      "sources": [
+        {
+          "label": "SPbSU MCS profile",
+          "url": "https://math-cs.spbu.ru/people/kislyakov-s-v/"
+        },
+        {
+          "label": "PDMI profile",
+          "url": "https://pdmi.ras.ru/pdmi/en/staff/sergei-kislyakov"
+        }
+      ],
+      "historical": false,
+      "notes": "Own Candidate supervisor was D. A. Vladimirov (1976), not Khavin. Not included as an edge because Vladimirov is outside this bounded slice."
+    },
+    {
+      "id": "stolyarov",
+      "name": "Dmitriy Stolyarov",
+      "nameRu": "Дмитрий Михайлович Столяров",
+      "field": "analysis",
+      "affiliations": [
+        "SPbSU MCS",
+        "PDMI"
+      ],
+      "status": "Associate professor · mathematics program head",
+      "degree": "Candidate of Sciences (2014)",
+      "interests": "Harmonic analysis, sharp inequalities, geometric measure theory, and differential operators.",
+      "sources": [
+        {
+          "label": "SPbSU MCS profile",
+          "url": "https://math-cs.spbu.ru/people/stolyarov-d-m/"
+        },
+        {
+          "label": "PDMI defense decision",
+          "url": "https://www.pdmi.ras.ru/pdmi/system/files/dissertations/0100.pdf"
+        }
+      ],
+      "historical": false
+    },
+    {
+      "id": "zlotnikov",
+      "name": "Ilya Zlotnikov",
+      "nameRu": "Илья Константинович Злотников",
+      "field": "analysis",
+      "affiliations": [
+        "PDMI · alumnus",
+        "NTNU"
+      ],
+      "status": "PDMI doctoral alumnus · postdoctoral researcher at NTNU",
+      "degree": "Candidate of Sciences (2019); PhD (2023)",
+      "interests": "Harmonic analysis, sampling, interpolation, Gabor frames, and Hardy spaces.",
+      "sources": [
+        {
+          "label": "PDMI Candidate defense (2019)",
+          "url": "https://www.pdmi.ras.ru/pdmi/en/node/954"
+        },
+        {
+          "label": "Researcher’s current profile",
+          "url": "https://sites.google.com/view/ilyazlotnikov/home"
+        }
+      ],
+      "historical": true,
+      "notes": "Not current SPbSU/PDMI faculty. Included as documented Kislyakov advisee. Later Stavanger PhD was supervised by Ulanovskii with Kislyakov as co-supervisor."
+    },
+    {
+      "id": "ibragimov",
+      "name": "Ildar Ibragimov",
+      "nameRu": "Ильдар Абдуллович Ибрагимов",
+      "field": "probability",
+      "affiliations": [
+        "PDMI",
+        "SPbSU"
+      ],
+      "status": "RAS academician · PDMI adviser",
+      "degree": "Doctor of Sciences (1966)",
+      "interests": "Limit theorems, stationary stochastic processes, and asymptotic statistics.",
+      "sources": [
+        {
+          "label": "PDMI researcher profile",
+          "url": "https://www.pdmi.ras.ru/pdmi/staff/%D0%B8%D0%BB%D1%8C%D0%B4%D0%B0%D1%80-%D0%B0%D0%B1%D0%B4%D1%83%D0%BB%D0%BB%D0%BE%D0%B2%D0%B8%D1%87-%D0%B8%D0%B1%D1%80%D0%B0%D0%B3%D0%B8%D0%BC%D0%BE%D0%B2"
+        }
+      ],
+      "historical": false
+    },
+    {
+      "id": "davydov",
+      "name": "Yurii Davydov",
+      "nameRu": "Юрий Александрович Давыдов",
+      "field": "probability",
+      "affiliations": [
+        "SPbSU MCS"
+      ],
+      "status": "Professor",
+      "degree": "Doctor of Sciences (1981)",
+      "interests": "Limit theorems and distributions of functionals of stochastic processes.",
+      "sources": [
+        {
+          "label": "SPbSU MCS profile",
+          "url": "https://math-cs.spbu.ru/people/davydov-yu-a/"
+        }
+      ],
+      "historical": false
+    },
+    {
+      "id": "lifshits",
+      "name": "Mikhail Lifshits",
+      "nameRu": "Михаил Анатольевич Лифшиц",
+      "field": "probability",
+      "affiliations": [
+        "SPbSU MCS"
+      ],
+      "status": "Professor",
+      "degree": "Doctor of Sciences (1993)",
+      "interests": "Gaussian processes, small deviations, sample paths, and stochastic functionals.",
+      "sources": [
+        {
+          "label": "SPbSU MCS profile",
+          "url": "https://math-cs.spbu.ru/people/lifshits-m-a/"
+        }
+      ],
+      "historical": false
+    },
+    {
+      "id": "zaporozhets",
+      "name": "Dmitry Zaporozhets",
+      "nameRu": "Дмитрий Николаевич Запорожец",
+      "field": "probability",
+      "affiliations": [
+        "SPbSU MCS",
+        "PDMI"
+      ],
+      "status": "Professor · PDMI deputy director",
+      "degree": "Doctor of Sciences (2017)",
+      "interests": "Random polynomials, stochastic and convex geometry, and random walks.",
+      "sources": [
+        {
+          "label": "SPbSU MCS profile",
+          "url": "https://math-cs.spbu.ru/people/zaporozhets-d-n/"
+        },
+        {
+          "label": "PDMI researcher profile",
+          "url": "https://www.pdmi.ras.ru/pdmi/staff/%D0%B4%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B9-%D0%BD%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B5%D0%B2%D0%B8%D1%87-%D0%B7%D0%B0%D0%BF%D0%BE%D1%80%D0%BE%D0%B6%D0%B5%D1%86"
+        }
+      ],
+      "historical": false
+    },
+    {
+      "id": "smorodina",
+      "name": "Natalia Smorodina",
+      "nameRu": "Наталия Васильевна Смородина",
+      "field": "probability",
+      "affiliations": [
+        "PDMI",
+        "SPbSU · Physics"
+      ],
+      "status": "Leading researcher · professor",
+      "degree": "Doctor of Sciences (1994)",
+      "interests": "Stochastic processes, stochastic analysis, and probabilistic methods for evolution equations.",
+      "sources": [
+        {
+          "label": "PDMI researcher profile",
+          "url": "https://www.pdmi.ras.ru/pdmi/staff/%D0%BD%D0%B0%D1%82%D0%B0%D0%BB%D0%B8%D1%8F-%D0%B2%D0%B0%D1%81%D0%B8%D0%BB%D1%8C%D0%B5%D0%B2%D0%BD%D0%B0-%D1%81%D0%BC%D0%BE%D1%80%D0%BE%D0%B4%D0%B8%D0%BD%D0%B0"
+        }
+      ],
+      "historical": false,
+      "notes": "SPbSU Physics affiliation, not MCS. Included through PDMI and doctoral supervision of MCS Platonova."
+    },
+    {
+      "id": "platonova",
+      "name": "Maria Platonova",
+      "nameRu": "Мария Владимировна Платонова",
+      "field": "probability",
+      "affiliations": [
+        "SPbSU MCS",
+        "PDMI"
+      ],
+      "status": "Senior researcher",
+      "degree": "Candidate of Sciences (2017)",
+      "interests": "Stochastic analysis and probabilistic representations of solutions of evolution equations.",
+      "sources": [
+        {
+          "label": "SPbSU MCS profile",
+          "url": "https://math-cs.spbu.ru/people/platonova-m-v/"
+        },
+        {
+          "label": "PDMI statistical methods laboratory",
+          "url": "https://pdmi.ras.ru/pdmi/category/keywords/%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5-%D1%82%D0%B5%D0%BE%D1%80%D0%B5%D0%BC%D1%8B"
+        }
+      ],
+      "historical": false,
+      "notes": "Degree specialty was mathematical physics; current stated interests are probability/stochastic analysis, so primary display field is probability."
+    },
+    {
+      "id": "dospolova",
+      "name": "Maria Dospolova",
+      "nameRu": "Мария Каиржановна Досполова",
+      "field": "probability",
+      "affiliations": [
+        "SPbSU MCS",
+        "PDMI"
+      ],
+      "status": "Research engineer · student seminar leader",
+      "degree": "Candidate of Sciences · defended February 2026",
+      "interests": "Intrinsic and mixed volumes of infinite-dimensional convex bodies; stochastic geometry.",
+      "sources": [
+        {
+          "label": "SPbSU MCS profile",
+          "url": "https://math-cs.spbu.ru/people/dospolova-mariya-kairzhanovna/"
+        },
+        {
+          "label": "PDMI defense and positive degree vote",
+          "url": "https://pdmi.ras.ru/pdmi/dissertatiton/2026-02-16t000000-%D0%B4%D0%BE%D1%81%D0%BF%D0%BE%D0%BB%D0%BE%D0%B2%D0%B0-%D0%BC%D0%B0%D1%80%D0%B8%D1%8F-%D0%BA%D0%B0%D0%B8%D1%80%D0%B6%D0%B0%D0%BD%D0%BE%D0%B2%D0%BD%D0%B0"
+        },
+        {
+          "label": "Student seminar in probability and geometry",
+          "url": "https://www.mathnet.ru/rus/conf2739"
+        }
+      ],
+      "historical": false,
+      "notes": "Positive Candidate defense vote dated 16 Feb 2026. Do NOT label current doctoral student merely because older pages do. Leads student seminar; that alone is not a formal PhD supervision link."
+    }
+  ],
+  "links": [
+    {
+      "source": "khavin",
+      "target": "nikolski",
+      "type": "phd",
+      "year": null,
+      "sources": [
+        {
+          "label": "SPbSU memorial article (2016)",
+          "url": "https://www.mathsoc.spb.ru/pers/havin/pamyati-viktora-petrovicha-havina.pdf"
+        }
+      ],
+      "notes": "Primary memorial identifies Nikolski as Khavin’s first graduate student; precise defense date omitted."
+    },
+    {
+      "source": "khavin",
+      "target": "baranov",
+      "type": "phd",
+      "year": 2003,
+      "sources": [
+        {
+          "label": "SPbSU MCS profile",
+          "url": "https://math-cs.spbu.ru/people/baranov-a-d/"
+        }
+      ],
+      "notes": "Candidate dissertation at PDMI; Khavin also co-supervised 2005 Bordeaux PhD."
+    },
+    {
+      "source": "nikolski",
+      "target": "baranov",
+      "type": "phd",
+      "year": 2005,
+      "sources": [
+        {
+          "label": "SPbSU MCS profile",
+          "url": "https://math-cs.spbu.ru/people/baranov-a-d/"
+        }
+      ],
+      "notes": "Bordeaux PhD co-supervisor with Khavin; separate from 2003 Candidate degree."
+    },
+    {
+      "source": "khavin",
+      "target": "belov",
+      "type": "phd",
+      "year": 2008,
+      "sources": [
+        {
+          "label": "SPbSU MCS profile",
+          "url": "https://math-cs.spbu.ru/people/belov-yu-s/"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "source": "khavin",
+      "target": "mozolyako",
+      "type": "phd",
+      "year": 2009,
+      "sources": [
+        {
+          "label": "SPbSU MCS profile",
+          "url": "https://math-cs.spbu.ru/people/mozolyako-pavel-aleksandrovich/"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "source": "nikolski",
+      "target": "vasyunin",
+      "type": "phd",
+      "year": 1976,
+      "sources": [
+        {
+          "label": "SPbSU MCS profile",
+          "url": "https://math-cs.spbu.ru/people/vasyunin-v-i/"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "source": "nikolski",
+      "target": "peller",
+      "type": "phd",
+      "year": 1978,
+      "sources": [
+        {
+          "label": "SPbSU MCS profile",
+          "url": "https://math-cs.spbu.ru/people/peller-vladimir-vsevolodovich/"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "source": "kislyakov",
+      "target": "stolyarov",
+      "type": "phd",
+      "year": 2014,
+      "sources": [
+        {
+          "label": "SPbSU MCS profile",
+          "url": "https://math-cs.spbu.ru/people/stolyarov-d-m/"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "source": "kislyakov",
+      "target": "zlotnikov",
+      "type": "phd",
+      "year": 2019,
+      "sources": [
+        {
+          "label": "PDMI Candidate defense",
+          "url": "https://www.pdmi.ras.ru/pdmi/en/node/954"
+        }
+      ],
+      "notes": "PDMI Candidate degree; later a co-supervisor of Stavanger PhD as well."
+    },
+    {
+      "source": "ibragimov",
+      "target": "davydov",
+      "type": "phd",
+      "year": 1970,
+      "sources": [
+        {
+          "label": "SPbSU MCS profile",
+          "url": "https://math-cs.spbu.ru/people/davydov-yu-a/"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "source": "davydov",
+      "target": "lifshits",
+      "type": "phd",
+      "year": 1981,
+      "sources": [
+        {
+          "label": "SPbSU MCS profile",
+          "url": "https://math-cs.spbu.ru/people/lifshits-m-a/"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "source": "ibragimov",
+      "target": "zaporozhets",
+      "type": "phd",
+      "year": 2005,
+      "sources": [
+        {
+          "label": "SPbSU MCS profile",
+          "url": "https://math-cs.spbu.ru/people/zaporozhets-d-n/"
+        },
+        {
+          "label": "PDMI researcher profile",
+          "url": "https://www.pdmi.ras.ru/pdmi/staff/%D0%B4%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B9-%D0%BD%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B5%D0%B2%D0%B8%D1%87-%D0%B7%D0%B0%D0%BF%D0%BE%D1%80%D0%BE%D0%B6%D0%B5%D1%86"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "source": "smorodina",
+      "target": "platonova",
+      "type": "phd",
+      "year": 2017,
+      "sources": [
+        {
+          "label": "SPbSU MCS profile",
+          "url": "https://math-cs.spbu.ru/people/platonova-m-v/"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "source": "zaporozhets",
+      "target": "dospolova",
+      "type": "phd",
+      "year": 2026,
+      "sources": [
+        {
+          "label": "PDMI defense record",
+          "url": "https://pdmi.ras.ru/pdmi/dissertatiton/2026-02-16t000000-%D0%B4%D0%BE%D1%81%D0%BF%D0%BE%D0%BB%D0%BE%D0%B2%D0%B0-%D0%BC%D0%B0%D1%80%D0%B8%D1%8F-%D0%BA%D0%B0%D0%B8%D1%80%D0%B6%D0%B0%D0%BD%D0%BE%D0%B2%D0%BD%D0%B0"
+        }
+      ],
+      "notes": ""
+    }
+  ],
+  "notes": [
+    "MCS pages fetched directly with Python urllib because web tool returns 403; all listed source URLs inspected.",
+    "Solid PhD edges should be described as completed Candidate/PhD dissertation supervision, not employment dependency.",
+    "No valid evidence found in this slice for current PhD enrollment of Dobronravov brothers; their MCS pages say research engineer only."
+  ]
+}

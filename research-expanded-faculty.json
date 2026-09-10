@@ -1,0 +1,528 @@
+{
+  "checkedAt": "2026-09-10",
+  "people": [
+    {
+      "id": "vsemirnov",
+      "name": "Maxim Vsemirnov",
+      "nameRu": "Всемирнов Максим Александрович",
+      "field": "algebra",
+      "stage": "established",
+      "degree": "Doctor of Sciences · 2010",
+      "affiliations": [
+        "SPbSU MCS",
+        "PDMI"
+      ],
+      "interests": "Group theory, number theory, Diophantine equations, and combinatorics.",
+      "notes": "",
+      "sources": [
+        {
+          "label": "MCS faculty profile",
+          "url": "https://math-cs.spbu.ru/people/vsemirnov-m-a/"
+        },
+        {
+          "label": "MCS faculty roster",
+          "url": "https://math-cs.spbu.ru/people/"
+        }
+      ],
+      "current": true
+    },
+    {
+      "id": "stavrova",
+      "name": "Anastasia Stavrova",
+      "nameRu": "Ставрова Анастасия Константиновна",
+      "field": "algebra",
+      "stage": "established",
+      "degree": "Candidate of Sciences · 2009",
+      "affiliations": [
+        "SPbSU MCS",
+        "PDMI"
+      ],
+      "interests": "Reductive algebraic groups, non-associative algebras, and algebraic K-theory.",
+      "notes": "",
+      "sources": [
+        {
+          "label": "MCS faculty profile",
+          "url": "https://math-cs.spbu.ru/people/stavrova-a-k/"
+        },
+        {
+          "label": "MCS faculty roster",
+          "url": "https://math-cs.spbu.ru/people/"
+        },
+        {
+          "label": "PDMI 2026 congress announcement",
+          "url": "https://www.pdmi.ras.ru/pdmi/news?page=1"
+        }
+      ],
+      "current": true
+    },
+    {
+      "id": "khrabrov",
+      "name": "Alexander Khrabrov",
+      "nameRu": "Храбров Александр Игоревич",
+      "field": "analysis",
+      "stage": "established",
+      "degree": "Candidate of Sciences · 2001",
+      "affiliations": [
+        "SPbSU MCS"
+      ],
+      "interests": "Asymptotic convex geometry, functional analysis, and analytic methods in combinatorics.",
+      "notes": "",
+      "sources": [
+        {
+          "label": "MCS faculty profile",
+          "url": "https://math-cs.spbu.ru/people/hrabrov-aleksandr-igorevich/"
+        },
+        {
+          "label": "MCS faculty roster",
+          "url": "https://math-cs.spbu.ru/people/"
+        }
+      ],
+      "current": true
+    },
+    {
+      "id": "tyaglov",
+      "name": "Mikhail Tyaglov",
+      "nameRu": "Тяглов Михаил Юрьевич",
+      "field": "analysis",
+      "stage": "established",
+      "degree": "PhD · 2009",
+      "affiliations": [
+        "SPbSU MCS"
+      ],
+      "interests": "Zeros of polynomials and entire functions, orthogonal polynomials, and spectral theory.",
+      "notes": "",
+      "sources": [
+        {
+          "label": "MCS faculty profile",
+          "url": "https://math-cs.spbu.ru/people/tyaglov-mihail-yurevich/"
+        },
+        {
+          "label": "MCS faculty roster",
+          "url": "https://math-cs.spbu.ru/people/"
+        }
+      ],
+      "current": true
+    },
+    {
+      "id": "hedenmalm",
+      "name": "Håkan Hedenmalm",
+      "nameRu": "Хеденмальм Пер Ян Хокан",
+      "field": "analysis",
+      "stage": "established",
+      "degree": "Professor; doctoral training at Uppsala University, 1980–1985",
+      "affiliations": [
+        "SPbSU MCS"
+      ],
+      "interests": "Analysis and probabilistic methods in analysis.",
+      "notes": "",
+      "sources": [
+        {
+          "label": "MCS faculty profile",
+          "url": "https://math-cs.spbu.ru/people/haakan-hedenmalm/"
+        },
+        {
+          "label": "MCS faculty roster",
+          "url": "https://math-cs.spbu.ru/people/"
+        }
+      ],
+      "current": true,
+      "degreeShort": "Professor"
+    },
+    {
+      "id": "pilyugin",
+      "name": "Sergei Pilyugin",
+      "nameRu": "Пилюгин Сергей Юрьевич",
+      "field": "analysis",
+      "stage": "established",
+      "degree": "Doctor of Sciences · 1983",
+      "affiliations": [
+        "SPbSU MCS"
+      ],
+      "interests": "Differential equations and dynamical systems.",
+      "notes": "",
+      "sources": [
+        {
+          "label": "MCS faculty profile",
+          "url": "https://math-cs.spbu.ru/people/pilyugin-s-yu/"
+        },
+        {
+          "label": "MCS faculty roster",
+          "url": "https://math-cs.spbu.ru/people/"
+        }
+      ],
+      "current": true
+    },
+    {
+      "id": "oleg-alekseev",
+      "name": "Oleg Alekseev",
+      "nameRu": "Алексеев Олег Вадимович",
+      "field": "physics",
+      "stage": "established",
+      "degree": "Candidate of Sciences · 2012",
+      "affiliations": [
+        "SPbSU MCS"
+      ],
+      "interests": "Quantum field theory, integrable models, statistical physics, and two-dimensional quantum gravity.",
+      "notes": "",
+      "sources": [
+        {
+          "label": "MCS faculty profile",
+          "url": "https://math-cs.spbu.ru/people/alekseev-oleg-vadimovich/"
+        },
+        {
+          "label": "MCS faculty roster",
+          "url": "https://math-cs.spbu.ru/people/"
+        }
+      ],
+      "current": true
+    },
+    {
+      "id": "laptev",
+      "name": "Ari Laptev",
+      "nameRu": "Лаптев Ари",
+      "field": "analysis",
+      "stage": "established",
+      "degree": "PhD · 1978",
+      "affiliations": [
+        "SPbSU MCS"
+      ],
+      "interests": "Spectral theory of differential operators, Schrödinger operators, and spectral inequalities.",
+      "notes": "",
+      "sources": [
+        {
+          "label": "MCS faculty profile",
+          "url": "https://math-cs.spbu.ru/people/laptev-ari/"
+        },
+        {
+          "label": "MCS faculty roster",
+          "url": "https://math-cs.spbu.ru/people/"
+        }
+      ],
+      "current": true
+    },
+    {
+      "id": "mortenson",
+      "name": "Eric Mortenson",
+      "nameRu": "Мортенсон Эрик Тодд",
+      "field": "algebra",
+      "stage": "established",
+      "degree": "PhD · 2003",
+      "affiliations": [
+        "SPbSU MCS"
+      ],
+      "interests": "Number theory, mock theta functions, and integer partitions.",
+      "notes": "",
+      "sources": [
+        {
+          "label": "MCS faculty profile",
+          "url": "https://math-cs.spbu.ru/people/mortenson-erik-todd/"
+        },
+        {
+          "label": "MCS faculty roster",
+          "url": "https://math-cs.spbu.ru/people/"
+        }
+      ],
+      "current": true
+    },
+    {
+      "id": "okhotin",
+      "name": "Alexander Okhotin",
+      "nameRu": "Охотин Александр Сергеевич",
+      "field": "discrete",
+      "stage": "established",
+      "degree": "Candidate of Sciences · 2002; PhD · 2004",
+      "affiliations": [
+        "SPbSU MCS"
+      ],
+      "interests": "Formal grammars, automata theory, and parsing complexity.",
+      "notes": "",
+      "sources": [
+        {
+          "label": "MCS faculty profile",
+          "url": "https://math-cs.spbu.ru/people/okhotin-a-s/"
+        },
+        {
+          "label": "MCS faculty roster",
+          "url": "https://math-cs.spbu.ru/people/"
+        }
+      ],
+      "current": true
+    },
+    {
+      "id": "romanov",
+      "name": "Roman Romanov",
+      "nameRu": "Романов Роман Владимирович",
+      "field": "analysis",
+      "stage": "established",
+      "degree": "Doctor of Sciences",
+      "affiliations": [
+        "SPbSU MCS"
+      ],
+      "interests": "Spectral theory of non-self-adjoint operators and functional models.",
+      "notes": "",
+      "sources": [
+        {
+          "label": "MCS faculty profile",
+          "url": "https://math-cs.spbu.ru/people/romanov-r-v/"
+        },
+        {
+          "label": "MCS faculty roster",
+          "url": "https://math-cs.spbu.ru/people/"
+        },
+        {
+          "label": "Researcher profile and degree",
+          "url": "https://www.mathnet.ru/rus/person23713"
+        }
+      ],
+      "current": true
+    },
+    {
+      "id": "pablo-pelaez",
+      "name": "Pablo Peláez",
+      "nameRu": "Пелаэс Менальдо Хосе Пабло",
+      "field": "algebra",
+      "stage": "established",
+      "degree": "Doctoral degree (UNAM record)",
+      "affiliations": [
+        "SPbSU MCS"
+      ],
+      "interests": "Motivic homotopy theory, algebraic K-theory, and algebraic cycles.",
+      "notes": "",
+      "sources": [
+        {
+          "label": "MCS faculty profile",
+          "url": "https://math-cs.spbu.ru/people/pelaes-menaldo-hose-pablo/"
+        },
+        {
+          "label": "MCS faculty roster",
+          "url": "https://math-cs.spbu.ru/people/"
+        },
+        {
+          "label": "UNAM academic record",
+          "url": "https://web.siia.unam.mx/siia-publico/c/busqueda_individual.php?id=93622"
+        },
+        {
+          "label": "Motivic homotopy research",
+          "url": "https://www.matem.unam.mx/acerca-de/estructura-interna/secretaria-academica/informes/anuales/2013/productividad"
+        }
+      ],
+      "current": true
+    },
+    {
+      "id": "reshetikhin",
+      "name": "Nikolai Reshetikhin",
+      "nameRu": "Решетихин Николай Юрьевич",
+      "field": "physics",
+      "stage": "researcher",
+      "degree": "Not listed in the faculty profile",
+      "affiliations": [
+        "SPbSU MCS"
+      ],
+      "interests": "Quantum and classical integrable dynamical systems.",
+      "notes": "The MCS faculty profile lists a research appointment; the degree is not specified there.",
+      "sources": [
+        {
+          "label": "MCS faculty profile",
+          "url": "https://math-cs.spbu.ru/people/reshetihin-nikolaj-yurevich/"
+        },
+        {
+          "label": "MCS faculty roster",
+          "url": "https://math-cs.spbu.ru/people/"
+        },
+        {
+          "label": "Laboratory research groups",
+          "url": "https://anproblab-spbu.ru/ru/staff"
+        }
+      ],
+      "current": true
+    },
+    {
+      "id": "temlyakov",
+      "name": "Vladimir Temlyakov",
+      "nameRu": "Темляков Владимир Николаевич",
+      "field": "analysis",
+      "stage": "researcher",
+      "degree": "Not listed in the faculty profile",
+      "affiliations": [
+        "SPbSU MCS"
+      ],
+      "interests": "Approximation theory and quantized approximation.",
+      "notes": "The MCS faculty profile lists a research appointment; the degree is not specified there.",
+      "sources": [
+        {
+          "label": "MCS faculty profile",
+          "url": "https://math-cs.spbu.ru/people/temlyakov-vladimir-nikolaevich/"
+        },
+        {
+          "label": "MCS faculty roster",
+          "url": "https://math-cs.spbu.ru/people/"
+        },
+        {
+          "label": "Laboratory research groups",
+          "url": "https://anproblab-spbu.ru/ru/staff"
+        }
+      ],
+      "current": true
+    },
+    {
+      "id": "osipov",
+      "name": "Nikolai Osipov",
+      "nameRu": "Осипов Николай Николаевич",
+      "field": "analysis",
+      "stage": "researcher",
+      "degree": "Not listed in the faculty profile",
+      "affiliations": [
+        "SPbSU MCS"
+      ],
+      "interests": "Harmonic and analytic functions, signal analysis, and function spaces.",
+      "notes": "The MCS faculty profile lists a research appointment; the degree is not specified there.",
+      "sources": [
+        {
+          "label": "MCS faculty profile",
+          "url": "https://math-cs.spbu.ru/people/osipov-nikolaj-nikolaevich/"
+        },
+        {
+          "label": "MCS faculty roster",
+          "url": "https://math-cs.spbu.ru/people/"
+        },
+        {
+          "label": "Harmonic and analytic functions seminar",
+          "url": "https://www.mathnet.ru/rus/conf2722"
+        }
+      ],
+      "current": true
+    },
+    {
+      "id": "alexander-bufetov",
+      "name": "Alexander Bufetov",
+      "nameRu": "Буфетов Александр Игоревич",
+      "field": "probability",
+      "stage": "researcher",
+      "degree": "Not listed in the faculty profile",
+      "affiliations": [
+        "SPbSU MCS"
+      ],
+      "interests": "Ergodic theory and random point processes.",
+      "notes": "The MCS faculty profile lists a research appointment; the degree is not specified there.",
+      "sources": [
+        {
+          "label": "MCS faculty profile",
+          "url": "https://math-cs.spbu.ru/people/bufetov-aleksandr-igorevich/"
+        },
+        {
+          "label": "MCS faculty roster",
+          "url": "https://math-cs.spbu.ru/people/"
+        },
+        {
+          "label": "Ergodic theory research programme",
+          "url": "https://www.mathnet.ru/conf2035"
+        },
+        {
+          "label": "Random point processes publication",
+          "url": "https://m.mathnet.ru/links/96881b26147542e863b51e9136b8cb5a/faa4203.pdf"
+        }
+      ],
+      "current": true
+    },
+    {
+      "id": "petr-borodin",
+      "name": "Petr Borodin",
+      "nameRu": "Бородин Петр Анатольевич",
+      "field": "analysis",
+      "stage": "researcher",
+      "degree": "Not listed in the faculty profile",
+      "affiliations": [
+        "SPbSU MCS"
+      ],
+      "interests": "Analysis; member of the Probabilistic Methods in Analysis laboratory.",
+      "notes": "The MCS faculty profile lists a research appointment; the degree is not specified there.",
+      "sources": [
+        {
+          "label": "MCS faculty profile",
+          "url": "https://math-cs.spbu.ru/people/borodin-petr-anatolevich/"
+        },
+        {
+          "label": "MCS faculty roster",
+          "url": "https://math-cs.spbu.ru/people/"
+        }
+      ],
+      "current": true
+    },
+    {
+      "id": "alexey-solodov",
+      "name": "Alexey Solodov",
+      "nameRu": "Солодов Алексей Петрович",
+      "field": "analysis",
+      "stage": "researcher",
+      "degree": "Not listed in the faculty profile",
+      "affiliations": [
+        "SPbSU MCS"
+      ],
+      "interests": "Analysis; member of the Probabilistic Methods in Analysis laboratory.",
+      "notes": "The MCS faculty profile lists a research appointment; the degree is not specified there.",
+      "sources": [
+        {
+          "label": "MCS faculty profile",
+          "url": "https://math-cs.spbu.ru/people/solodov-aleksej-petrovich/"
+        },
+        {
+          "label": "MCS faculty roster",
+          "url": "https://math-cs.spbu.ru/people/"
+        }
+      ],
+      "current": true
+    },
+    {
+      "id": "yuri-skvortsov",
+      "name": "Yuri Skvortsov",
+      "nameRu": "Скворцов Юрий Александрович",
+      "field": "analysis",
+      "stage": "researcher",
+      "degree": "Not listed in the faculty profile",
+      "affiliations": [
+        "SPbSU MCS"
+      ],
+      "interests": "Analysis; member of the Probabilistic Methods in Analysis laboratory.",
+      "notes": "The MCS faculty profile lists a research appointment; the degree is not specified there.",
+      "sources": [
+        {
+          "label": "MCS faculty profile",
+          "url": "https://math-cs.spbu.ru/people/skvortsov-yurij-aleksandrovich/"
+        },
+        {
+          "label": "MCS faculty roster",
+          "url": "https://math-cs.spbu.ru/people/"
+        }
+      ],
+      "current": true
+    }
+  ],
+  "links": [
+    {
+      "source": "matiyasevich",
+      "target": "vsemirnov",
+      "type": "doctoral",
+      "year": 1998,
+      "label": "Candidate dissertation supervision · 1998",
+      "sources": [
+        {
+          "label": "MCS academic biography",
+          "url": "https://math-cs.spbu.ru/people/vsemirnov-m-a/"
+        }
+      ]
+    },
+    {
+      "source": "vavilov",
+      "target": "stavrova",
+      "type": "doctoral",
+      "year": 2009,
+      "label": "Candidate dissertation supervision · 2009",
+      "sources": [
+        {
+          "label": "MCS academic biography",
+          "url": "https://math-cs.spbu.ru/people/stavrova-a-k/"
+        }
+      ]
+    }
+  ]
+}

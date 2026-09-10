@@ -1,0 +1,1794 @@
+{
+  "checked": "2026-09-10",
+  "scope": "SPbSU doctoral cohorts in analysis, algebra and probability, plus MCS junior research staff. Institutional affiliation and programme-level topics are explicitly distinguished. Pure programme codes are verified against the official doctoral-programme directory. No supervisor is inferred from programme enrolment or coauthorship.",
+  "people": [
+    {
+      "id": "alexey-krivovichev",
+      "name": "Alexey Krivovichev",
+      "nameRu": "Алексей Сергеевич Кривовичев",
+      "field": "geometry",
+      "stage": "student",
+      "status": "PhD student · 2026 cohort",
+      "degree": "Doctoral studies (aspirantura) · 2026 cohort",
+      "affiliations": [
+        "SPbSU"
+      ],
+      "interests": "Low-dimensional topology and Turaev–Viro invariants; doctoral study in analysis.",
+      "notes": "Listed in the university doctoral programme M3.80111.2026. The cohort year is an entry year, not a degree-award year. The available source confirms SPbSU enrolment; a separate MCS appointment was not verified.",
+      "statusAsOf": "2026-09-10",
+      "sources": [
+        {
+          "label": "SPbSU researcher profile and doctoral programme",
+          "url": "https://pureportal.spbu.ru/ru/persons/--(c73d53e3-be17-46dd-9331-04ac2bd56d56).html"
+        },
+        {
+          "label": "2026 doctoral cohort roster",
+          "url": "https://pureportal.spbu.ru/ru/organisations/m3801112026(7a59ffae-905e-4693-b3ee-bc1fa2702558)/persons.html"
+        },
+        {
+          "label": "SPbSU doctoral programme directory",
+          "url": "https://pureportal.spbu.ru/ru/organisations/doctoral-aspirantura-programs-from-2022(5900463c-989c-486c-8c3a-cde2c6c35622).html"
+        }
+      ],
+      "historical": false
+    },
+    {
+      "id": "gleb-yudin",
+      "name": "Gleb Yudin",
+      "nameRu": "Глеб Александрович Юдин",
+      "field": "analysis",
+      "stage": "student",
+      "status": "PhD student · 2026 cohort",
+      "degree": "Doctoral studies (aspirantura) · 2026 cohort",
+      "affiliations": [
+        "SPbSU MCS"
+      ],
+      "interests": "Real, complex and functional analysis (doctoral programme).",
+      "notes": "Listed in the university doctoral programme M3.80111.2026. The cohort year is an entry year, not a degree-award year. The description gives the programme field because no narrower mathematical research topic was found.",
+      "statusAsOf": "2026-09-10",
+      "sources": [
+        {
+          "label": "SPbSU researcher profile and doctoral programme",
+          "url": "https://pureportal.spbu.ru/ru/persons/--(bb03d055-1395-4b8a-b282-5167f10ac1fc).html"
+        },
+        {
+          "label": "2026 doctoral cohort roster",
+          "url": "https://pureportal.spbu.ru/ru/organisations/m3801112026(7a59ffae-905e-4693-b3ee-bc1fa2702558)/persons.html"
+        },
+        {
+          "label": "SPbSU doctoral programme directory",
+          "url": "https://pureportal.spbu.ru/ru/organisations/doctoral-aspirantura-programs-from-2022(5900463c-989c-486c-8c3a-cde2c6c35622).html"
+        },
+        {
+          "label": "MCS faculty directory profile",
+          "url": "https://math-cs.spbu.ru/people/38443/"
+        }
+      ],
+      "historical": false
+    },
+    {
+      "id": "viktor-khamzin",
+      "name": "Viktor Khamzin",
+      "nameRu": "Виктор Олегович Хамзин",
+      "field": "probability",
+      "stage": "student",
+      "status": "PhD student · 2026 cohort",
+      "degree": "Doctoral studies (aspirantura) · 2026 cohort",
+      "affiliations": [
+        "SPbSU"
+      ],
+      "interests": "Probability theory and mathematical statistics (doctoral programme).",
+      "notes": "Listed in the university doctoral programme M3.80114.2026. The cohort year is an entry year, not a degree-award year. The description gives the programme field because no narrower mathematical research topic was found. The available source confirms SPbSU enrolment; a separate MCS appointment was not verified.",
+      "statusAsOf": "2026-09-10",
+      "sources": [
+        {
+          "label": "SPbSU researcher profile and doctoral programme",
+          "url": "https://pureportal.spbu.ru/ru/persons/--(e28f570e-c1de-4fac-910e-6bdbfc90b39f).html"
+        },
+        {
+          "label": "2026 doctoral cohort roster",
+          "url": "https://pureportal.spbu.ru/ru/organisations/m3801142026(4a01ea9e-9114-4a05-bec6-3a31977ae28f)/persons.html"
+        },
+        {
+          "label": "SPbSU doctoral programme directory",
+          "url": "https://pureportal.spbu.ru/ru/organisations/doctoral-aspirantura-programs-from-2022(5900463c-989c-486c-8c3a-cde2c6c35622).html"
+        }
+      ],
+      "historical": false
+    },
+    {
+      "id": "daniil-anufriev",
+      "name": "Daniil Anufriev",
+      "nameRu": "Даниил Алексеевич Ануфриев",
+      "field": "algebra",
+      "stage": "student",
+      "status": "PhD student · 2026 cohort",
+      "degree": "Doctoral studies (aspirantura) · 2026 cohort",
+      "affiliations": [
+        "SPbSU"
+      ],
+      "interests": "Algebra, number theory, mathematical logic and discrete mathematics (doctoral programme).",
+      "notes": "Listed in the university doctoral programme M3.80115.2026. The cohort year is an entry year, not a degree-award year. The description gives the programme field because no narrower mathematical research topic was found. The available source confirms SPbSU enrolment; a separate MCS appointment was not verified.",
+      "statusAsOf": "2026-09-10",
+      "sources": [
+        {
+          "label": "SPbSU researcher profile and doctoral programme",
+          "url": "https://pureportal.spbu.ru/ru/persons/--(d0b84573-8850-4168-b52f-c564b99b8cfc).html"
+        },
+        {
+          "label": "2026 doctoral cohort roster",
+          "url": "https://pureportal.spbu.ru/ru/organisations/m3801152026(4df1cab5-8800-4576-a6bc-26be011fbd42)/persons.html"
+        },
+        {
+          "label": "SPbSU doctoral programme directory",
+          "url": "https://pureportal.spbu.ru/ru/organisations/doctoral-aspirantura-programs-from-2022(5900463c-989c-486c-8c3a-cde2c6c35622).html"
+        }
+      ],
+      "historical": false
+    },
+    {
+      "id": "nikolai-borozenets",
+      "name": "Nikolai Borozenets",
+      "nameRu": "Николай Евгеньевич Борозенец",
+      "field": "algebra",
+      "stage": "student",
+      "status": "PhD student · 2026 cohort",
+      "degree": "Doctoral studies (aspirantura) · 2026 cohort",
+      "affiliations": [
+        "SPbSU MCS"
+      ],
+      "interests": "Number theory, integer partitions and mock theta functions.",
+      "notes": "Listed in the university doctoral programme M3.80115.2026. The cohort year is an entry year, not a degree-award year.",
+      "statusAsOf": "2026-09-10",
+      "sources": [
+        {
+          "label": "SPbSU researcher profile and doctoral programme",
+          "url": "https://pureportal.spbu.ru/ru/persons/--(8380464a-02b8-4419-9a1f-93eb3940e41c).html"
+        },
+        {
+          "label": "2026 doctoral cohort roster",
+          "url": "https://pureportal.spbu.ru/ru/organisations/m3801152026(4df1cab5-8800-4576-a6bc-26be011fbd42)/persons.html"
+        },
+        {
+          "label": "SPbSU doctoral programme directory",
+          "url": "https://pureportal.spbu.ru/ru/organisations/doctoral-aspirantura-programs-from-2022(5900463c-989c-486c-8c3a-cde2c6c35622).html"
+        },
+        {
+          "label": "MCS faculty directory profile",
+          "url": "https://math-cs.spbu.ru/people/borozenets-nikolaj-evgenevich/"
+        }
+      ],
+      "historical": false
+    },
+    {
+      "id": "leonid-gorbunov",
+      "name": "Leonid Gorbunov",
+      "nameRu": "Леонид Павлович Горбунов",
+      "field": "analysis",
+      "stage": "student",
+      "status": "PhD student · 2026 cohort",
+      "degree": "Doctoral studies (aspirantura) · 2026 cohort",
+      "affiliations": [
+        "SPbSU MCS"
+      ],
+      "interests": "Harmonic analysis, differential operators and geometric measure theory.",
+      "notes": "Listed in the university doctoral programme M3.80115.2026. The cohort year is an entry year, not a degree-award year.",
+      "statusAsOf": "2026-09-10",
+      "sources": [
+        {
+          "label": "SPbSU researcher profile and doctoral programme",
+          "url": "https://pureportal.spbu.ru/ru/persons/--(98fb0abf-7775-4f91-9eb9-1f524253ef46).html"
+        },
+        {
+          "label": "2026 doctoral cohort roster",
+          "url": "https://pureportal.spbu.ru/ru/organisations/m3801152026(4df1cab5-8800-4576-a6bc-26be011fbd42)/persons.html"
+        },
+        {
+          "label": "SPbSU doctoral programme directory",
+          "url": "https://pureportal.spbu.ru/ru/organisations/doctoral-aspirantura-programs-from-2022(5900463c-989c-486c-8c3a-cde2c6c35622).html"
+        }
+      ],
+      "historical": false
+    },
+    {
+      "id": "ruslan-magdiev",
+      "name": "Ruslan Magdiev",
+      "nameRu": "Руслан Тимурович Магдиев",
+      "field": "algebra",
+      "stage": "student",
+      "status": "PhD student · 2026 cohort",
+      "degree": "Doctoral studies (aspirantura) · 2026 cohort",
+      "affiliations": [
+        "SPbSU"
+      ],
+      "interests": "Geometric group theory, nilpotent groups and geodesic languages.",
+      "notes": "Listed in the university doctoral programme M3.80115.2026. The cohort year is an entry year, not a degree-award year. The available source confirms SPbSU enrolment; a separate MCS appointment was not verified.",
+      "statusAsOf": "2026-09-10",
+      "sources": [
+        {
+          "label": "SPbSU researcher profile and doctoral programme",
+          "url": "https://pureportal.spbu.ru/ru/persons/--(fd77e41c-64c4-4f9f-9200-d226993a15a1).html"
+        },
+        {
+          "label": "2026 doctoral cohort roster",
+          "url": "https://pureportal.spbu.ru/ru/organisations/m3801152026(4df1cab5-8800-4576-a6bc-26be011fbd42)/persons.html"
+        },
+        {
+          "label": "SPbSU doctoral programme directory",
+          "url": "https://pureportal.spbu.ru/ru/organisations/doctoral-aspirantura-programs-from-2022(5900463c-989c-486c-8c3a-cde2c6c35622).html"
+        }
+      ],
+      "historical": false
+    },
+    {
+      "id": "maria-radionova",
+      "name": "Maria Radionova",
+      "nameRu": "Мария Алексеевна Радионова",
+      "field": "discrete",
+      "stage": "student",
+      "status": "PhD student · 2026 cohort",
+      "degree": "Doctoral studies (aspirantura) · 2026 cohort",
+      "affiliations": [
+        "SPbSU MCS"
+      ],
+      "interests": "Finite automata, reversible computation and formal languages.",
+      "notes": "Listed in the university doctoral programme M3.80115.2026. The cohort year is an entry year, not a degree-award year.",
+      "statusAsOf": "2026-09-10",
+      "sources": [
+        {
+          "label": "SPbSU researcher profile and doctoral programme",
+          "url": "https://pureportal.spbu.ru/ru/persons/--(58d0669d-26f9-411f-b2ef-38e7da027c86).html"
+        },
+        {
+          "label": "2026 doctoral cohort roster",
+          "url": "https://pureportal.spbu.ru/ru/organisations/m3801152026(4df1cab5-8800-4576-a6bc-26be011fbd42)/persons.html"
+        },
+        {
+          "label": "SPbSU doctoral programme directory",
+          "url": "https://pureportal.spbu.ru/ru/organisations/doctoral-aspirantura-programs-from-2022(5900463c-989c-486c-8c3a-cde2c6c35622).html"
+        }
+      ],
+      "historical": false
+    },
+    {
+      "id": "vladislav-khramov",
+      "name": "Vladislav Khramov",
+      "nameRu": "Владислав Александрович Храмов",
+      "field": "algebra",
+      "stage": "student",
+      "status": "PhD student · 2026 cohort",
+      "degree": "Doctoral studies (aspirantura) · 2026 cohort",
+      "affiliations": [
+        "SPbSU"
+      ],
+      "interests": "Algebra, number theory, mathematical logic and discrete mathematics (doctoral programme).",
+      "notes": "Listed in the university doctoral programme M3.80115.2026. The cohort year is an entry year, not a degree-award year. The description gives the programme field because no narrower mathematical research topic was found. The available source confirms SPbSU enrolment; a separate MCS appointment was not verified.",
+      "statusAsOf": "2026-09-10",
+      "sources": [
+        {
+          "label": "SPbSU researcher profile and doctoral programme",
+          "url": "https://pureportal.spbu.ru/ru/persons/--(1e88f141-9e75-4124-bca7-dcbfaa0fa37f).html"
+        },
+        {
+          "label": "2026 doctoral cohort roster",
+          "url": "https://pureportal.spbu.ru/ru/organisations/m3801152026(4df1cab5-8800-4576-a6bc-26be011fbd42)/persons.html"
+        },
+        {
+          "label": "SPbSU doctoral programme directory",
+          "url": "https://pureportal.spbu.ru/ru/organisations/doctoral-aspirantura-programs-from-2022(5900463c-989c-486c-8c3a-cde2c6c35622).html"
+        }
+      ],
+      "historical": false
+    },
+    {
+      "id": "timur-batenev",
+      "name": "Timur Batenev",
+      "nameRu": "Тимур Геннадьевич Батенёв",
+      "field": "analysis",
+      "stage": "student",
+      "status": "PhD student · 2023 cohort",
+      "degree": "Doctoral studies (aspirantura) · 2023 cohort",
+      "affiliations": [
+        "SPbSU MCS"
+      ],
+      "interests": "Complex and harmonic analysis, analytic-function spaces and operator theory.",
+      "notes": "Listed in the university doctoral programme M3.90111.2023. The cohort year is an entry year, not a degree-award year.",
+      "statusAsOf": "2026-09-10",
+      "sources": [
+        {
+          "label": "SPbSU researcher profile and doctoral programme",
+          "url": "https://pureportal.spbu.ru/ru/persons/--(b3c26389-e19f-407f-aa0d-c00705b17fc9).html"
+        },
+        {
+          "label": "2023 doctoral cohort roster",
+          "url": "https://pureportal.spbu.ru/ru/organisations/m3901112023(bb5bfca5-229e-4b75-9391-168b1c737caf)/persons.html"
+        },
+        {
+          "label": "SPbSU doctoral programme directory",
+          "url": "https://pureportal.spbu.ru/ru/organisations/doctoral-aspirantura-programs-from-2022(5900463c-989c-486c-8c3a-cde2c6c35622).html"
+        },
+        {
+          "label": "MCS faculty directory profile",
+          "url": "https://math-cs.spbu.ru/people/batenyov-timur-gennadevich/"
+        },
+        {
+          "label": "EIMI doctoral fellowship results · 8 June 2025",
+          "url": "https://eimi.ru/news/5885/"
+        }
+      ],
+      "historical": false
+    },
+    {
+      "id": "egor-dobronravov",
+      "name": "Egor Dobronravov",
+      "nameRu": "Егор Петрович Добронравов",
+      "field": "analysis",
+      "stage": "student",
+      "status": "PhD student · 2023 cohort",
+      "degree": "Doctoral studies (aspirantura) · 2023 cohort",
+      "affiliations": [
+        "SPbSU MCS"
+      ],
+      "interests": "Bellman functions, BMO and sharp inequalities in harmonic analysis.",
+      "notes": "Listed in the university doctoral programme M3.90111.2023. The cohort year is an entry year, not a degree-award year.",
+      "statusAsOf": "2026-09-10",
+      "sources": [
+        {
+          "label": "SPbSU researcher profile and doctoral programme",
+          "url": "https://pureportal.spbu.ru/ru/persons/--(4f1ef810-54d0-4796-aa01-4c925b0afe4c).html"
+        },
+        {
+          "label": "2023 doctoral cohort roster",
+          "url": "https://pureportal.spbu.ru/ru/organisations/m3901112023(bb5bfca5-229e-4b75-9391-168b1c737caf)/persons.html"
+        },
+        {
+          "label": "SPbSU doctoral programme directory",
+          "url": "https://pureportal.spbu.ru/ru/organisations/doctoral-aspirantura-programs-from-2022(5900463c-989c-486c-8c3a-cde2c6c35622).html"
+        },
+        {
+          "label": "MCS faculty directory profile",
+          "url": "https://math-cs.spbu.ru/people/dobronravov-egor-petrovich/"
+        },
+        {
+          "label": "EIMI doctoral fellowship results · 8 June 2025",
+          "url": "https://eimi.ru/news/5885/"
+        }
+      ],
+      "historical": false
+    },
+    {
+      "id": "nikita-dobronravov",
+      "name": "Nikita Dobronravov",
+      "nameRu": "Никита Петрович Добронравов",
+      "field": "analysis",
+      "stage": "student",
+      "status": "PhD student · 2023 cohort",
+      "degree": "Doctoral studies (aspirantura) · 2023 cohort",
+      "affiliations": [
+        "SPbSU MCS"
+      ],
+      "interests": "Harmonic analysis, Fourier transforms of measures and geometric measure theory.",
+      "notes": "Listed in the university doctoral programme M3.90111.2023. The cohort year is an entry year, not a degree-award year.",
+      "statusAsOf": "2026-09-10",
+      "sources": [
+        {
+          "label": "SPbSU researcher profile and doctoral programme",
+          "url": "https://pureportal.spbu.ru/ru/persons/--(65712aeb-be34-4ec2-b42c-0ce68c8962f0).html"
+        },
+        {
+          "label": "2023 doctoral cohort roster",
+          "url": "https://pureportal.spbu.ru/ru/organisations/m3901112023(bb5bfca5-229e-4b75-9391-168b1c737caf)/persons.html"
+        },
+        {
+          "label": "SPbSU doctoral programme directory",
+          "url": "https://pureportal.spbu.ru/ru/organisations/doctoral-aspirantura-programs-from-2022(5900463c-989c-486c-8c3a-cde2c6c35622).html"
+        },
+        {
+          "label": "MCS faculty directory profile",
+          "url": "https://math-cs.spbu.ru/people/dobronravov-nikita-petrovich/"
+        },
+        {
+          "label": "EIMI doctoral fellowship results · 8 June 2025",
+          "url": "https://eimi.ru/news/5885/"
+        }
+      ],
+      "historical": false
+    },
+    {
+      "id": "alexander-dorokhin",
+      "name": "Alexander Dorokhin",
+      "nameRu": "Александр Игоревич Дорохин",
+      "field": "analysis",
+      "stage": "student",
+      "status": "PhD student · 2025 cohort",
+      "degree": "Doctoral studies (aspirantura) · 2025 cohort",
+      "affiliations": [
+        "SPbSU"
+      ],
+      "interests": "Real, complex and functional analysis (doctoral programme).",
+      "notes": "Listed in the university doctoral programme M3.90111.2025. The cohort year is an entry year, not a degree-award year. The description gives the programme field because no narrower mathematical research topic was found. The available source confirms SPbSU enrolment; a separate MCS appointment was not verified.",
+      "statusAsOf": "2026-09-10",
+      "sources": [
+        {
+          "label": "SPbSU researcher profile and doctoral programme",
+          "url": "https://pureportal.spbu.ru/ru/persons/--(41af5949-52c2-4b08-aaed-0f44813c21a8).html"
+        },
+        {
+          "label": "2025 doctoral cohort roster",
+          "url": "https://pureportal.spbu.ru/ru/organisations/m3901112025(212271d4-657c-4917-b89c-19ad4a0460ef)/persons.html"
+        },
+        {
+          "label": "SPbSU doctoral programme directory",
+          "url": "https://pureportal.spbu.ru/ru/organisations/doctoral-aspirantura-programs-from-2022(5900463c-989c-486c-8c3a-cde2c6c35622).html"
+        }
+      ],
+      "historical": false
+    },
+    {
+      "id": "maksim-matveev",
+      "name": "Maksim Matveev",
+      "nameRu": "Максим Андреевич Матвеев",
+      "field": "analysis",
+      "stage": "student",
+      "status": "PhD student · 2025 cohort",
+      "degree": "Doctoral studies (aspirantura) · 2025 cohort",
+      "affiliations": [
+        "SPbSU"
+      ],
+      "interests": "Real, complex and functional analysis (doctoral programme).",
+      "notes": "Listed in the university doctoral programme M3.90111.2025. The cohort year is an entry year, not a degree-award year. The description gives the programme field because no narrower mathematical research topic was found. The available source confirms SPbSU enrolment; a separate MCS appointment was not verified.",
+      "statusAsOf": "2026-09-10",
+      "sources": [
+        {
+          "label": "SPbSU researcher profile and doctoral programme",
+          "url": "https://pureportal.spbu.ru/ru/persons/--(8b426e0e-5289-4034-a649-e8d4da1b4d8b).html"
+        },
+        {
+          "label": "2025 doctoral cohort roster",
+          "url": "https://pureportal.spbu.ru/ru/organisations/m3901112025(212271d4-657c-4917-b89c-19ad4a0460ef)/persons.html"
+        },
+        {
+          "label": "SPbSU doctoral programme directory",
+          "url": "https://pureportal.spbu.ru/ru/organisations/doctoral-aspirantura-programs-from-2022(5900463c-989c-486c-8c3a-cde2c6c35622).html"
+        }
+      ],
+      "historical": false
+    },
+    {
+      "id": "valentin-murashov",
+      "name": "Valentin Murashov",
+      "nameRu": "Валентин Михайлович Мурашов",
+      "field": "analysis",
+      "stage": "student",
+      "status": "PhD student · 2025 cohort",
+      "degree": "Doctoral studies (aspirantura) · 2025 cohort",
+      "affiliations": [
+        "SPbSU"
+      ],
+      "interests": "Real, complex and functional analysis (doctoral programme).",
+      "notes": "Listed in the university doctoral programme M3.90111.2025. The cohort year is an entry year, not a degree-award year. The description gives the programme field because no narrower mathematical research topic was found. The available source confirms SPbSU enrolment; a separate MCS appointment was not verified.",
+      "statusAsOf": "2026-09-10",
+      "sources": [
+        {
+          "label": "SPbSU researcher profile and doctoral programme",
+          "url": "https://pureportal.spbu.ru/ru/persons/--(1898cd86-9eef-4704-a661-7aa90b8c746e).html"
+        },
+        {
+          "label": "2025 doctoral cohort roster",
+          "url": "https://pureportal.spbu.ru/ru/organisations/m3901112025(212271d4-657c-4917-b89c-19ad4a0460ef)/persons.html"
+        },
+        {
+          "label": "SPbSU doctoral programme directory",
+          "url": "https://pureportal.spbu.ru/ru/organisations/doctoral-aspirantura-programs-from-2022(5900463c-989c-486c-8c3a-cde2c6c35622).html"
+        }
+      ],
+      "historical": false
+    },
+    {
+      "id": "kirill-barabanshchikov",
+      "name": "Kirill Barabanshchikov",
+      "nameRu": "Кирилл Витальевич Барабанщиков",
+      "field": "analysis",
+      "stage": "student",
+      "status": "PhD student · 2026 cohort",
+      "degree": "Doctoral studies (aspirantura) · 2026 cohort",
+      "affiliations": [
+        "SPbSU"
+      ],
+      "interests": "Real, complex and functional analysis (doctoral programme).",
+      "notes": "Listed in the university doctoral programme M3.90111.2026. The cohort year is an entry year, not a degree-award year. The description gives the programme field because no narrower mathematical research topic was found. The available source confirms SPbSU enrolment; a separate MCS appointment was not verified.",
+      "statusAsOf": "2026-09-10",
+      "sources": [
+        {
+          "label": "SPbSU researcher profile and doctoral programme",
+          "url": "https://pureportal.spbu.ru/ru/persons/--(8fe27845-8935-408e-8757-4c6f000a4769).html"
+        },
+        {
+          "label": "2026 doctoral cohort roster",
+          "url": "https://pureportal.spbu.ru/ru/organisations/m3901112026(f0dfb34d-a32f-4661-bc03-74daeb2fc407)/persons.html"
+        },
+        {
+          "label": "SPbSU doctoral programme directory",
+          "url": "https://pureportal.spbu.ru/ru/organisations/doctoral-aspirantura-programs-from-2022(5900463c-989c-486c-8c3a-cde2c6c35622).html"
+        }
+      ],
+      "historical": false
+    },
+    {
+      "id": "arman-tadevosyan",
+      "name": "Arman Tadevosyan",
+      "nameRu": "Арман Арменович Тадевосян",
+      "field": "probability",
+      "stage": "student",
+      "status": "PhD student · 2023 cohort",
+      "degree": "Doctoral studies (aspirantura) · 2023 cohort",
+      "affiliations": [
+        "SPbSU"
+      ],
+      "interests": "Random assignment processes and their maxima.",
+      "notes": "Listed in the university doctoral programme M3.90114.2023. The cohort year is an entry year, not a degree-award year. The available source confirms SPbSU enrolment; a separate MCS appointment was not verified.",
+      "statusAsOf": "2026-09-10",
+      "sources": [
+        {
+          "label": "SPbSU researcher profile and doctoral programme",
+          "url": "https://pureportal.spbu.ru/ru/persons/--(940dd35f-eacc-4d1a-bb74-3f694cfdd0bc).html"
+        },
+        {
+          "label": "2023 doctoral cohort roster",
+          "url": "https://pureportal.spbu.ru/ru/organisations/m3901142023(58e8352e-f07e-4a25-9c2d-8d98eaa7fb27)/persons.html"
+        },
+        {
+          "label": "SPbSU doctoral programme directory",
+          "url": "https://pureportal.spbu.ru/ru/organisations/doctoral-aspirantura-programs-from-2022(5900463c-989c-486c-8c3a-cde2c6c35622).html"
+        }
+      ],
+      "historical": false
+    },
+    {
+      "id": "alexey-bogarev",
+      "name": "Alexey Bogarev",
+      "nameRu": "Алексей Сергеевич Богарев",
+      "field": "probability",
+      "stage": "student",
+      "status": "PhD student · 2024 cohort",
+      "degree": "Doctoral studies (aspirantura) · 2024 cohort",
+      "affiliations": [
+        "SPbSU"
+      ],
+      "interests": "Asymptotic behaviour of sums of independent random variables and stochastic processes.",
+      "notes": "Listed in the university doctoral programme M3.90114.2024. The cohort year is an entry year, not a degree-award year. The available source confirms SPbSU enrolment; a separate MCS appointment was not verified.",
+      "statusAsOf": "2026-09-10",
+      "sources": [
+        {
+          "label": "SPbSU researcher profile and doctoral programme",
+          "url": "https://pureportal.spbu.ru/ru/persons/--(7d64d429-5df2-4956-bcc4-d4e4f0e89f85).html"
+        },
+        {
+          "label": "2024 doctoral cohort roster",
+          "url": "https://pureportal.spbu.ru/ru/organisations/m3901142024(4ccae2fb-4e00-4433-b3a9-f3d07ac54b5e)/persons.html"
+        },
+        {
+          "label": "SPbSU doctoral programme directory",
+          "url": "https://pureportal.spbu.ru/ru/organisations/doctoral-aspirantura-programs-from-2022(5900463c-989c-486c-8c3a-cde2c6c35622).html"
+        }
+      ],
+      "historical": false
+    },
+    {
+      "id": "sergey-korotkov",
+      "name": "Sergey Korotkov",
+      "nameRu": "Сергей Алексеевич Коротков",
+      "field": "probability",
+      "stage": "student",
+      "status": "PhD student · 2025 cohort",
+      "degree": "Doctoral studies (aspirantura) · 2025 cohort",
+      "affiliations": [
+        "SPbSU"
+      ],
+      "interests": "Probability theory and mathematical statistics (doctoral programme).",
+      "notes": "Listed in the university doctoral programme M3.90114.2025. The cohort year is an entry year, not a degree-award year. The description gives the programme field because no narrower mathematical research topic was found. The available source confirms SPbSU enrolment; a separate MCS appointment was not verified.",
+      "statusAsOf": "2026-09-10",
+      "sources": [
+        {
+          "label": "SPbSU researcher profile and doctoral programme",
+          "url": "https://pureportal.spbu.ru/ru/persons/--(09bcfa7f-3efb-4496-977f-45a9b4bc4a2e).html"
+        },
+        {
+          "label": "2025 doctoral cohort roster",
+          "url": "https://pureportal.spbu.ru/ru/organisations/m3901142025(44fae9cf-6f72-411a-b12b-e5c107950e12)/persons.html"
+        },
+        {
+          "label": "SPbSU doctoral programme directory",
+          "url": "https://pureportal.spbu.ru/ru/organisations/doctoral-aspirantura-programs-from-2022(5900463c-989c-486c-8c3a-cde2c6c35622).html"
+        }
+      ],
+      "historical": false
+    },
+    {
+      "id": "andrey-podchishchaylov",
+      "name": "Andrey Podchishchaylov",
+      "nameRu": "Андрей Александрович Подчищайлов",
+      "field": "probability",
+      "stage": "student",
+      "status": "PhD student · 2025 cohort",
+      "degree": "Doctoral studies (aspirantura) · 2025 cohort",
+      "affiliations": [
+        "SPbSU MCS"
+      ],
+      "interests": "Brownian motion and taut-string approximation of random paths.",
+      "notes": "Listed in the university doctoral programme M3.90114.2025. The cohort year is an entry year, not a degree-award year.",
+      "statusAsOf": "2026-09-10",
+      "sources": [
+        {
+          "label": "SPbSU researcher profile and doctoral programme",
+          "url": "https://pureportal.spbu.ru/ru/persons/--(98bae091-d2f5-43c8-8839-34bee58baf8a).html"
+        },
+        {
+          "label": "2025 doctoral cohort roster",
+          "url": "https://pureportal.spbu.ru/ru/organisations/m3901142025(44fae9cf-6f72-411a-b12b-e5c107950e12)/persons.html"
+        },
+        {
+          "label": "SPbSU doctoral programme directory",
+          "url": "https://pureportal.spbu.ru/ru/organisations/doctoral-aspirantura-programs-from-2022(5900463c-989c-486c-8c3a-cde2c6c35622).html"
+        },
+        {
+          "label": "MCS faculty directory profile",
+          "url": "https://math-cs.spbu.ru/people/podchishhajlov-andrej-aleksandrovich/"
+        }
+      ],
+      "historical": false
+    },
+    {
+      "id": "mikhail-d-mikhailov",
+      "name": "Mikhail D. Mikhailov",
+      "nameRu": "Михаил Дмитриевич Михайлов",
+      "field": "probability",
+      "stage": "student",
+      "status": "PhD student · 2026 cohort",
+      "degree": "Doctoral studies (aspirantura) · 2026 cohort",
+      "affiliations": [
+        "SPbSU"
+      ],
+      "interests": "Stochastic processes and simulation of trawl processes.",
+      "notes": "Listed in the university doctoral programme M3.90114.2026. The cohort year is an entry year, not a degree-award year. The available source confirms SPbSU enrolment; a separate MCS appointment was not verified.",
+      "statusAsOf": "2026-09-10",
+      "sources": [
+        {
+          "label": "SPbSU researcher profile and doctoral programme",
+          "url": "https://pureportal.spbu.ru/ru/persons/--(dd32ae80-59ae-487f-b42f-ba882b2698a5).html"
+        },
+        {
+          "label": "2026 doctoral cohort roster",
+          "url": "https://pureportal.spbu.ru/ru/organisations/m3901142026(07962692-9724-43c5-a84d-7f992f0a3c36)/persons.html"
+        },
+        {
+          "label": "SPbSU doctoral programme directory",
+          "url": "https://pureportal.spbu.ru/ru/organisations/doctoral-aspirantura-programs-from-2022(5900463c-989c-486c-8c3a-cde2c6c35622).html"
+        }
+      ],
+      "historical": false
+    },
+    {
+      "id": "anastasia-chelnokova",
+      "name": "Anastasia Chelnokova",
+      "nameRu": "Анастасия Дмитриевна Челнокова",
+      "field": "probability",
+      "stage": "student",
+      "status": "PhD student · 2026 cohort",
+      "degree": "Doctoral studies (aspirantura) · 2026 cohort",
+      "affiliations": [
+        "SPbSU"
+      ],
+      "interests": "Probability theory and mathematical statistics (doctoral programme).",
+      "notes": "Listed in the university doctoral programme M3.90114.2026. The cohort year is an entry year, not a degree-award year. The description gives the programme field because no narrower mathematical research topic was found. The available source confirms SPbSU enrolment; a separate MCS appointment was not verified.",
+      "statusAsOf": "2026-09-10",
+      "sources": [
+        {
+          "label": "SPbSU researcher profile and doctoral programme",
+          "url": "https://pureportal.spbu.ru/ru/persons/--(af998557-c7d6-4041-982e-aef668e839ea).html"
+        },
+        {
+          "label": "2026 doctoral cohort roster",
+          "url": "https://pureportal.spbu.ru/ru/organisations/m3901142026(07962692-9724-43c5-a84d-7f992f0a3c36)/persons.html"
+        },
+        {
+          "label": "SPbSU doctoral programme directory",
+          "url": "https://pureportal.spbu.ru/ru/organisations/doctoral-aspirantura-programs-from-2022(5900463c-989c-486c-8c3a-cde2c6c35622).html"
+        }
+      ],
+      "historical": false
+    },
+    {
+      "id": "yash-arora",
+      "name": "Yash Arora",
+      "nameRu": "Яш Арора",
+      "field": "algebra",
+      "stage": "student",
+      "status": "PhD student · 2022 cohort",
+      "degree": "Doctoral studies (aspirantura) · 2022 cohort",
+      "affiliations": [
+        "SPbSU"
+      ],
+      "interests": "Algebra, number theory, mathematical logic and discrete mathematics (doctoral programme).",
+      "notes": "Listed in the university doctoral programme M3.90115.2022. The cohort year is an entry year, not a degree-award year. The description gives the programme field because no narrower mathematical research topic was found. The available source confirms SPbSU enrolment; a separate MCS appointment was not verified.",
+      "statusAsOf": "2026-09-10",
+      "sources": [
+        {
+          "label": "SPbSU researcher profile and doctoral programme",
+          "url": "https://pureportal.spbu.ru/ru/persons/-(8270d35b-0bfb-4ae5-842d-8f1e558e28a5).html"
+        },
+        {
+          "label": "2022 doctoral cohort roster",
+          "url": "https://pureportal.spbu.ru/ru/organisations/m3901152022(98e53af0-e614-4ffc-9f1e-eb7dbab7eb3e)/persons.html"
+        },
+        {
+          "label": "SPbSU doctoral programme directory",
+          "url": "https://pureportal.spbu.ru/ru/organisations/doctoral-aspirantura-programs-from-2022(5900463c-989c-486c-8c3a-cde2c6c35622).html"
+        },
+        {
+          "label": "EIMI doctoral fellowship results · 8 June 2025",
+          "url": "https://eimi.ru/news/5885/"
+        }
+      ],
+      "historical": false
+    },
+    {
+      "id": "nikita-zhamkov",
+      "name": "Nikita Zhamkov",
+      "nameRu": "Никита Сергеевич Жамков",
+      "field": "algebra",
+      "stage": "student",
+      "status": "PhD student · 2023 cohort",
+      "degree": "Doctoral studies (aspirantura) · 2023 cohort",
+      "affiliations": [
+        "SPbSU"
+      ],
+      "interests": "Homological algebra and injective structures in homotopy categories.",
+      "notes": "Listed in the university doctoral programme M3.90115.2023. The cohort year is an entry year, not a degree-award year. The available source confirms SPbSU enrolment; a separate MCS appointment was not verified.",
+      "statusAsOf": "2026-09-10",
+      "sources": [
+        {
+          "label": "SPbSU researcher profile and doctoral programme",
+          "url": "https://pureportal.spbu.ru/ru/persons/--(755eeec7-8c00-4d67-93ed-5c9cf53fd6a3).html"
+        },
+        {
+          "label": "2023 doctoral cohort roster",
+          "url": "https://pureportal.spbu.ru/ru/organisations/m3901152023(07e7d2bc-54bc-44f7-bb19-aa59b06510f5)/persons.html"
+        },
+        {
+          "label": "SPbSU doctoral programme directory",
+          "url": "https://pureportal.spbu.ru/ru/organisations/doctoral-aspirantura-programs-from-2022(5900463c-989c-486c-8c3a-cde2c6c35622).html"
+        }
+      ],
+      "historical": false
+    },
+    {
+      "id": "mikhail-p-ivanov",
+      "name": "Mikhail P. Ivanov",
+      "nameRu": "Михаил Павлович Иванов",
+      "field": "discrete",
+      "stage": "student",
+      "status": "PhD student · 2023 cohort",
+      "degree": "Doctoral studies (aspirantura) · 2023 cohort",
+      "affiliations": [
+        "SPbSU MCS"
+      ],
+      "interests": "Graph theory, particularly edge colourings of cubic graphs.",
+      "notes": "The university portal lists the 2023 doctoral cohort; the MCS coursework competition records a research project on edge colourings of cubic graphs.",
+      "statusAsOf": "2026-09-10",
+      "sources": [
+        {
+          "label": "SPbSU researcher profile and doctoral programme",
+          "url": "https://pureportal.spbu.ru/ru/persons/--(aba368e7-6465-49d6-8164-33b31594e575).html"
+        },
+        {
+          "label": "2023 doctoral cohort roster",
+          "url": "https://pureportal.spbu.ru/ru/organisations/m3901152023(07e7d2bc-54bc-44f7-bb19-aa59b06510f5)/persons.html"
+        },
+        {
+          "label": "SPbSU doctoral programme directory",
+          "url": "https://pureportal.spbu.ru/ru/organisations/doctoral-aspirantura-programs-from-2022(5900463c-989c-486c-8c3a-cde2c6c35622).html"
+        },
+        {
+          "label": "MCS research-project competition, 2020",
+          "url": "https://math-cs.spbu.ru/konkurs-kursovyh-2020/"
+        }
+      ],
+      "historical": false
+    },
+    {
+      "id": "arina-filimonova",
+      "name": "Arina Filimonova",
+      "nameRu": "Арина Николаевна Филимонова",
+      "field": "discrete",
+      "stage": "student",
+      "status": "PhD student · 2023 cohort",
+      "degree": "Doctoral studies (aspirantura) · 2023 cohort",
+      "affiliations": [
+        "SPbSU MCS"
+      ],
+      "interests": "Combinatorics on words and abelian periodicity.",
+      "notes": "Listed in the university doctoral programme M3.90115.2023. The cohort year is an entry year, not a degree-award year.",
+      "statusAsOf": "2026-09-10",
+      "sources": [
+        {
+          "label": "SPbSU researcher profile and doctoral programme",
+          "url": "https://pureportal.spbu.ru/ru/persons/--(95d7a6ea-ffdb-4649-a196-7ac1a1b5ac79).html"
+        },
+        {
+          "label": "2023 doctoral cohort roster",
+          "url": "https://pureportal.spbu.ru/ru/organisations/m3901152023(07e7d2bc-54bc-44f7-bb19-aa59b06510f5)/persons.html"
+        },
+        {
+          "label": "SPbSU doctoral programme directory",
+          "url": "https://pureportal.spbu.ru/ru/organisations/doctoral-aspirantura-programs-from-2022(5900463c-989c-486c-8c3a-cde2c6c35622).html"
+        },
+        {
+          "label": "Research paper on abelian periodicity",
+          "url": "https://arxiv.org/abs/2605.30306"
+        }
+      ],
+      "historical": false
+    },
+    {
+      "id": "alexander-aizatov",
+      "name": "Alexander Aizatov",
+      "nameRu": "Александр Андреевич Айзатов",
+      "field": "algebra",
+      "stage": "student",
+      "status": "PhD student · 2024 cohort",
+      "degree": "Doctoral studies (aspirantura) · 2024 cohort",
+      "affiliations": [
+        "SPbSU"
+      ],
+      "interests": "Algebra, number theory, mathematical logic and discrete mathematics (doctoral programme).",
+      "notes": "Listed in the university doctoral programme M3.90115.2024. The cohort year is an entry year, not a degree-award year. The description gives the programme field because no narrower mathematical research topic was found. The available source confirms SPbSU enrolment; a separate MCS appointment was not verified.",
+      "statusAsOf": "2026-09-10",
+      "sources": [
+        {
+          "label": "SPbSU researcher profile and doctoral programme",
+          "url": "https://pureportal.spbu.ru/ru/persons/--(c86153b3-b44e-4b89-990a-6b0fd0c8c6cb).html"
+        },
+        {
+          "label": "2024 doctoral cohort roster",
+          "url": "https://pureportal.spbu.ru/ru/organisations/m3901152024(eac20957-6df1-47d3-84fd-9175247a7bb7)/persons.html"
+        },
+        {
+          "label": "SPbSU doctoral programme directory",
+          "url": "https://pureportal.spbu.ru/ru/organisations/doctoral-aspirantura-programs-from-2022(5900463c-989c-486c-8c3a-cde2c6c35622).html"
+        }
+      ],
+      "historical": false
+    },
+    {
+      "id": "sergey-luchinin",
+      "name": "Sergey Luchinin",
+      "nameRu": "Сергей Александрович Лучинин",
+      "field": "discrete",
+      "stage": "student",
+      "status": "PhD student · 2024 cohort",
+      "degree": "Doctoral studies (aspirantura) · 2024 cohort",
+      "affiliations": [
+        "SPbSU MCS"
+      ],
+      "interests": "Combinatorics on words, subword reconstruction and symmetry groups.",
+      "notes": "Listed in the university doctoral programme M3.90115.2024. The cohort year is an entry year, not a degree-award year.",
+      "statusAsOf": "2026-09-10",
+      "sources": [
+        {
+          "label": "SPbSU researcher profile and doctoral programme",
+          "url": "https://pureportal.spbu.ru/ru/persons/--(38c513cb-3848-42a2-ba0c-4d74d8ca41e2).html"
+        },
+        {
+          "label": "2024 doctoral cohort roster",
+          "url": "https://pureportal.spbu.ru/ru/organisations/m3901152024(eac20957-6df1-47d3-84fd-9175247a7bb7)/persons.html"
+        },
+        {
+          "label": "SPbSU doctoral programme directory",
+          "url": "https://pureportal.spbu.ru/ru/organisations/doctoral-aspirantura-programs-from-2022(5900463c-989c-486c-8c3a-cde2c6c35622).html"
+        }
+      ],
+      "historical": false
+    },
+    {
+      "id": "vladislav-orekhovsky",
+      "name": "Vladislav Orekhovsky",
+      "nameRu": "Владислав Николаевич Ореховский",
+      "field": "discrete",
+      "stage": "student",
+      "status": "PhD student · 2024 cohort",
+      "degree": "Doctoral studies (aspirantura) · 2024 cohort",
+      "affiliations": [
+        "SPbSU MCS"
+      ],
+      "interests": "Mathematical logic, topology and regular languages of infinite words.",
+      "notes": "Listed in the university doctoral programme M3.90115.2024. The cohort year is an entry year, not a degree-award year.",
+      "statusAsOf": "2026-09-10",
+      "sources": [
+        {
+          "label": "SPbSU researcher profile and doctoral programme",
+          "url": "https://pureportal.spbu.ru/ru/persons/--(98f26fcc-db4c-438f-90b1-99f262f5ae88).html"
+        },
+        {
+          "label": "2024 doctoral cohort roster",
+          "url": "https://pureportal.spbu.ru/ru/organisations/m3901152024(eac20957-6df1-47d3-84fd-9175247a7bb7)/persons.html"
+        },
+        {
+          "label": "SPbSU doctoral programme directory",
+          "url": "https://pureportal.spbu.ru/ru/organisations/doctoral-aspirantura-programs-from-2022(5900463c-989c-486c-8c3a-cde2c6c35622).html"
+        },
+        {
+          "label": "MCS faculty directory profile",
+          "url": "https://math-cs.spbu.ru/people/orehovskij-vladislav-nikolaevich/"
+        },
+        {
+          "label": "EIMI doctoral fellowship results · 8 June 2025",
+          "url": "https://eimi.ru/news/5885/"
+        }
+      ],
+      "historical": false
+    },
+    {
+      "id": "daniil-fomichev",
+      "name": "Daniil Fomichev",
+      "nameRu": "Даниил Сергеевич Фомичев",
+      "field": "algebra",
+      "stage": "student",
+      "status": "PhD student · 2024 cohort",
+      "degree": "Doctoral studies (aspirantura) · 2024 cohort",
+      "affiliations": [
+        "SPbSU"
+      ],
+      "interests": "Algebra, number theory, mathematical logic and discrete mathematics (doctoral programme).",
+      "notes": "Listed in the university doctoral programme M3.90115.2024. The cohort year is an entry year, not a degree-award year. The description gives the programme field because no narrower mathematical research topic was found. The available source confirms SPbSU enrolment; a separate MCS appointment was not verified.",
+      "statusAsOf": "2026-09-10",
+      "sources": [
+        {
+          "label": "SPbSU researcher profile and doctoral programme",
+          "url": "https://pureportal.spbu.ru/ru/persons/--(8372f0be-be07-4533-90e9-f5ec69c7a728).html"
+        },
+        {
+          "label": "2024 doctoral cohort roster",
+          "url": "https://pureportal.spbu.ru/ru/organisations/m3901152024(eac20957-6df1-47d3-84fd-9175247a7bb7)/persons.html"
+        },
+        {
+          "label": "SPbSU doctoral programme directory",
+          "url": "https://pureportal.spbu.ru/ru/organisations/doctoral-aspirantura-programs-from-2022(5900463c-989c-486c-8c3a-cde2c6c35622).html"
+        }
+      ],
+      "historical": false
+    },
+    {
+      "id": "stepan-shamov",
+      "name": "Stepan Shamov",
+      "nameRu": "Степан Владимирович Шамов",
+      "field": "algebra",
+      "stage": "student",
+      "status": "PhD student · 2024 cohort",
+      "degree": "Doctoral studies (aspirantura) · 2024 cohort",
+      "affiliations": [
+        "SPbSU MCS"
+      ],
+      "interests": "Triangulated categories, Postnikov towers and weight spectral sequences.",
+      "notes": "Listed in the university doctoral programme M3.90115.2024. The cohort year is an entry year, not a degree-award year.",
+      "statusAsOf": "2026-09-10",
+      "sources": [
+        {
+          "label": "SPbSU researcher profile and doctoral programme",
+          "url": "https://pureportal.spbu.ru/ru/persons/--(51e7b125-604b-4dbd-9f50-89a01fef14c8).html"
+        },
+        {
+          "label": "2024 doctoral cohort roster",
+          "url": "https://pureportal.spbu.ru/ru/organisations/m3901152024(eac20957-6df1-47d3-84fd-9175247a7bb7)/persons.html"
+        },
+        {
+          "label": "SPbSU doctoral programme directory",
+          "url": "https://pureportal.spbu.ru/ru/organisations/doctoral-aspirantura-programs-from-2022(5900463c-989c-486c-8c3a-cde2c6c35622).html"
+        },
+        {
+          "label": "EIMI doctoral fellowship results · 8 June 2025",
+          "url": "https://eimi.ru/news/5885/"
+        }
+      ],
+      "historical": false
+    },
+    {
+      "id": "vladimir-schavelev",
+      "name": "Vladimir Schavelev",
+      "nameRu": "Владимир Эдуардович Щавелев",
+      "field": "algebra",
+      "stage": "student",
+      "status": "PhD student · 2024 cohort",
+      "degree": "Doctoral studies (aspirantura) · 2024 cohort",
+      "affiliations": [
+        "SPbSU"
+      ],
+      "interests": "Algebra, number theory, mathematical logic and discrete mathematics (doctoral programme).",
+      "notes": "Listed in the university doctoral programme M3.90115.2024. The cohort year is an entry year, not a degree-award year. The description gives the programme field because no narrower mathematical research topic was found. The available source confirms SPbSU enrolment; a separate MCS appointment was not verified.",
+      "statusAsOf": "2026-09-10",
+      "sources": [
+        {
+          "label": "SPbSU researcher profile and doctoral programme",
+          "url": "https://pureportal.spbu.ru/ru/persons/--(9ffbc472-e152-4a07-8c23-20041ee4189c).html"
+        },
+        {
+          "label": "2024 doctoral cohort roster",
+          "url": "https://pureportal.spbu.ru/ru/organisations/m3901152024(eac20957-6df1-47d3-84fd-9175247a7bb7)/persons.html"
+        },
+        {
+          "label": "SPbSU doctoral programme directory",
+          "url": "https://pureportal.spbu.ru/ru/organisations/doctoral-aspirantura-programs-from-2022(5900463c-989c-486c-8c3a-cde2c6c35622).html"
+        }
+      ],
+      "historical": false
+    },
+    {
+      "id": "maksim-kandinsky",
+      "name": "Maksim Kandinsky",
+      "nameRu": "Максим Андреевич Кандинский",
+      "field": "algebra",
+      "stage": "student",
+      "status": "PhD student · 2025 cohort",
+      "degree": "Doctoral studies (aspirantura) · 2025 cohort",
+      "affiliations": [
+        "SPbSU"
+      ],
+      "interests": "Linear groups and subgroups generated by root subgroups.",
+      "notes": "Listed in the university doctoral programme M3.90115.2025. The cohort year is an entry year, not a degree-award year. The available source confirms SPbSU enrolment; a separate MCS appointment was not verified.",
+      "statusAsOf": "2026-09-10",
+      "sources": [
+        {
+          "label": "SPbSU researcher profile and doctoral programme",
+          "url": "https://pureportal.spbu.ru/ru/persons/--(57ae5f27-53b5-42b1-b914-cb6e2734c35e).html"
+        },
+        {
+          "label": "2025 doctoral cohort roster",
+          "url": "https://pureportal.spbu.ru/ru/organisations/m3901152025(a1885248-bfa8-452d-98ad-d60d2daa5bd7)/persons.html"
+        },
+        {
+          "label": "SPbSU doctoral programme directory",
+          "url": "https://pureportal.spbu.ru/ru/organisations/doctoral-aspirantura-programs-from-2022(5900463c-989c-486c-8c3a-cde2c6c35622).html"
+        }
+      ],
+      "historical": false
+    },
+    {
+      "id": "marat-movsin",
+      "name": "Marat Movsin",
+      "nameRu": "Марат Петрович Мовсин",
+      "field": "algebra",
+      "stage": "student",
+      "status": "PhD student · 2025 cohort",
+      "degree": "Doctoral studies (aspirantura) · 2025 cohort",
+      "affiliations": [
+        "SPbSU"
+      ],
+      "interests": "Algebra, number theory, mathematical logic and discrete mathematics (doctoral programme).",
+      "notes": "Listed in the university doctoral programme M3.90115.2025. The cohort year is an entry year, not a degree-award year. The description gives the programme field because no narrower mathematical research topic was found. The available source confirms SPbSU enrolment; a separate MCS appointment was not verified.",
+      "statusAsOf": "2026-09-10",
+      "sources": [
+        {
+          "label": "SPbSU researcher profile and doctoral programme",
+          "url": "https://pureportal.spbu.ru/ru/persons/--(0384394b-ed4f-48f9-a286-1342594e51b7).html"
+        },
+        {
+          "label": "2025 doctoral cohort roster",
+          "url": "https://pureportal.spbu.ru/ru/organisations/m3901152025(a1885248-bfa8-452d-98ad-d60d2daa5bd7)/persons.html"
+        },
+        {
+          "label": "SPbSU doctoral programme directory",
+          "url": "https://pureportal.spbu.ru/ru/organisations/doctoral-aspirantura-programs-from-2022(5900463c-989c-486c-8c3a-cde2c6c35622).html"
+        }
+      ],
+      "historical": false
+    },
+    {
+      "id": "sergey-ovcharov",
+      "name": "Sergey Ovcharov",
+      "nameRu": "Сергей Дмитриевич Овчаров",
+      "field": "discrete",
+      "stage": "student",
+      "status": "PhD student · 2025 cohort",
+      "degree": "Doctoral studies (aspirantura) · 2025 cohort",
+      "affiliations": [
+        "SPbSU"
+      ],
+      "interests": "Proof complexity, SAT solving and combinatorial proof systems.",
+      "notes": "Listed in the university doctoral programme M3.90115.2025. The cohort year is an entry year, not a degree-award year. The available source confirms SPbSU enrolment; a separate MCS appointment was not verified.",
+      "statusAsOf": "2026-09-10",
+      "sources": [
+        {
+          "label": "SPbSU researcher profile and doctoral programme",
+          "url": "https://pureportal.spbu.ru/ru/persons/--(f0d33339-cdc4-445e-825e-b2af677961b2).html"
+        },
+        {
+          "label": "2025 doctoral cohort roster",
+          "url": "https://pureportal.spbu.ru/ru/organisations/m3901152025(a1885248-bfa8-452d-98ad-d60d2daa5bd7)/persons.html"
+        },
+        {
+          "label": "SPbSU doctoral programme directory",
+          "url": "https://pureportal.spbu.ru/ru/organisations/doctoral-aspirantura-programs-from-2022(5900463c-989c-486c-8c3a-cde2c6c35622).html"
+        }
+      ],
+      "historical": false
+    },
+    {
+      "id": "maksim-snapkov",
+      "name": "Maksim Snapkov",
+      "nameRu": "Максим Юрьевич Снапков",
+      "field": "algebra",
+      "stage": "student",
+      "status": "PhD student · 2026 cohort",
+      "degree": "Doctoral studies (aspirantura) · 2026 cohort",
+      "affiliations": [
+        "SPbSU"
+      ],
+      "interests": "Algebra, number theory, mathematical logic and discrete mathematics (doctoral programme).",
+      "notes": "Listed in the university doctoral programme M3.90115.2026. The cohort year is an entry year, not a degree-award year. The description gives the programme field because no narrower mathematical research topic was found. The available source confirms SPbSU enrolment; a separate MCS appointment was not verified.",
+      "statusAsOf": "2026-09-10",
+      "sources": [
+        {
+          "label": "SPbSU researcher profile and doctoral programme",
+          "url": "https://pureportal.spbu.ru/ru/persons/--(ffa1087e-573e-401c-9a08-dd60f350b931).html"
+        },
+        {
+          "label": "2026 doctoral cohort roster",
+          "url": "https://pureportal.spbu.ru/ru/organisations/m3901152026(b26a0b5f-59ae-4fff-a707-6a6a8d775adf)/persons.html"
+        },
+        {
+          "label": "SPbSU doctoral programme directory",
+          "url": "https://pureportal.spbu.ru/ru/organisations/doctoral-aspirantura-programs-from-2022(5900463c-989c-486c-8c3a-cde2c6c35622).html"
+        }
+      ],
+      "historical": false
+    },
+    {
+      "id": "alexander-struev",
+      "name": "Alexander Struev",
+      "nameRu": "Александр Александрович Струев",
+      "field": "algebra",
+      "stage": "student",
+      "status": "PhD student · 2026 cohort",
+      "degree": "Doctoral studies (aspirantura) · 2026 cohort",
+      "affiliations": [
+        "SPbSU"
+      ],
+      "interests": "Algebra, number theory, mathematical logic and discrete mathematics (doctoral programme).",
+      "notes": "Listed in the university doctoral programme M3.90115.2026. The cohort year is an entry year, not a degree-award year. The description gives the programme field because no narrower mathematical research topic was found. The available source confirms SPbSU enrolment; a separate MCS appointment was not verified.",
+      "statusAsOf": "2026-09-10",
+      "sources": [
+        {
+          "label": "SPbSU researcher profile and doctoral programme",
+          "url": "https://pureportal.spbu.ru/ru/persons/--(9bbb16b9-baca-4fa5-b394-d8b55b9e2de5).html"
+        },
+        {
+          "label": "2026 doctoral cohort roster",
+          "url": "https://pureportal.spbu.ru/ru/organisations/m3901152026(b26a0b5f-59ae-4fff-a707-6a6a8d775adf)/persons.html"
+        },
+        {
+          "label": "SPbSU doctoral programme directory",
+          "url": "https://pureportal.spbu.ru/ru/organisations/doctoral-aspirantura-programs-from-2022(5900463c-989c-486c-8c3a-cde2c6c35622).html"
+        }
+      ],
+      "historical": false
+    },
+    {
+      "id": "mikhail-novikov",
+      "name": "Mikhail Novikov",
+      "nameRu": "Михаил Игоревич Новиков",
+      "field": "analysis",
+      "stage": "student",
+      "status": "PhD student · confirmed 2025",
+      "degree": "Doctoral studies (aspirantura) · EIMI fellow 2025",
+      "affiliations": [
+        "SPbSU MCS"
+      ],
+      "interests": "Bellman functions and separately convex functions.",
+      "notes": "Doctoral enrolment is explicitly confirmed by the EIMI fellowship announcement of 8 June 2025. Listed in the current MCS staff directory; later degree status is not documented in the cited sources.",
+      "statusAsOf": "2025-06-08",
+      "sources": [
+        {
+          "label": "MCS faculty directory profile",
+          "url": "https://math-cs.spbu.ru/people/novikov-mihail-igorevich/"
+        },
+        {
+          "label": "EIMI doctoral fellowship results · 8 June 2025",
+          "url": "https://eimi.ru/news/5885/"
+        }
+      ],
+      "historical": false
+    },
+    {
+      "id": "mikhail-prokofyev",
+      "name": "Mikhail Prokofyev",
+      "nameRu": "Михаил Андреевич Прокофьев",
+      "field": "analysis",
+      "stage": "student",
+      "status": "PhD student · confirmed 2025",
+      "degree": "Doctoral studies (aspirantura) · EIMI fellow 2025",
+      "affiliations": [
+        "SPbSU MCS"
+      ],
+      "interests": "Topology in Hilbert spaces and operator theory.",
+      "notes": "Doctoral enrolment is explicitly confirmed by the EIMI fellowship announcement of 8 June 2025. Listed in the current MCS staff directory; later degree status is not documented in the cited sources.",
+      "statusAsOf": "2025-06-08",
+      "sources": [
+        {
+          "label": "MCS faculty directory profile",
+          "url": "https://math-cs.spbu.ru/people/prokofev-mihail-andreevich/"
+        },
+        {
+          "label": "EIMI doctoral fellowship results · 8 June 2025",
+          "url": "https://eimi.ru/news/5885/"
+        }
+      ],
+      "historical": false
+    },
+    {
+      "id": "mikhail-tunik",
+      "name": "Mikhail Tunik",
+      "nameRu": "Михаил Юрьевич Туник",
+      "field": "probability",
+      "stage": "researcher",
+      "status": "MCS researcher",
+      "degree": "Research staff · doctoral status not verified",
+      "affiliations": [
+        "SPbSU MCS"
+      ],
+      "interests": "Probability theory and mathematical statistics.",
+      "notes": "Listed in the current MCS staff directory. The public faculty profile does not establish current doctoral enrolment or an awarded research degree.",
+      "statusAsOf": "2026-09-10",
+      "sources": [
+        {
+          "label": "MCS faculty directory profile",
+          "url": "https://math-cs.spbu.ru/people/tunik-m-y/"
+        }
+      ],
+      "historical": false
+    },
+    {
+      "id": "vladimir-shalgin",
+      "name": "Vladimir Shalgin",
+      "nameRu": "Владимир Сергеевич Шалгин",
+      "field": "probability",
+      "stage": "student",
+      "status": "PhD student · confirmed 2025",
+      "degree": "Doctoral studies (aspirantura) · EIMI fellow 2025",
+      "affiliations": [
+        "SPbSU MCS"
+      ],
+      "interests": "Probability, dynamical systems and quantum computation.",
+      "notes": "Doctoral enrolment is explicitly confirmed by the EIMI fellowship announcement of 8 June 2025. Listed in the current MCS staff directory; later degree status is not documented in the cited sources.",
+      "statusAsOf": "2025-06-08",
+      "sources": [
+        {
+          "label": "MCS faculty directory profile",
+          "url": "https://math-cs.spbu.ru/people/v-s-shalgin/"
+        },
+        {
+          "label": "EIMI doctoral fellowship results · 8 June 2025",
+          "url": "https://eimi.ru/news/5885/"
+        }
+      ],
+      "historical": false
+    },
+    {
+      "id": "mikhail-borovikov",
+      "name": "Mikhail Borovikov",
+      "nameRu": "Михаил Антонович Боровиков",
+      "field": "analysis",
+      "stage": "researcher",
+      "status": "MCS researcher",
+      "degree": "Research staff · doctoral status not verified",
+      "affiliations": [
+        "SPbSU MCS"
+      ],
+      "interests": "Probabilistic methods in analysis (laboratory area).",
+      "notes": "Listed in the current MCS staff directory. The public faculty profile does not establish current doctoral enrolment or an awarded research degree.",
+      "statusAsOf": "2026-09-10",
+      "sources": [
+        {
+          "label": "MCS faculty directory profile",
+          "url": "https://math-cs.spbu.ru/people/borovikov-mihail-antonovich/"
+        }
+      ],
+      "historical": false
+    },
+    {
+      "id": "daniil-getta",
+      "name": "Daniil Getta",
+      "nameRu": "Даниил Игоревич Гетта",
+      "field": "analysis",
+      "stage": "researcher",
+      "status": "MCS researcher",
+      "degree": "Research staff · doctoral status not verified",
+      "affiliations": [
+        "SPbSU MCS"
+      ],
+      "interests": "Probabilistic methods in analysis (laboratory area).",
+      "notes": "Listed in the current MCS staff directory. The public faculty profile does not establish current doctoral enrolment or an awarded research degree.",
+      "statusAsOf": "2026-09-10",
+      "sources": [
+        {
+          "label": "MCS faculty directory profile",
+          "url": "https://math-cs.spbu.ru/people/getta-daniil-igorevich/"
+        }
+      ],
+      "historical": false
+    },
+    {
+      "id": "maksim-gritskov",
+      "name": "Maksim Gritskov",
+      "nameRu": "Максим Владимирович Грицков",
+      "field": "physics",
+      "stage": "researcher",
+      "status": "MCS researcher",
+      "degree": "Research staff · doctoral status not verified",
+      "affiliations": [
+        "SPbSU MCS"
+      ],
+      "interests": "Quantum and conformal field theory, conformal perturbation theory and topological quantum field theory.",
+      "notes": "Listed in the current MCS staff directory. The public faculty profile does not establish current doctoral enrolment or an awarded research degree.",
+      "statusAsOf": "2026-09-10",
+      "sources": [
+        {
+          "label": "MCS faculty directory profile",
+          "url": "https://math-cs.spbu.ru/people/gritskov-maksim-vladimirovich/"
+        }
+      ],
+      "historical": false
+    },
+    {
+      "id": "darya-dospolova",
+      "name": "Darya Dospolova",
+      "nameRu": "Дарья Каиржановна Досполова",
+      "field": "probability",
+      "stage": "researcher",
+      "status": "MCS researcher",
+      "degree": "Research staff · doctoral status not verified",
+      "affiliations": [
+        "SPbSU MCS"
+      ],
+      "interests": "Probabilistic methods in analysis (laboratory area).",
+      "notes": "Listed in the current MCS staff directory. The public faculty profile does not establish current doctoral enrolment or an awarded research degree.",
+      "statusAsOf": "2026-09-10",
+      "sources": [
+        {
+          "label": "MCS faculty directory profile",
+          "url": "https://math-cs.spbu.ru/people/dospolova-darya-kairzhanovna/"
+        }
+      ],
+      "historical": false
+    },
+    {
+      "id": "maksim-kalenov",
+      "name": "Maksim Kalenov",
+      "nameRu": "Максим Антонович Калёнов",
+      "field": "analysis",
+      "stage": "researcher",
+      "status": "MCS researcher",
+      "degree": "Research staff · doctoral status not verified",
+      "affiliations": [
+        "SPbSU MCS"
+      ],
+      "interests": "Probabilistic methods in analysis (laboratory area).",
+      "notes": "Listed in the current MCS staff directory. The public faculty profile does not establish current doctoral enrolment or an awarded research degree.",
+      "statusAsOf": "2026-09-10",
+      "sources": [
+        {
+          "label": "MCS faculty directory profile",
+          "url": "https://math-cs.spbu.ru/people/kalyonov-maksim-antonovich/"
+        }
+      ],
+      "historical": false
+    },
+    {
+      "id": "alexey-lvov",
+      "name": "Alexey Lvov",
+      "nameRu": "Алексей Константинович Львов",
+      "field": "analysis",
+      "stage": "researcher",
+      "status": "MCS researcher",
+      "degree": "Research staff · doctoral status not verified",
+      "affiliations": [
+        "SPbSU MCS"
+      ],
+      "interests": "Probabilistic methods in analysis (laboratory area).",
+      "notes": "Listed in the current MCS staff directory. The public faculty profile does not establish current doctoral enrolment or an awarded research degree.",
+      "statusAsOf": "2026-09-10",
+      "sources": [
+        {
+          "label": "MCS faculty directory profile",
+          "url": "https://math-cs.spbu.ru/people/lvov-aleksej-konstantinovich/"
+        }
+      ],
+      "historical": false
+    },
+    {
+      "id": "dmitry-spelnikov",
+      "name": "Dmitry Spelnikov",
+      "nameRu": "Дмитрий Михайлович Спельников",
+      "field": "analysis",
+      "stage": "researcher",
+      "status": "MCS researcher",
+      "degree": "Research staff · doctoral status not verified",
+      "affiliations": [
+        "SPbSU MCS"
+      ],
+      "interests": "Probabilistic methods in analysis (laboratory area).",
+      "notes": "Listed in the current MCS staff directory. The public faculty profile does not establish current doctoral enrolment or an awarded research degree.",
+      "statusAsOf": "2026-09-10",
+      "sources": [
+        {
+          "label": "MCS faculty directory profile",
+          "url": "https://math-cs.spbu.ru/people/spelnikov-dmitrij-mihajlovich/"
+        }
+      ],
+      "historical": false
+    },
+    {
+      "id": "golub",
+      "name": "Nikita Golub",
+      "nameRu": "Никита Игоревич Голубь",
+      "field": "algebra",
+      "stage": "student",
+      "status": "PhD student · 2024 cohort",
+      "degree": "Doctoral studies (aspirantura) · 2024 cohort",
+      "affiliations": [
+        "SPbSU MCS"
+      ],
+      "interests": "Homological algebra, sheaf cohomology, and higher limits of group functors.",
+      "notes": "Listed in the university doctoral programme M3.90115.2024. The cohort year is an entry year, not a degree-award year. The description gives the programme field because no narrower mathematical research topic was found. MCS affiliation is also documented in the 2026 Rokhlin scholarship record.",
+      "statusAsOf": "2026-09-10",
+      "sources": [
+        {
+          "label": "SPbSU researcher profile and doctoral programme",
+          "url": "https://pureportal.spbu.ru/ru/persons/--(0eb616d0-c101-4ea6-bfe3-1cc1c8aca58e).html"
+        },
+        {
+          "label": "2024 doctoral cohort roster",
+          "url": "https://pureportal.spbu.ru/ru/organisations/m3901152024(eac20957-6df1-47d3-84fd-9175247a7bb7)/persons.html"
+        },
+        {
+          "label": "SPbSU doctoral programme directory",
+          "url": "https://pureportal.spbu.ru/ru/organisations/doctoral-aspirantura-programs-from-2022(5900463c-989c-486c-8c3a-cde2c6c35622).html"
+        }
+      ],
+      "historical": false
+    },
+    {
+      "id": "kudryakov",
+      "name": "Dmitry Kudryakov",
+      "nameRu": "Дмитрий Александрович Кудряков",
+      "field": "algebra",
+      "stage": "student",
+      "status": "PhD student · 2024 cohort",
+      "degree": "Doctoral studies (aspirantura) · 2024 cohort",
+      "affiliations": [
+        "SPbSU MCS"
+      ],
+      "interests": "Chevalley groups over rings, subgroup lattices, and ranks of modules.",
+      "notes": "Listed in the university doctoral programme M3.90115.2024. The cohort year is an entry year, not a degree-award year. The description gives the programme field because no narrower mathematical research topic was found. MCS affiliation is also documented in the 2026 Rokhlin scholarship record.",
+      "statusAsOf": "2026-09-10",
+      "sources": [
+        {
+          "label": "SPbSU researcher profile and doctoral programme",
+          "url": "https://pureportal.spbu.ru/ru/persons/--(bb528cda-cc99-4a00-acb1-fdc81aad6cac).html"
+        },
+        {
+          "label": "2024 doctoral cohort roster",
+          "url": "https://pureportal.spbu.ru/ru/organisations/m3901152024(eac20957-6df1-47d3-84fd-9175247a7bb7)/persons.html"
+        },
+        {
+          "label": "SPbSU doctoral programme directory",
+          "url": "https://pureportal.spbu.ru/ru/organisations/doctoral-aspirantura-programs-from-2022(5900463c-989c-486c-8c3a-cde2c6c35622).html"
+        },
+        {
+          "label": "EIMI doctoral fellowship results · 8 June 2025",
+          "url": "https://eimi.ru/news/5885/"
+        }
+      ],
+      "historical": false
+    },
+    {
+      "id": "stepan-konenkov",
+      "name": "Stepan Konenkov",
+      "nameRu": "Степан Денисович Коненков",
+      "field": "algebra",
+      "stage": "student",
+      "status": "PhD student · confirmed 2025",
+      "degree": "Doctoral studies (aspirantura) · confirmed 2025",
+      "affiliations": [
+        "SPbSU MCS"
+      ],
+      "interests": "Number theory, q-series, mock theta functions and affine Lie algebras.",
+      "notes": "PhD status explicitly confirmed in the 2025 EIMI doctoral fellowship results; current MCS profile lists a research-engineer appointment.",
+      "statusAsOf": "2025-06-08",
+      "sources": [
+        {
+          "label": "EIMI doctoral fellowship results · 8 June 2025",
+          "url": "https://eimi.ru/news/5885/"
+        },
+        {
+          "label": "MCS faculty profile",
+          "url": "https://math-cs.spbu.ru/people/konenkov-stepan-denisovich/"
+        },
+        {
+          "label": "Research paper on mock theta identities",
+          "url": "https://arxiv.org/abs/2603.08437"
+        }
+      ],
+      "historical": false
+    },
+    {
+      "id": "arseny-mishulovich",
+      "name": "Arseny Mishulovich",
+      "nameRu": "Арсений Александрович Мишулович",
+      "field": "analysis",
+      "stage": "student",
+      "status": "PhD student · confirmed 2025",
+      "degree": "Doctoral studies (aspirantura) · confirmed 2025",
+      "affiliations": [
+        "SPbSU"
+      ],
+      "interests": "Periodic differential operators, homogenization and operator error estimates.",
+      "notes": "EIMI lists this doctoral fellow with SPbSU employment; a separate MCS appointment has not been verified.",
+      "statusAsOf": "2025-06-08",
+      "sources": [
+        {
+          "label": "EIMI doctoral fellowship results · 8 June 2025",
+          "url": "https://eimi.ru/news/5885/"
+        },
+        {
+          "label": "Research paper on homogenization",
+          "url": "https://www.mathnet.ru/rus/znsl7272"
+        }
+      ],
+      "historical": false
+    },
+    {
+      "id": "olga-martynova",
+      "name": "Olga Martynova",
+      "nameRu": "Ольга Максимовна Мартынова",
+      "field": "discrete",
+      "stage": "established",
+      "status": "Researcher · Candidate of Sciences",
+      "degree": "Candidate dissertation successfully defended · 3 December 2025",
+      "affiliations": [
+        "SPbSU MCS"
+      ],
+      "interests": "Formal languages, graph-walking automata and descriptional complexity.",
+      "notes": "The MCS report confirms a successful Candidate dissertation defense and names Alexander Okhotin as the supervisor.",
+      "statusAsOf": "2026-09-10",
+      "sources": [
+        {
+          "label": "MCS report: successful defense and supervisor, December 2025",
+          "url": "https://math-cs.spbu.ru/news/uspeshnaya-zashhita-kandidatskoj-dissertatsii/"
+        },
+        {
+          "label": "SPbSU researcher profile",
+          "url": "https://pureportal.spbu.ru/ru/persons/--(bce04ca4-61a3-44db-8aa9-8a1faa7577e4).html"
+        }
+      ],
+      "historical": false
+    },
+    {
+      "id": "vladislav-makarov",
+      "name": "Vladislav Makarov",
+      "nameRu": "Владислав Маратович Макаров",
+      "field": "discrete",
+      "stage": "established",
+      "status": "Researcher · Candidate of Sciences",
+      "degree": "Candidate dissertation successfully defended · 23 June 2026",
+      "affiliations": [
+        "SPbSU MCS"
+      ],
+      "interests": "Formal grammars over GF(2), language expressiveness and algebraic methods in automata theory.",
+      "notes": "MCS also explicitly documents his supervision of an undergraduate research project while he was a master’s student.",
+      "statusAsOf": "2026-09-10",
+      "sources": [
+        {
+          "label": "MCS report: successful defense and supervisor, June 2026",
+          "url": "https://math-cs.spbu.ru/news/uspeshnaya-zashhita-kandidatskoj-dissertatsii-3/"
+        },
+        {
+          "label": "MCS faculty profile",
+          "url": "https://math-cs.spbu.ru/people/makarov-vladislav-maratovich/"
+        }
+      ],
+      "historical": false
+    },
+    {
+      "id": "ilnur-baibulov",
+      "name": "Ilnur Baibulov",
+      "nameRu": "Ильнур Вильевич Байбулов",
+      "field": "analysis",
+      "stage": "established",
+      "status": "Researcher · Candidate of Sciences",
+      "degree": "Candidate dissertation approved by defense council · 31 August 2026",
+      "affiliations": [
+        "SPbSU"
+      ],
+      "interests": "Operator algebras, singular integral operators and spectral theory.",
+      "notes": "PDMI records a unanimous 14–0 council vote to award the Candidate degree; supervisor Oleg Sarafanov. The EIMI fellowship list specifies SPbSU employment.",
+      "statusAsOf": "2026-09-10",
+      "sources": [
+        {
+          "label": "PDMI defense results and supervisor · 31 August 2026",
+          "url": "https://pdmi.ras.ru/pdmi/dissertatiton/2026-08-31t000000-%D0%B1%D0%B0%D0%B9%D0%B1%D1%83%D0%BB%D0%BE%D0%B2-%D0%B8%D0%BB%D1%8C%D0%BD%D1%83%D1%80-%D0%B2%D0%B8%D0%BB%D1%8C%D0%B5%D0%B2%D0%B8%D1%87"
+        },
+        {
+          "label": "Math-Net research profile",
+          "url": "https://www.mathnet.ru/php/person.phtml?option_lang=eng&personid=136132"
+        },
+        {
+          "label": "EIMI doctoral fellowship results · 8 June 2025",
+          "url": "https://eimi.ru/news/5885/"
+        }
+      ],
+      "historical": false
+    },
+    {
+      "id": "oleg-sarafanov",
+      "name": "Oleg Sarafanov",
+      "nameRu": "Олег Васильевич Сарафанов",
+      "field": "analysis",
+      "stage": "established",
+      "status": "Professor · Doctor of Sciences",
+      "degree": "Doctor of Sciences · SPbSU professor",
+      "affiliations": [
+        "SPbSU"
+      ],
+      "interests": "Operator algebras, singular integral operators and spectral theory.",
+      "notes": "Baibulov’s PDMI dissertation record identifies Sarafanov as an SPbSU professor and Doctor of Sciences.",
+      "statusAsOf": "2026-09-10",
+      "sources": [
+        {
+          "label": "PDMI defense results and supervisor · 31 August 2026",
+          "url": "https://pdmi.ras.ru/pdmi/dissertatiton/2026-08-31t000000-%D0%B1%D0%B0%D0%B9%D0%B1%D1%83%D0%BB%D0%BE%D0%B2-%D0%B8%D0%BB%D1%8C%D0%BD%D1%83%D1%80-%D0%B2%D0%B8%D0%BB%D1%8C%D0%B5%D0%B2%D0%B8%D1%87"
+        },
+        {
+          "label": "Research paper on singular integral operator algebras",
+          "url": "https://www.mathnet.ru/links/40b3d5302b201ad70192d3860f7f6ed2/sm9999_eng.pdf"
+        }
+      ],
+      "historical": false
+    },
+    {
+      "id": "evgeny-porubov",
+      "name": "Evgeny Porubov",
+      "nameRu": "Евгений Олегович Порубов",
+      "field": "physics",
+      "stage": "student",
+      "status": "PhD student · confirmed 2025",
+      "degree": "Doctoral studies (aspirantura) · entering cohort 2025",
+      "affiliations": [
+        "SPbSU MCS"
+      ],
+      "interests": "Integrable systems.",
+      "notes": "EIMI confirms a 2025 entrant doctoral fellowship with SPbSU employment. The faculty profile identifies Andrey Tsyganov as his 2023 undergraduate research supervisor; this is not presented as doctoral supervision.",
+      "statusAsOf": "2025-09-18",
+      "sources": [
+        {
+          "label": "MCS profile: research interests and undergraduate supervisor",
+          "url": "https://math-cs.spbu.ru/people/porubov-evgenij-olegovich/"
+        },
+        {
+          "label": "EIMI fellowship results for entering doctoral students · September 2025",
+          "url": "https://eimi.ru/news/5902/"
+        }
+      ],
+      "historical": false
+    },
+    {
+      "id": "andrey-tsyganov",
+      "name": "Andrey Tsyganov",
+      "nameRu": "Андрей Владимирович Цыганов",
+      "field": "physics",
+      "stage": "established",
+      "status": "Professor · Doctor of Sciences",
+      "degree": "Doctor of Sciences",
+      "affiliations": [
+        "SPbSU MCS"
+      ],
+      "interests": "Integrable Hamiltonian systems and mathematical physics.",
+      "notes": "SPbSU professor and MCS laboratory researcher; documented undergraduate adviser of Evgeny Porubov.",
+      "statusAsOf": "2026-09-10",
+      "sources": [
+        {
+          "label": "MCS faculty profile",
+          "url": "https://math-cs.spbu.ru/people/tsyganov-andrej-vladimirovich/"
+        },
+        {
+          "label": "PDMI dissertation documentation identifying doctorate and professorship",
+          "url": "https://www.pdmi.ras.ru/pdmi/en/system/files/dissertations/Belousov%20-%20synopsis%20%28ver.%202%29.pdf"
+        },
+        {
+          "label": "MCS profile: research interests and undergraduate supervisor",
+          "url": "https://math-cs.spbu.ru/people/porubov-evgenij-olegovich/"
+        }
+      ],
+      "historical": false
+    },
+    {
+      "id": "anton-selemenchuk",
+      "name": "Anton Selemenchuk",
+      "nameRu": "Антон Сергеевич Селеменчук",
+      "field": "physics",
+      "stage": "student",
+      "status": "PhD student · 2024 fellowship record",
+      "degree": "Doctoral studies · documented March 2024",
+      "affiliations": [
+        "SPbSU MCS"
+      ],
+      "interests": "Mathematical physics, representation theory, random Young diagrams and conformal field theory.",
+      "notes": "Named in the Euler Institute graduate-fellowship results of March 27, 2024. The record is dated; it does not establish a later degree award or continued enrollment.",
+      "statusAsOf": "2024-03-27",
+      "sources": [
+        {
+          "label": "EIMI doctoral fellowship results · March 2024",
+          "url": "https://eimi.ru/news/5835/"
+        },
+        {
+          "label": "MCS faculty profile",
+          "url": "https://math-cs.spbu.ru/people/selemenchuk-anton-sergeevich/"
+        }
+      ],
+      "historical": false
+    }
+  ],
+  "links": [
+    {
+      "source": "okhotin",
+      "target": "olga-martynova",
+      "type": "doctoral",
+      "label": "Candidate dissertation supervision",
+      "year": 2025,
+      "sources": [
+        {
+          "label": "MCS report: successful defense and supervisor, December 2025",
+          "url": "https://math-cs.spbu.ru/news/uspeshnaya-zashhita-kandidatskoj-dissertatsii/"
+        }
+      ]
+    },
+    {
+      "source": "okhotin",
+      "target": "vladislav-makarov",
+      "type": "doctoral",
+      "label": "Candidate dissertation supervision",
+      "year": 2026,
+      "sources": [
+        {
+          "label": "MCS report: successful defense and supervisor, June 2026",
+          "url": "https://math-cs.spbu.ru/news/uspeshnaya-zashhita-kandidatskoj-dissertatsii-3/"
+        }
+      ]
+    },
+    {
+      "source": "oleg-sarafanov",
+      "target": "ilnur-baibulov",
+      "type": "doctoral",
+      "label": "Candidate dissertation supervision",
+      "year": 2026,
+      "sources": [
+        {
+          "label": "PDMI defense results and supervisor · 31 August 2026",
+          "url": "https://pdmi.ras.ru/pdmi/dissertatiton/2026-08-31t000000-%D0%B1%D0%B0%D0%B9%D0%B1%D1%83%D0%BB%D0%BE%D0%B2-%D0%B8%D0%BB%D1%8C%D0%BD%D1%83%D1%80-%D0%B2%D0%B8%D0%BB%D1%8C%D0%B5%D0%B2%D0%B8%D1%87"
+        }
+      ]
+    },
+    {
+      "source": "andrey-tsyganov",
+      "target": "evgeny-porubov",
+      "type": "research",
+      "label": "Undergraduate research supervision",
+      "year": 2023,
+      "sources": [
+        {
+          "label": "MCS profile: research interests and undergraduate supervisor",
+          "url": "https://math-cs.spbu.ru/people/porubov-evgenij-olegovich/"
+        }
+      ]
+    }
+  ]
+}

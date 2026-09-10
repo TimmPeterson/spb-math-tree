@@ -1,0 +1,634 @@
+{
+  "checked": "2026-09-10",
+  "scope": "Verified algebra and geometry relationships; a curated subset, not an exhaustive current directory.",
+  "people": [
+    {
+      "id": "vavilov",
+      "name": "Nikolai Vavilov",
+      "nameRu": "Николай Александрович Вавилов",
+      "field": "algebra",
+      "status": "Historical supervisor · 1952–2023",
+      "degree": "Doctor of Sciences",
+      "institutions": [
+        "SPbSU MCS"
+      ],
+      "interests": "Linear algebraic groups, Chevalley groups over rings, and algebraic K-theory.",
+      "sources": [
+        {
+          "title": "PDMI memorial conference",
+          "url": "https://vavilov-memorial.conf-pdmi.ru/2025/"
+        },
+        {
+          "title": "SPbSU author profile in his paper",
+          "url": "https://www.mathnet.ru/PresentFiles/38204/vavilov_cm_fermat_last.pdf"
+        }
+      ],
+      "notes": "",
+      "historical": true
+    },
+    {
+      "id": "victor-petrov",
+      "name": "Victor Petrov",
+      "nameRu": "Виктор Александрович Петров",
+      "field": "algebra",
+      "status": "Professor · Dean of MCS",
+      "degree": "Doctor of Sciences · 2022",
+      "institutions": [
+        "SPbSU MCS"
+      ],
+      "interests": "Linear algebraic groups, oriented cohomology theories, and Chow motives.",
+      "sources": [
+        {
+          "title": "MCS faculty profile",
+          "url": "https://math-cs.spbu.ru/people/petrov-v-a/"
+        }
+      ],
+      "notes": "",
+      "historical": false
+    },
+    {
+      "id": "stepanov",
+      "name": "Alexei Stepanov",
+      "nameRu": "Алексей Владимирович Степанов",
+      "field": "algebra",
+      "status": "Associate professor",
+      "degree": "Doctor of Sciences · 2014",
+      "institutions": [
+        "SPbSU MCS"
+      ],
+      "interests": "Algebraic groups over rings, algebraic K-theory, and commutative algebra.",
+      "sources": [
+        {
+          "title": "MCS faculty profile",
+          "url": "https://math-cs.spbu.ru/people/stepanov-a-v/"
+        }
+      ],
+      "notes": "",
+      "historical": false
+    },
+    {
+      "id": "lubkov",
+      "name": "Roman Lubkov",
+      "nameRu": "Роман Алексеевич Лубков",
+      "field": "algebra",
+      "status": "Faculty member",
+      "degree": "Candidate of Sciences · 2022",
+      "institutions": [
+        "SPbSU MCS"
+      ],
+      "interests": "Algebraic groups, invariant theory, and classification of non-associative algebras.",
+      "sources": [
+        {
+          "title": "MCS faculty profile",
+          "url": "https://math-cs.spbu.ru/people/lubkov-roman-alekseevich/"
+        },
+        {
+          "title": "Researcher homepage",
+          "url": "https://lubkov.spbu.ru/en/about/"
+        }
+      ],
+      "notes": "MCS lists senior lecturer; July 2026 personal page says associate professor. Use generic faculty member to avoid inconsistent rank. MCS explicitly lists Vavilov and Petrov as co-supervisors.",
+      "historical": false
+    },
+    {
+      "id": "voronetsky",
+      "name": "Egor Voronetsky",
+      "nameRu": "Егор Юрьевич Воронецкий",
+      "field": "algebra",
+      "status": "Research fellow",
+      "degree": "Candidate of Sciences",
+      "institutions": [
+        "SPbSU MCS"
+      ],
+      "interests": "Unitary groups, unitary K-theory, and reductive group schemes.",
+      "sources": [
+        {
+          "title": "MCS faculty profile",
+          "url": "https://math-cs.spbu.ru/people/voronetskij-egor-yurevich/"
+        },
+        {
+          "title": "Russian Science Foundation grant record",
+          "url": "https://rscf.ru/prjcard/?rid=22-21-00257"
+        },
+        {
+          "title": "Sino-Russian Mathematics Center seminar",
+          "url": "https://www.srmc.pku.edu.cn/xzyj/kylt/132093.htm"
+        }
+      ],
+      "notes": "Primary 2021 seminar states he was Nikolai Vavilov’s PhD student. RSF confirms Candidate degree. Do not show as current PhD student; he has graduated.",
+      "historical": false
+    },
+    {
+      "id": "panin",
+      "name": "Ivan Panin",
+      "nameRu": "Иван Александрович Панин",
+      "field": "algebra",
+      "status": "Principal researcher · RAS academician",
+      "degree": "Doctor of Sciences",
+      "institutions": [
+        "PDMI"
+      ],
+      "interests": "Algebraic geometry, motivic homotopy theory, and generalized cohomology theories.",
+      "sources": [
+        {
+          "title": "PDMI staff profile",
+          "url": "https://www.pdmi.ras.ru/pdmi/en/staff/ivan-panin"
+        }
+      ],
+      "notes": "",
+      "historical": false
+    },
+    {
+      "id": "druzhinin",
+      "name": "Andrei Druzhinin",
+      "nameRu": "Андрей Эдуардович Дружинин",
+      "field": "algebra",
+      "status": "Senior research fellow",
+      "degree": "Candidate of Sciences · 2014",
+      "institutions": [
+        "SPbSU MCS",
+        "PDMI"
+      ],
+      "interests": "Motivic algebraic geometry and cohomology through categories of motives.",
+      "sources": [
+        {
+          "title": "MCS faculty profile",
+          "url": "https://math-cs.spbu.ru/people/druzhinin-andrej-eduardovich/"
+        },
+        {
+          "title": "PDMI staff profile",
+          "url": "https://www.pdmi.ras.ru/pdmi/staff/андрей-эдуардович-дружинин"
+        }
+      ],
+      "notes": "",
+      "historical": false
+    },
+    {
+      "id": "tsybyshev",
+      "name": "Alexey Tsybyshev",
+      "nameRu": "Алексей Евгеньевич Цыбышев",
+      "field": "algebra",
+      "status": "PDMI doctoral alumnus",
+      "degree": "Candidate of Sciences · 2021",
+      "institutions": [
+        "PDMI"
+      ],
+      "interests": "Voevodsky’s framed correspondences and their applications in motivic theory.",
+      "sources": [
+        {
+          "title": "PDMI dissertation and award record",
+          "url": "https://www.pdmi.ras.ru/pdmi/dissertatiton/2021-03-10t000000-%D1%86%D1%8B%D0%B1%D1%8B%D1%88%D0%B5%D0%B2-%D0%B0%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B9-%D0%B5%D0%B2%D0%B3%D0%B5%D0%BD%D1%8C%D0%B5%D0%B2%D0%B8%D1%87"
+        }
+      ],
+      "notes": "Documented PDMI dissertation, defended March 10, 2021. No current appointment established.",
+      "historical": false
+    },
+    {
+      "id": "neshitov",
+      "name": "Alexander Neshitov",
+      "nameRu": "Александр Юрьевич Нешитов",
+      "field": "algebra",
+      "status": "PDMI doctoral alumnus",
+      "degree": "Candidate of Sciences · 2015",
+      "institutions": [
+        "PDMI"
+      ],
+      "interests": "Classifying spaces of algebraic groups and cohomological invariants.",
+      "sources": [
+        {
+          "title": "PDMI dissertation and award record",
+          "url": "https://www.pdmi.ras.ru/pdmi/dissertatiton/2015-12-23-%D0%BD%D0%B5%D1%88%D0%B8%D1%82%D0%BE%D0%B2-%D0%B0%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80-%D1%8E%D1%80%D1%8C%D0%B5%D0%B2%D0%B8%D1%87"
+        },
+        {
+          "title": "Dissertation",
+          "url": "https://pdmi.ras.ru/pdmi/system/files/dissertations/thesisNeshitov-3.pdf"
+        }
+      ],
+      "notes": "Documented PDMI doctoral lineage, December 23, 2015. No current local appointment established.",
+      "historical": false
+    },
+    {
+      "id": "vostokov",
+      "name": "Sergei Vostokov",
+      "nameRu": "Сергей Владимирович Востоков",
+      "field": "algebra",
+      "status": "Historical supervisor · 1945–2025",
+      "degree": "Doctor of Sciences",
+      "institutions": [
+        "SPbSU"
+      ],
+      "interests": "Local number theory, explicit reciprocity laws, and formal groups.",
+      "sources": [
+        {
+          "title": "Researcher record",
+          "url": "https://www.mathnet.ru/eng/person12618"
+        },
+        {
+          "title": "Coauthored research paper",
+          "url": "https://www.mathnet.ru/php/getFT.phtml?jrnid=cheb&option_lang=eng&paperid=925&what=fullt"
+        }
+      ],
+      "notes": "",
+      "historical": true
+    },
+    {
+      "id": "bondarko",
+      "name": "Mikhail Bondarko",
+      "nameRu": "Михаил Владимирович Бондарко",
+      "field": "algebra",
+      "status": "Associate professor · RAS professor",
+      "degree": "Doctor of Sciences · 2007",
+      "institutions": [
+        "SPbSU MCS"
+      ],
+      "interests": "Triangulated categories, weight structures, Voevodsky motives, and arithmetic geometry.",
+      "sources": [
+        {
+          "title": "MCS faculty profile",
+          "url": "https://math-cs.spbu.ru/people/bondarko-m-v/"
+        }
+      ],
+      "notes": "Use faculty profile degree date July 2007; secondary pages sometimes use 2006.",
+      "historical": false
+    },
+    {
+      "id": "yuri-burago",
+      "name": "Yuri Burago",
+      "nameRu": "Юрий Дмитриевич Бураго",
+      "field": "geometry",
+      "status": "Senior generation · PDMI school",
+      "degree": "Doctor of Sciences · 1969",
+      "institutions": [
+        "PDMI"
+      ],
+      "interests": "Metric and Alexandrov geometry, convex surfaces, and geometric inequalities.",
+      "sources": [
+        {
+          "title": "Researcher record",
+          "url": "https://www.mathnet.ru/rus/person11320"
+        },
+        {
+          "title": "PDMI teaching record",
+          "url": "https://www.pdmi.ras.ru/ru/institut/pomi_potok.php"
+        }
+      ],
+      "notes": "Included as lineage context; old PDMI page is archival and does not establish current employment.",
+      "historical": true
+    },
+    {
+      "id": "sergei-ivanov",
+      "name": "Sergei V. Ivanov",
+      "nameRu": "Сергей Владимирович Иванов",
+      "field": "geometry",
+      "status": "Professor · Principal researcher",
+      "degree": "Doctor of Sciences · 2009",
+      "institutions": [
+        "SPbSU MCS",
+        "PDMI"
+      ],
+      "interests": "Riemannian, Finsler, and metric geometry, with connections to dynamical systems.",
+      "sources": [
+        {
+          "title": "MCS faculty profile",
+          "url": "https://math-cs.spbu.ru/people/ivanov-s-v/"
+        },
+        {
+          "title": "PDMI staff profile",
+          "url": "https://www.pdmi.ras.ru/pdmi/en/staff/sergei-ivanov"
+        }
+      ],
+      "notes": "",
+      "historical": false
+    },
+    {
+      "id": "vladimir-zolotov",
+      "name": "Vladimir Zolotov",
+      "nameRu": "Владимир Олегович Золотов",
+      "field": "geometry",
+      "status": "PDMI doctoral alumnus",
+      "degree": "Candidate of Sciences · 2021",
+      "institutions": [
+        "PDMI"
+      ],
+      "interests": "Metric spaces, finite-configuration constraints, and geometry with curvature bounds.",
+      "sources": [
+        {
+          "title": "PDMI dissertation and award record",
+          "url": "https://www.pdmi.ras.ru/pdmi/dissertatiton/2021-03-10t000000-%D0%B7%D0%BE%D0%BB%D0%BE%D1%82%D0%BE%D0%B2-%D0%B2%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80-%D0%BE%D0%BB%D0%B5%D0%B3%D0%BE%D0%B2%D0%B8%D1%87"
+        },
+        {
+          "title": "Thesis",
+          "url": "https://pdmi.ras.ru/pdmi/system/files/dissertations/PhD.pdf"
+        }
+      ],
+      "notes": "Defended March 10, 2021. Current local employment not established.",
+      "historical": false
+    },
+    {
+      "id": "panina",
+      "name": "Gaiane Panina",
+      "nameRu": "Гаянэ Юрьевна Панина",
+      "field": "geometry",
+      "status": "Professor · Leading researcher",
+      "degree": "Doctor of Sciences",
+      "institutions": [
+        "SPbSU MCS",
+        "PDMI"
+      ],
+      "interests": "Combinatorial geometry, polytopes, moduli spaces, and mechanical linkages.",
+      "sources": [
+        {
+          "title": "MCS faculty profile",
+          "url": "https://math-cs.spbu.ru/people/panina-g-yu/"
+        },
+        {
+          "title": "Faculty-hosted CV",
+          "url": "https://math-cs.spbu.ru/wp-content/uploads/2017/08/cv-panina-2019-02.pdf"
+        },
+        {
+          "title": "Researcher record",
+          "url": "https://www.mathnet.ru/eng/person35111"
+        }
+      ],
+      "notes": "",
+      "historical": false
+    },
+    {
+      "id": "alena-zhukova",
+      "name": "Alena Zhukova",
+      "nameRu": "Алёна Михайловна Жукова",
+      "field": "geometry",
+      "status": "SPbSU doctoral lineage",
+      "degree": "Candidate / PhD · 2012",
+      "institutions": [
+        "SPbSU"
+      ],
+      "interests": "Discrete Morse theory and topology of spaces of polygonal linkages.",
+      "sources": [
+        {
+          "title": "Advisor CV",
+          "url": "https://math-cs.spbu.ru/wp-content/uploads/2017/08/cv-panina-2019-02.pdf"
+        },
+        {
+          "title": "Research article",
+          "url": "https://arxiv.org/abs/1504.05139"
+        },
+        {
+          "title": "SPbSU affiliation in paper",
+          "url": "https://www.mathnet.ru/links/58040bbf49e766261c5b5b219fe524c7/sm8677_eng.pdf"
+        }
+      ],
+      "notes": "Advisor CV lists PhD 2012. SPbSU affiliation documented in 2017 paper; current appointment not established.",
+      "historical": false
+    },
+    {
+      "id": "golub",
+      "name": "Nikita Golub",
+      "nameRu": "Никита Игоревич Голубь",
+      "field": "algebra",
+      "status": "PhD student · 2026 award cohort",
+      "degree": "Doctoral studies",
+      "institutions": [
+        "SPbSU MCS"
+      ],
+      "interests": "Homological algebra, sheaf cohomology, and higher limits of group functors.",
+      "sources": [
+        {
+          "title": "PDMI 2026 Rokhlin scholarship record",
+          "url": "https://www.pdmi.ras.ru/ru/rokhlin_grant/win2025.html"
+        },
+        {
+          "title": "Research topics",
+          "url": "https://arxiv.org/abs/2410.05708"
+        },
+        {
+          "title": "SPbSU research portal",
+          "url": "https://pureportal.spbu.ru/en/persons/--%280eb616d0-c101-4ea6-bfe3-1cc1c8aca58e%29.html"
+        },
+        {
+          "title": "Sheaves on Grothendieck constructions",
+          "url": "https://arxiv.org/abs/2211.05157"
+        }
+      ],
+      "notes": "PhD status and supervisor documented in November 2025 announcement for 2026 scholarships; separate student-supervision role has not been established.",
+      "historical": false
+    },
+    {
+      "id": "kudryakov",
+      "name": "Dmitry Kudryakov",
+      "nameRu": "Дмитрий Александрович Кудряков",
+      "field": "algebra",
+      "status": "PhD student · 2026 award cohort",
+      "degree": "Doctoral studies",
+      "institutions": [
+        "SPbSU MCS"
+      ],
+      "interests": "Chevalley groups over rings, subgroup lattices, and ranks of modules.",
+      "sources": [
+        {
+          "title": "PDMI 2026 Rokhlin scholarship record",
+          "url": "https://www.pdmi.ras.ru/ru/rokhlin_grant/win2025.html"
+        },
+        {
+          "title": "Research topics",
+          "url": "https://pureportal.spbu.ru/ru/persons/--%28bb528cda-cc99-4a00-acb1-fdc81aad6cac%29/activities.html"
+        },
+        {
+          "title": "SPbSU research portal",
+          "url": "https://pureportal.spbu.ru/ru/projects/-----k-2026---1%2883914f46-ab33-4734-a660-6ba8c2d0f962%29.html"
+        }
+      ],
+      "notes": "PhD status and supervisor documented in November 2025 announcement for 2026 scholarships; separate student-supervision role has not been established.",
+      "historical": false
+    }
+  ],
+  "links": [
+    {
+      "source": "vavilov",
+      "target": "victor-petrov",
+      "type": "doctoral",
+      "year": 2005,
+      "sources": [
+        {
+          "title": "Supervision source",
+          "url": "https://math-cs.spbu.ru/people/petrov-v-a/"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "source": "vavilov",
+      "target": "stepanov",
+      "type": "doctoral",
+      "year": 1987,
+      "sources": [
+        {
+          "title": "Supervision source",
+          "url": "https://math-cs.spbu.ru/people/stepanov-a-v/"
+        }
+      ],
+      "notes": "Candidate advisor; Vavilov also advised 2014 Doctor of Sciences dissertation."
+    },
+    {
+      "source": "vavilov",
+      "target": "lubkov",
+      "type": "doctoral",
+      "year": 2022,
+      "sources": [
+        {
+          "title": "Supervision source",
+          "url": "https://math-cs.spbu.ru/people/lubkov-roman-alekseevich/"
+        }
+      ],
+      "notes": "Co-supervisor listed by faculty."
+    },
+    {
+      "source": "victor-petrov",
+      "target": "lubkov",
+      "type": "doctoral",
+      "year": 2022,
+      "sources": [
+        {
+          "title": "Supervision source",
+          "url": "https://math-cs.spbu.ru/people/lubkov-roman-alekseevich/"
+        }
+      ],
+      "notes": "Co-supervisor listed by faculty; sole named advisor on thesis title page."
+    },
+    {
+      "source": "vavilov",
+      "target": "voronetsky",
+      "type": "doctoral",
+      "year": null,
+      "sources": [
+        {
+          "title": "Supervision source",
+          "url": "https://www.srmc.pku.edu.cn/xzyj/kylt/132093.htm"
+        }
+      ],
+      "notes": "Documented as doctoral student in October 2021; degree now confirmed by RSF."
+    },
+    {
+      "source": "panin",
+      "target": "druzhinin",
+      "type": "doctoral",
+      "year": 2014,
+      "sources": [
+        {
+          "title": "Supervision source",
+          "url": "https://math-cs.spbu.ru/people/druzhinin-andrej-eduardovich/"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "source": "panin",
+      "target": "tsybyshev",
+      "type": "doctoral",
+      "year": 2021,
+      "sources": [
+        {
+          "title": "Supervision source",
+          "url": "https://www.pdmi.ras.ru/pdmi/dissertatiton/2021-03-10t000000-%D1%86%D1%8B%D0%B1%D1%8B%D1%88%D0%B5%D0%B2-%D0%B0%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B9-%D0%B5%D0%B2%D0%B3%D0%B5%D0%BD%D1%8C%D0%B5%D0%B2%D0%B8%D1%87"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "source": "panin",
+      "target": "neshitov",
+      "type": "doctoral",
+      "year": 2015,
+      "sources": [
+        {
+          "title": "Supervision source",
+          "url": "https://pdmi.ras.ru/pdmi/system/files/dissertations/thesisNeshitov-3.pdf"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "source": "vostokov",
+      "target": "bondarko",
+      "type": "doctoral",
+      "year": 2000,
+      "sources": [
+        {
+          "title": "Supervision source",
+          "url": "https://math-cs.spbu.ru/people/bondarko-m-v/"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "source": "yuri-burago",
+      "target": "sergei-ivanov",
+      "type": "doctoral",
+      "year": 1996,
+      "sources": [
+        {
+          "title": "Supervision source",
+          "url": "https://math-cs.spbu.ru/people/ivanov-s-v/"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "source": "sergei-ivanov",
+      "target": "vladimir-zolotov",
+      "type": "doctoral",
+      "year": 2021,
+      "sources": [
+        {
+          "title": "Supervision source",
+          "url": "https://www.pdmi.ras.ru/pdmi/dissertatiton/2021-03-10t000000-%D0%B7%D0%BE%D0%BB%D0%BE%D1%82%D0%BE%D0%B2-%D0%B2%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80-%D0%BE%D0%BB%D0%B5%D0%B3%D0%BE%D0%B2%D0%B8%D1%87"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "source": "panina",
+      "target": "alena-zhukova",
+      "type": "doctoral",
+      "year": 2012,
+      "sources": [
+        {
+          "title": "Supervision source",
+          "url": "https://math-cs.spbu.ru/wp-content/uploads/2017/08/cv-panina-2019-02.pdf"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "source": "victor-petrov",
+      "target": "golub",
+      "type": "current-doctoral",
+      "year": null,
+      "sources": [
+        {
+          "title": "PDMI 2026 Rokhlin scholarships",
+          "url": "https://www.pdmi.ras.ru/ru/rokhlin_grant/win2025.html"
+        }
+      ],
+      "notes": "Advisor and doctoral enrollment explicitly listed for the 2026 award cohort."
+    },
+    {
+      "source": "stepanov",
+      "target": "kudryakov",
+      "type": "current-doctoral",
+      "year": null,
+      "sources": [
+        {
+          "title": "PDMI 2026 Rokhlin scholarships",
+          "url": "https://www.pdmi.ras.ru/ru/rokhlin_grant/win2025.html"
+        }
+      ],
+      "notes": "Advisor and doctoral enrollment explicitly listed for the 2026 award cohort."
+    }
+  ],
+  "notes": [
+    "Historical supervisors and alumni are explicitly labeled; PhD students Golub and Kudryakov are documented by the 2026 Rokhlin scholarship roster.",
+    "MCS pages were directly retrieved using Python urllib because the search reader returned 403.",
+    "All links are doctoral supervision, including faculty-documented co-supervision; coauthorship is never treated as supervision."
+  ]
+}

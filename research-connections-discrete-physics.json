@@ -1,0 +1,849 @@
+{
+  "people": [
+    {
+      "id": "mikhail-mrykhin",
+      "name": "Mikhail Mrykhin",
+      "nameRu": "Михаил Кириллович Мрыхин",
+      "field": "discrete",
+      "stage": "student",
+      "degree": "PhD student · documented August 2026",
+      "affiliations": [
+        "SPbSU MCS"
+      ],
+      "interests": "Formal languages, cellular automata and hardest languages.",
+      "sources": [
+        {
+          "label": "Alexander Okhotin’s CV · 22 August 2026",
+          "url": "https://users.math-cs.spbu.ru/~okhotin/cv/alexander_okhotin_cv.pdf"
+        },
+        {
+          "label": "SPbSU master’s thesis record · full name",
+          "url": "https://dspace.spbu.ru/handle/11701/30116"
+        }
+      ],
+      "historical": false,
+      "contextOnly": false,
+      "statusAsOf": "2026-08-22",
+      "notes": "Explicitly listed as a current PhD student in Alexander Okhotin’s dated CV."
+    },
+    {
+      "id": "semyon-petrov",
+      "name": "Semyon Petrov",
+      "nameRu": "Семён Андреевич Петров",
+      "field": "discrete",
+      "stage": "student",
+      "degree": "PhD student · documented August 2026",
+      "affiliations": [
+        "SPbSU MCS"
+      ],
+      "interests": "Automata theory, two-way finite automata and unambiguity.",
+      "sources": [
+        {
+          "label": "Alexander Okhotin’s CV · 22 August 2026",
+          "url": "https://users.math-cs.spbu.ru/~okhotin/cv/alexander_okhotin_cv.pdf"
+        },
+        {
+          "label": "SPbSU master’s thesis record · full name",
+          "url": "https://dspace.spbu.ru/handle/11701/39634"
+        }
+      ],
+      "historical": false,
+      "contextOnly": false,
+      "statusAsOf": "2026-08-22",
+      "notes": "Explicitly listed as a current PhD student in Alexander Okhotin’s dated CV."
+    },
+    {
+      "id": "maria-radionova",
+      "name": "Maria Radionova",
+      "nameRu": "Мария Алексеевна Радионова",
+      "field": "discrete",
+      "stage": "student",
+      "status": "PhD student · 2026 cohort",
+      "degree": "PhD student · documented August 2026",
+      "affiliations": [
+        "SPbSU MCS"
+      ],
+      "interests": "Finite automata, reversible computation and formal languages.",
+      "notes": "Alexander Okhotin’s dated CV explicitly identifies her as his current PhD student following the master’s thesis defense on 16 June 2026.",
+      "statusAsOf": "2026-08-22",
+      "sources": [
+        {
+          "label": "SPbSU researcher profile and doctoral programme",
+          "url": "https://pureportal.spbu.ru/ru/persons/--(58d0669d-26f9-411f-b2ef-38e7da027c86).html"
+        },
+        {
+          "label": "2026 doctoral cohort roster",
+          "url": "https://pureportal.spbu.ru/ru/organisations/m3801152026(4df1cab5-8800-4576-a6bc-26be011fbd42)/persons.html"
+        },
+        {
+          "label": "SPbSU doctoral programme directory",
+          "url": "https://pureportal.spbu.ru/ru/organisations/doctoral-aspirantura-programs-from-2022(5900463c-989c-486c-8c3a-cde2c6c35622).html"
+        },
+        {
+          "label": "Alexander Okhotin’s CV · 22 August 2026",
+          "url": "https://users.math-cs.spbu.ru/~okhotin/cv/alexander_okhotin_cv.pdf"
+        }
+      ],
+      "historical": false
+    },
+    {
+      "id": "kai-salomaa",
+      "name": "Kai Salomaa",
+      "nameRu": "Кай Саломаа",
+      "field": "discrete",
+      "stage": "established",
+      "degree": "PhD · 1989",
+      "affiliations": [
+        "Queen’s University"
+      ],
+      "interests": "Automata, formal languages and descriptional complexity.",
+      "sources": [
+        {
+          "label": "Alexander Okhotin’s CV · 22 August 2026",
+          "url": "https://users.math-cs.spbu.ru/~okhotin/cv/alexander_okhotin_cv.pdf"
+        },
+        {
+          "label": "Queen’s University · graduate supervision award, 2025",
+          "url": "https://www.queensu.ca/gazette/stories/recognizing-excellence-graduate-student-supervision"
+        },
+        {
+          "label": "Personal Queen’s University research profile",
+          "url": "https://research.cs.queensu.ca/home/ksalomaa/"
+        }
+      ],
+      "historical": false,
+      "contextOnly": true,
+      "statusAsOf": "2026-09-10",
+      "notes": "External supervisor included to explain Alexander Okhotin’s doctoral lineage."
+    },
+    {
+      "id": "vladimir-a-zakharov",
+      "name": "Vladimir A. Zakharov",
+      "nameRu": "Владимир Анатольевич Захаров",
+      "field": "discrete",
+      "stage": "established",
+      "degree": "Doctor of Sciences · 2012",
+      "affiliations": [
+        "Moscow State University"
+      ],
+      "interests": "Formal languages, semantics and program verification.",
+      "sources": [
+        {
+          "label": "Alexander Okhotin’s CV · 22 August 2026",
+          "url": "https://users.math-cs.spbu.ru/~okhotin/cv/alexander_okhotin_cv.pdf"
+        },
+        {
+          "label": "MSU official academic biography",
+          "url": "https://cs.msu.ru/node/2824"
+        }
+      ],
+      "historical": false,
+      "contextOnly": true,
+      "statusAsOf": "2026-09-10",
+      "notes": "External supervisor included to explain Alexander Okhotin’s Candidate of Sciences lineage."
+    },
+    {
+      "id": "fedor-fomin",
+      "name": "Fedor Fomin",
+      "nameRu": "Фёдор Владимирович Фомин",
+      "field": "discrete",
+      "stage": "established",
+      "degree": "PhD · 1997",
+      "affiliations": [
+        "University of Bergen"
+      ],
+      "interests": "Algorithms, parameterized complexity and combinatorics.",
+      "sources": [
+        {
+          "label": "Fedor Fomin’s academic CV",
+          "url": "https://fedorvf.github.io/cv.html"
+        }
+      ],
+      "historical": false,
+      "contextOnly": true,
+      "statusAsOf": "2026-09-10",
+      "notes": "External supervisor; formerly affiliated with SPbSU and PDMI."
+    },
+    {
+      "id": "alexander-avdyushenko",
+      "name": "Alexander Avdyushenko",
+      "nameRu": "Александр Юрьевич Авдюшенко",
+      "field": "discrete",
+      "stage": "established",
+      "degree": "Candidate of Sciences",
+      "affiliations": [
+        "SPbSU MCS (former)"
+      ],
+      "interests": "Mathematical modelling, numerical methods and computer science.",
+      "sources": [
+        {
+          "label": "Academic profile · Sirius, 2020",
+          "url": "https://sochisirius.ru/obuchenie/nauka/smena485/2434"
+        },
+        {
+          "label": "SPbSU researcher profile",
+          "url": "https://pureportal.spbu.ru/ru/persons/--(66b67de5-9bf2-4e2a-aa77-8545cf674bff).html"
+        }
+      ],
+      "historical": false,
+      "contextOnly": true,
+      "statusAsOf": "2026-09-10",
+      "notes": "Included for documented undergraduate supervision at MCS; current MCS employment has not been established."
+    },
+    {
+      "id": "sergey-avgustinovich",
+      "name": "Sergey Avgustinovich",
+      "nameRu": "Сергей Владимирович Августинович",
+      "field": "discrete",
+      "stage": "established",
+      "degree": "Candidate of Sciences",
+      "affiliations": [
+        "Sobolev Institute of Mathematics"
+      ],
+      "interests": "Algebraic combinatorics, graph colourings and combinatorics on words.",
+      "sources": [
+        {
+          "label": "Puzynina’s official MCS academic biography",
+          "url": "https://math-cs.spbu.ru/people/puzynina-s-a/"
+        },
+        {
+          "label": "Sobolev Institute research profile",
+          "url": "https://sciact.math.nsc.ru/public/profile/262"
+        },
+        {
+          "label": "NSU teaching profile",
+          "url": "https://sesc.nsu.ru/math/index.php?Itemid=141&catid=15&id=78&option=com_content&view=article"
+        }
+      ],
+      "historical": false,
+      "contextOnly": true,
+      "statusAsOf": "2026-09-10",
+      "notes": "External doctoral supervisor included as context for Puzynina."
+    },
+    {
+      "id": "andrey-losev",
+      "name": "Andrey Losev",
+      "nameRu": "Андрей Семёнович Лосев",
+      "field": "physics",
+      "stage": "established",
+      "degree": "PhD · 1989",
+      "affiliations": [
+        "SIMIS",
+        "HSE (former)"
+      ],
+      "interests": "String theory, topological quantum field theory and homological methods.",
+      "sources": [
+        {
+          "label": "Andrey Losev · SIMIS academic biography",
+          "url": "https://www.simis.cn/andrey-losev/"
+        }
+      ],
+      "historical": false,
+      "contextOnly": true,
+      "statusAsOf": "2026-09-10",
+      "notes": "External supervisor; formerly at HSE Moscow, at SIMIS since 2024."
+    },
+    {
+      "id": "igor-shenderovich",
+      "name": "Igor Shenderovich",
+      "nameRu": "Игорь Евгеньевич Шендерович",
+      "field": "physics",
+      "stage": "established",
+      "degree": "PhD · 2012",
+      "affiliations": [
+        "ITMO",
+        "HSE (former)"
+      ],
+      "interests": "Quantum field theory, integrable systems and scattering theory.",
+      "sources": [
+        {
+          "label": "ITMO academic profile",
+          "url": "https://physics.itmo.ru/ru/personality/igor_shenderovich"
+        },
+        {
+          "label": "Math-Net academic record",
+          "url": "https://www.mathnet.ru/rus/person33556"
+        }
+      ],
+      "historical": false,
+      "contextOnly": true,
+      "statusAsOf": "2026-09-10",
+      "notes": "Included for explicitly acknowledged research supervision of Valeriia Stolbova."
+    },
+    {
+      "id": "viktor-selivanov",
+      "name": "Viktor Selivanov",
+      "nameRu": "Виктор Львович Селиванов",
+      "field": "discrete",
+      "stage": "established",
+      "degree": "Doctor of Sciences",
+      "affiliations": [
+        "Sobolev Institute of Mathematics",
+        "Novosibirsk State University"
+      ],
+      "interests": "Mathematical logic, computability, descriptive set theory and formal languages.",
+      "sources": [
+        {
+          "label": "Lavrentyev competition · 2022 thesis and supervisor record",
+          "url": "https://www.itp.nsc.ru/news/podvedeny_itogi_lavrentevskogo_konkursa_2022_goda.html"
+        },
+        {
+          "label": "Academic publications",
+          "url": "https://www.mathnet.ru/person25638"
+        }
+      ],
+      "historical": false,
+      "contextOnly": true,
+      "statusAsOf": "2026-09-10",
+      "notes": "External undergraduate supervisor included for Orekhovsky’s lineage."
+    },
+    {
+      "id": "alexander-tiskin",
+      "name": "Alexander Tiskin",
+      "nameRu": "Александр Владимирович Тискин",
+      "field": "discrete",
+      "stage": "established",
+      "degree": "Candidate of Sciences",
+      "affiliations": [
+        "SPbSU MCS"
+      ],
+      "interests": "String algorithms, combinatorics, parallel algorithms and symbolic dynamics.",
+      "sources": [
+        {
+          "label": "SPbSU faculty research profile",
+          "url": "https://pureportal.spbu.ru/ru/persons/--(83d79ffc-854b-4355-b3ce-642e17a947d1).html"
+        },
+        {
+          "label": "Academic record and research interests",
+          "url": "https://www.mathnet.ru/rus/person31001"
+        }
+      ],
+      "historical": false,
+      "contextOnly": false,
+      "statusAsOf": "2026-09-10",
+      "notes": "The SPbSU portal records an MCS associate professorship; bachelor’s supervision independently verified by a thesis cover."
+    },
+    {
+      "id": "dmitry-o-sokolov",
+      "name": "Dmitry O. Sokolov",
+      "nameRu": "Дмитрий Олегович Соколов",
+      "field": "discrete",
+      "stage": "established",
+      "degree": "PhD · 2015",
+      "affiliations": [
+        "SPbSU MCS (former)",
+        "PDMI (former)"
+      ],
+      "interests": "Proof complexity, communication complexity and lower bounds.",
+      "sources": [
+        {
+          "label": "Dmitry Sokolov’s academic CV · doctoral advisers",
+          "url": "https://logic.pdmi.ras.ru/~sokolov/files/cv.pdf"
+        },
+        {
+          "label": "Personal PDMI research profile",
+          "url": "https://logic.pdmi.ras.ru/~sokolov/"
+        }
+      ],
+      "historical": false,
+      "contextOnly": true,
+      "statusAsOf": "2026-09-10",
+      "notes": "Included for documented former MCS supervision; sources for his local appointments are dated 2021–2022, not a claim of a current local position."
+    },
+    {
+      "id": "viktor-kim",
+      "name": "Viktor Kim",
+      "nameRu": "Виктор Тимофеевич Ким",
+      "field": "physics",
+      "stage": "established",
+      "degree": "Doctor of Sciences",
+      "affiliations": [
+        "PNPI",
+        "SPbPU"
+      ],
+      "interests": "High-energy physics, quantum chromodynamics and hadron scattering.",
+      "notes": "External context: listed adviser of Anton Selemenchuk’s 2020 SPbPU bachelor’s thesis. Included for this documented earlier relationship.",
+      "historical": false,
+      "contextOnly": true,
+      "statusAsOf": "2026-09-10",
+      "sources": [
+        {
+          "label": "SPbPU library · bachelor’s thesis, advisers explicitly listed",
+          "url": "https://elib.spbstu.ru/dl/3/2020/vr/vr20-4784.pdf/en/info"
+        },
+        {
+          "label": "PNPI biography · August 2026",
+          "url": "https://www.pnpi.nrcki.ru/press-center/ob-yavleniya/3877-pozdravlyaem-s-yubileem-090826"
+        }
+      ]
+    },
+    {
+      "id": "alexander-y-berdnikov",
+      "name": "Alexander Y. Berdnikov",
+      "nameRu": "Александр Ярославич Бердников",
+      "field": "physics",
+      "stage": "established",
+      "degree": "Candidate of Sciences · 2004",
+      "affiliations": [
+        "SPbPU"
+      ],
+      "interests": "Nuclear and particle physics, quark models and heavy-ion collisions.",
+      "notes": "External context: listed adviser of Anton Selemenchuk’s 2020 SPbPU bachelor’s thesis. Included for this documented earlier relationship.",
+      "historical": false,
+      "contextOnly": true,
+      "statusAsOf": "2026-09-10",
+      "sources": [
+        {
+          "label": "SPbPU library · bachelor’s thesis, advisers explicitly listed",
+          "url": "https://elib.spbstu.ru/dl/3/2020/vr/vr20-4784.pdf/en/info"
+        },
+        {
+          "label": "SPbPU dissertation abstract · 2004",
+          "url": "https://elib.spbstu.ru/dl/848.pdf/download/848.pdf"
+        }
+      ]
+    },
+    {
+      "id": "petr-kulish",
+      "name": "Petr Kulish",
+      "nameRu": "Кулиш Пётр Петрович",
+      "field": "physics",
+      "stage": "historical",
+      "historical": true,
+      "contextOnly": true,
+      "degree": "Doctor of Sciences (1983); Candidate of Sciences (1971)",
+      "affiliations": [
+        "PDMI",
+        "Leningrad University"
+      ],
+      "interests": "Quantum integrable systems, Bethe ansatz, quantum groups and quantum field theory.",
+      "notes": "1944–2016. Head of the PDMI laboratory of mathematical methods in theoretical physics from 2000. Included as a historical doctoral adviser.",
+      "sources": [
+        {
+          "label": "Scientific biography of Petr Kulish, by colleagues including Reshetikhin (2017)",
+          "url": "https://arxiv.org/html/1711.09879v1"
+        }
+      ]
+    },
+    {
+      "id": "reshetikhin",
+      "name": "Nikolai Reshetikhin",
+      "nameRu": "Решетихин Николай Юрьевич",
+      "field": "physics",
+      "stage": "established",
+      "degree": "PhD / Candidate of Sciences (1984)",
+      "affiliations": [
+        "SPbSU MCS"
+      ],
+      "interests": "Quantum and classical integrable dynamical systems.",
+      "notes": "The published academic CV confirms a 1984 PhD at LOMI. The Mathematics Genealogy Project explicitly names Ludvig Faddeev and Petr Kulish as the two doctoral advisers.",
+      "sources": [
+        {
+          "label": "MCS faculty profile",
+          "url": "https://math-cs.spbu.ru/people/reshetihin-nikolaj-yurevich/"
+        },
+        {
+          "label": "MCS faculty roster",
+          "url": "https://math-cs.spbu.ru/people/"
+        },
+        {
+          "label": "Laboratory research groups",
+          "url": "https://anproblab-spbu.ru/ru/staff"
+        },
+        {
+          "label": "Academic CV: Nicolai Reshetikhin, PhD at LOMI in 1984",
+          "url": "https://www.ctqm.au.dk/news/NBNR/ShortCV.pdf"
+        },
+        {
+          "label": "Mathematics Genealogy Project: Reshetikhin, PhD 1984, both advisers",
+          "url": "https://www.genealogy.math.ndsu.nodak.edu/id.php?id=32908"
+        }
+      ],
+      "current": true
+    }
+  ],
+  "links": [
+    {
+      "source": "okhotin",
+      "target": "mikhail-mrykhin",
+      "type": "doctoral",
+      "label": "Current PhD supervisor",
+      "year": 2026,
+      "sources": [
+        {
+          "label": "Alexander Okhotin’s CV · 22 August 2026",
+          "url": "https://users.math-cs.spbu.ru/~okhotin/cv/alexander_okhotin_cv.pdf"
+        }
+      ],
+      "notes": "The CV lists the person among current students and explicitly says “Currently a Ph. D. student.”"
+    },
+    {
+      "source": "okhotin",
+      "target": "semyon-petrov",
+      "type": "doctoral",
+      "label": "Current PhD supervisor",
+      "year": 2026,
+      "sources": [
+        {
+          "label": "Alexander Okhotin’s CV · 22 August 2026",
+          "url": "https://users.math-cs.spbu.ru/~okhotin/cv/alexander_okhotin_cv.pdf"
+        }
+      ],
+      "notes": "The CV lists the person among current students and explicitly says “Currently a Ph. D. student.”"
+    },
+    {
+      "source": "okhotin",
+      "target": "maria-radionova",
+      "type": "doctoral",
+      "label": "Current PhD supervisor",
+      "year": 2026,
+      "sources": [
+        {
+          "label": "Alexander Okhotin’s CV · 22 August 2026",
+          "url": "https://users.math-cs.spbu.ru/~okhotin/cv/alexander_okhotin_cv.pdf"
+        }
+      ],
+      "notes": "The August 2026 CV explicitly lists Radionova as a current PhD student after her master’s thesis defense on 16 June 2026."
+    },
+    {
+      "source": "vladimir-a-zakharov",
+      "target": "okhotin",
+      "type": "doctoral",
+      "label": "Candidate thesis supervisor",
+      "year": 2002,
+      "sources": [
+        {
+          "label": "Alexander Okhotin’s CV · 22 August 2026",
+          "url": "https://users.math-cs.spbu.ru/~okhotin/cv/alexander_okhotin_cv.pdf"
+        }
+      ],
+      "notes": "Okhotin’s CV explicitly records his December 2002 Moscow State University Candidate degree supervised by Vladimir A. Zakharov."
+    },
+    {
+      "source": "kai-salomaa",
+      "target": "okhotin",
+      "type": "doctoral",
+      "label": "PhD supervisor",
+      "year": 2004,
+      "sources": [
+        {
+          "label": "Alexander Okhotin’s CV · 22 August 2026",
+          "url": "https://users.math-cs.spbu.ru/~okhotin/cv/alexander_okhotin_cv.pdf"
+        }
+      ],
+      "notes": "Okhotin’s CV distinguishes the 2004 Queen’s University PhD, supervised by Kai Salomaa, from his 2002 Candidate degree."
+    },
+    {
+      "source": "fedor-fomin",
+      "target": "artur-ignatiev",
+      "type": "research",
+      "label": "Master’s thesis supervisor",
+      "year": 2024,
+      "sources": [
+        {
+          "label": "Ignatiev’s 2024 master’s thesis · title page",
+          "url": "https://aaignatiev.github.io/papers/thesis_master.pdf"
+        }
+      ],
+      "notes": "The title page names Fedor Fomin as supervisor of “Inconsistent Planning: Task Graph Modification”; this is not a claim about current doctoral supervision."
+    },
+    {
+      "source": "alexander-avdyushenko",
+      "target": "artur-ignatiev",
+      "type": "research",
+      "label": "Bachelor’s thesis supervisor",
+      "year": 2022,
+      "sources": [
+        {
+          "label": "Ignatiev’s 2022 bachelor’s thesis · title page",
+          "url": "https://aaignatiev.github.io/papers/thesis_bachelor.pdf"
+        }
+      ],
+      "notes": "The title page explicitly names Alexander Yuryevich Avdyushenko; Anastasia Sofronova is the reviewer, not the supervisor."
+    },
+    {
+      "source": "sergey-avgustinovich",
+      "target": "puzynina",
+      "type": "doctoral",
+      "label": "Candidate thesis supervisor",
+      "year": 2008,
+      "sources": [
+        {
+          "label": "Puzynina’s official MCS academic biography",
+          "url": "https://math-cs.spbu.ru/people/puzynina-s-a/"
+        }
+      ],
+      "notes": "The faculty biography names S. V. Avgustinovich as the supervisor of the May 2008 Candidate thesis."
+    },
+    {
+      "source": "andrey-losev",
+      "target": "timofey-sulimov",
+      "type": "research",
+      "label": "Master’s research supervisor",
+      "year": 2023,
+      "sources": [
+        {
+          "label": "Sulimov’s HSE interview · 26 April 2023",
+          "url": "https://spb.hse.ru/news/829928328.html"
+        }
+      ],
+      "notes": "A second-year physics master’s student in this interview, Sulimov explicitly says he works under Andrey Semyonovich Losev."
+    },
+    {
+      "source": "igor-shenderovich",
+      "target": "valeriia-stolbova",
+      "type": "research",
+      "label": "Research supervision · initial project stage",
+      "year": 2023,
+      "sources": [
+        {
+          "label": "Stolbova, The S-matrix bootstrap · acknowledgements, p. 24",
+          "url": "https://arxiv.org/pdf/2311.14418"
+        }
+      ],
+      "notes": "The author explicitly credits I. E. Shenderovich for formulating the problem and supervising the initial stage. A. G. Pronko is thanked for manuscript comments, which is not treated as supervision."
+    },
+    {
+      "source": "viktor-selivanov",
+      "target": "vladislav-orekhovsky",
+      "type": "research",
+      "label": "Bachelor’s thesis supervisor",
+      "year": 2022,
+      "sources": [
+        {
+          "label": "Lavrentyev competition · 2022",
+          "url": "https://www.itp.nsc.ru/news/podvedeny_itogi_lavrentevskogo_konkursa_2022_goda.html"
+        }
+      ],
+      "notes": "The competition result explicitly identifies the 2022 NSU bachelor’s thesis and its supervisor Viktor Lvovich Selivanov."
+    },
+    {
+      "source": "hirsch",
+      "target": "dmitry-o-sokolov",
+      "type": "doctoral",
+      "label": "PhD co-supervisor",
+      "year": 2015,
+      "sources": [
+        {
+          "label": "Dmitry Sokolov’s academic CV · doctoral advisers",
+          "url": "https://logic.pdmi.ras.ru/~sokolov/files/cv.pdf"
+        }
+      ],
+      "notes": "Sokolov’s CV explicitly lists E. A. Hirsch and D. M. Itsykson as the advisers of his 2011–2015 doctoral studies at PDMI."
+    },
+    {
+      "source": "itsykson",
+      "target": "dmitry-o-sokolov",
+      "type": "doctoral",
+      "label": "PhD co-supervisor",
+      "year": 2015,
+      "sources": [
+        {
+          "label": "Dmitry Sokolov’s academic CV · doctoral advisers",
+          "url": "https://logic.pdmi.ras.ru/~sokolov/files/cv.pdf"
+        }
+      ],
+      "notes": "Sokolov’s CV explicitly lists E. A. Hirsch and D. M. Itsykson as the advisers of his 2011–2015 doctoral studies at PDMI."
+    },
+    {
+      "source": "puzynina",
+      "target": "arina-filimonova",
+      "type": "research",
+      "label": "Master’s thesis supervisor",
+      "year": 2023,
+      "sources": [
+        {
+          "label": "SPbSU thesis · original title page",
+          "url": "https://dspace.spbu.ru/handle/11701/41837"
+        }
+      ],
+      "notes": "Thesis: Some conjectures on morphic words. Explicit supervisor on the original title page; the separately named reviewer is not treated as a supervisor. The source establishes this earlier degree-level relationship, not current PhD supervision."
+    },
+    {
+      "source": "puzynina",
+      "target": "sergey-luchinin",
+      "type": "research",
+      "label": "Bachelor’s thesis supervisor",
+      "year": 2022,
+      "sources": [
+        {
+          "label": "SPbSU thesis · original title page",
+          "url": "https://dspace.spbu.ru/handle/11701/41788"
+        }
+      ],
+      "notes": "Thesis: Sequences of symmetry groups of infinite words. Explicit supervisor on the original title page; the separately named reviewer is not treated as a supervisor. The source establishes this earlier degree-level relationship, not current PhD supervision."
+    },
+    {
+      "source": "fedor-petrov",
+      "target": "mikhail-p-ivanov",
+      "type": "research",
+      "label": "Master’s thesis supervisor",
+      "year": 2023,
+      "sources": [
+        {
+          "label": "SPbSU thesis · original title page",
+          "url": "https://dspace.spbu.ru/handle/11701/41899"
+        }
+      ],
+      "notes": "Thesis: On graph colorings. Explicit supervisor on the original title page; the separately named reviewer is not treated as a supervisor. The source establishes this earlier degree-level relationship, not current PhD supervision."
+    },
+    {
+      "source": "karpov",
+      "target": "mikhail-p-ivanov",
+      "type": "research",
+      "label": "Bachelor’s thesis supervisor",
+      "year": 2021,
+      "sources": [
+        {
+          "label": "SPbSU thesis · original title page",
+          "url": "https://dspace.spbu.ru/handle/11701/30478"
+        }
+      ],
+      "notes": "Thesis: On proper graph colorings. Explicit supervisor on the original title page; the separately named reviewer is not treated as a supervisor. The source establishes this earlier degree-level relationship, not current PhD supervision."
+    },
+    {
+      "source": "fedor-petrov",
+      "target": "konstantin-chelpanov",
+      "type": "research",
+      "label": "Master’s thesis supervisor",
+      "year": 2023,
+      "sources": [
+        {
+          "label": "SPbSU thesis · original title page",
+          "url": "https://dspace.spbu.ru/handle/11701/41905"
+        }
+      ],
+      "notes": "Thesis: On spanning trees in bipartite graphs. Explicit supervisor on the original title page; the separately named reviewer is not treated as a supervisor. The source establishes this earlier degree-level relationship, not current PhD supervision."
+    },
+    {
+      "source": "fedor-petrov",
+      "target": "vsevolod-evtushevsky",
+      "type": "research",
+      "label": "Master’s thesis supervisor",
+      "year": 2021,
+      "sources": [
+        {
+          "label": "SPbSU thesis · original title page",
+          "url": "https://dspace.spbu.ru/handle/11701/30041"
+        }
+      ],
+      "notes": "Thesis: Ergodicity of central measures on the path space of Young--Fibonacci graph. Explicit supervisor on the original title page; the separately named reviewer is not treated as a supervisor. The source establishes this earlier degree-level relationship, not current PhD supervision."
+    },
+    {
+      "source": "kulikov",
+      "target": "sergey-ovcharov",
+      "type": "research",
+      "label": "Bachelor’s thesis supervisor",
+      "year": 2023,
+      "sources": [
+        {
+          "label": "SPbSU thesis · original title page",
+          "url": "https://dspace.spbu.ru/handle/11701/42219"
+        }
+      ],
+      "notes": "Thesis: Proof complexity lower bounds of combinatorial principles. Explicit supervisor on the original title page; the separately named reviewer is not treated as a supervisor. The source establishes this earlier degree-level relationship, not current PhD supervision."
+    },
+    {
+      "source": "alexander-tiskin",
+      "target": "petr-mishura",
+      "type": "research",
+      "label": "Bachelor’s thesis supervisor",
+      "year": 2023,
+      "sources": [
+        {
+          "label": "SPbSU thesis · original title page",
+          "url": "https://dspace.spbu.ru/handle/11701/42058"
+        }
+      ],
+      "notes": "Thesis: Nondegenerate graph colouring. Explicit supervisor on the original title page; the separately named reviewer is not treated as a supervisor. The source establishes this earlier degree-level relationship, not current PhD supervision."
+    },
+    {
+      "source": "dmitry-o-sokolov",
+      "target": "yuriy-dementiev",
+      "type": "research",
+      "label": "Bachelor’s thesis supervisor",
+      "year": 2022,
+      "sources": [
+        {
+          "label": "SPbSU thesis · original title page",
+          "url": "https://dspace.spbu.ru/handle/11701/40003"
+        }
+      ],
+      "notes": "Thesis: Half-duplex communication complexity bounds, and topological embedding problem for colored trees. Explicit supervisor on the original title page; the separately named reviewer is not treated as a supervisor. The source establishes this earlier degree-level relationship, not current PhD supervision."
+    },
+    {
+      "source": "viktor-kim",
+      "target": "anton-selemenchuk",
+      "type": "research",
+      "label": "Bachelor’s thesis adviser",
+      "year": 2020,
+      "sources": [
+        {
+          "label": "SPbPU library · bachelor’s thesis, advisers explicitly listed",
+          "url": "https://elib.spbstu.ru/dl/3/2020/vr/vr20-4784.pdf/en/info"
+        }
+      ],
+      "notes": "The official SPbPU library record explicitly lists both Viktor Kim and Alexander Yaroslavich Berdnikov under “Scientific adviser” for the 2020 bachelor’s thesis “Dimuon production process at the NICA collider energies”. No current doctoral supervision is inferred."
+    },
+    {
+      "source": "alexander-y-berdnikov",
+      "target": "anton-selemenchuk",
+      "type": "research",
+      "label": "Bachelor’s thesis adviser",
+      "year": 2020,
+      "sources": [
+        {
+          "label": "SPbPU library · bachelor’s thesis, advisers explicitly listed",
+          "url": "https://elib.spbstu.ru/dl/3/2020/vr/vr20-4784.pdf/en/info"
+        }
+      ],
+      "notes": "The official SPbPU library record explicitly lists both Viktor Kim and Alexander Yaroslavich Berdnikov under “Scientific adviser” for the 2020 bachelor’s thesis “Dimuon production process at the NICA collider energies”. No current doctoral supervision is inferred."
+    },
+    {
+      "source": "faddeev",
+      "target": "reshetikhin",
+      "type": "doctoral",
+      "year": 1984,
+      "label": "PhD co-supervisor",
+      "notes": "The Mathematics Genealogy Project names Ludvig Dmitrievich Faddeev as Advisor 1 and Petr Petrovich Kulish as Advisor 2 for the 1984 Steklov PhD, Analytical Bethe Ansatz.",
+      "sources": [
+        {
+          "label": "Mathematics Genealogy Project: Reshetikhin, PhD 1984, both advisers",
+          "url": "https://www.genealogy.math.ndsu.nodak.edu/id.php?id=32908"
+        }
+      ]
+    },
+    {
+      "source": "petr-kulish",
+      "target": "reshetikhin",
+      "type": "doctoral",
+      "year": 1984,
+      "label": "PhD co-supervisor",
+      "notes": "The Mathematics Genealogy Project names Ludvig Dmitrievich Faddeev as Advisor 1 and Petr Petrovich Kulish as Advisor 2 for the 1984 Steklov PhD, Analytical Bethe Ansatz.",
+      "sources": [
+        {
+          "label": "Mathematics Genealogy Project: Reshetikhin, PhD 1984, both advisers",
+          "url": "https://www.genealogy.math.ndsu.nodak.edu/id.php?id=32908"
+        }
+      ]
+    },
+    {
+      "source": "faddeev",
+      "target": "petr-kulish",
+      "type": "doctoral",
+      "year": 1971,
+      "label": "PhD supervisor",
+      "notes": "The scientific obituary identifies Kulish as one of Faddeev’s first students and dates his PhD to 1971; the Mathematics Genealogy Project explicitly identifies Faddeev as doctoral adviser.",
+      "sources": [
+        {
+          "label": "Scientific biography of Petr Kulish, by colleagues including Reshetikhin (2017)",
+          "url": "https://arxiv.org/html/1711.09879v1"
+        },
+        {
+          "label": "Mathematics Genealogy Project: Petr Kulish, PhD 1971 and adviser",
+          "url": "https://www.genealogy.math.ndsu.nodak.edu/id.php?id=57069"
+        }
+      ]
+    }
+  ]
+}

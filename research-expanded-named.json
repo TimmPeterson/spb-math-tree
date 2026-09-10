@@ -1,0 +1,491 @@
+{
+  "checkedAt": "2026-09-10",
+  "scope": "Named missing researchers, geometry and topology faculty, and public SPbSU doctoral cohort rosters.",
+  "people": [
+    {
+      "id": "vasily-ionin",
+      "name": "Vasily Ionin",
+      "nameRu": "Василий Андреевич Ионин",
+      "field": "algebra",
+      "stage": "student",
+      "degree": "Doctoral studies · source 2025",
+      "affiliations": [
+        "SPbSU MCS",
+        "PDMI"
+      ],
+      "interests": "Group theory, braid groups and homotopy groups of spheres.",
+      "notes": "Listed among doctoral fellowship recipients in June 2025, with employment at PDMI; MCS also lists a research engineer role.",
+      "sources": [
+        {
+          "label": "Euler Institute doctoral fellowships · 8 June 2025",
+          "url": "https://eimi.ru/news/5885/"
+        },
+        {
+          "label": "MCS faculty profile",
+          "url": "https://math-cs.spbu.ru/people/ionin-vasilij-andreevich/"
+        },
+        {
+          "label": "Research: Cohen–Wu homomorphism",
+          "url": "https://arxiv.org/abs/2507.09636"
+        }
+      ],
+      "statusAsOf": "2025-06-08"
+    },
+    {
+      "id": "alexey-miller",
+      "name": "Alexey Miller",
+      "nameRu": "Алексей Юрьевич Миллер",
+      "field": "geometry",
+      "stage": "student",
+      "degree": "Doctoral studies · source 2025",
+      "affiliations": [
+        "SPbSU MCS",
+        "PDMI"
+      ],
+      "interests": "Knot theory, local transformations of knots and the geometry of Gordian graphs.",
+      "notes": "Listed among doctoral fellowship recipients in June 2025, with employment at PDMI. His 2022 paper explicitly identifies Andrey Malyutin as his adviser; the paper does not specify the degree level.",
+      "sources": [
+        {
+          "label": "Euler Institute doctoral fellowships · 8 June 2025",
+          "url": "https://eimi.ru/news/5885/"
+        },
+        {
+          "label": "MCS faculty profile",
+          "url": "https://math-cs.spbu.ru/people/miller-aleksej-yurevich/"
+        },
+        {
+          "label": "Research and adviser acknowledgement",
+          "url": "https://arxiv.org/pdf/2211.17237"
+        }
+      ],
+      "statusAsOf": "2025-06-08"
+    },
+    {
+      "id": "ilya-alekseev",
+      "name": "Ilya Alekseev",
+      "nameRu": "Илья Сергеевич Алексеев",
+      "field": "geometry",
+      "stage": "student",
+      "degree": "Doctoral studies · source 2025",
+      "affiliations": [
+        "SPbSU MCS",
+        "PDMI"
+      ],
+      "interests": "Knot invariants, geometric group theory and the topology of three-dimensional manifolds.",
+      "notes": "Doctoral fellowship recipient in June 2025; research engineer at the Euler Institute. PDMI names Andrey Malyutin as his supervisor in its 2024 graduate research competition.",
+      "sources": [
+        {
+          "label": "Euler Institute doctoral fellowships · 8 June 2025",
+          "url": "https://eimi.ru/news/5885/"
+        },
+        {
+          "label": "MCS faculty profile",
+          "url": "https://math-cs.spbu.ru/people/alekseev-ilya-sergeevich/"
+        },
+        {
+          "label": "PDMI graduate research competition · 2024",
+          "url": "https://www.pdmi.ras.ru/pdmi/%D0%BA%D0%BE%D0%BD%D0%BA%D1%83%D1%80%D1%81-%D0%BC%D0%BE%D0%BB%D0%BE%D0%B4%D1%8B%D1%85-%D1%83%D1%87%D0%B5%D0%BD%D1%8B%D1%85"
+        }
+      ],
+      "statusAsOf": "2025-06-08"
+    },
+    {
+      "id": "andrey-malyutin",
+      "name": "Andrey Malyutin",
+      "nameRu": "Андрей Валерьевич Малютин",
+      "field": "geometry",
+      "stage": "established",
+      "degree": "Doctor of Sciences",
+      "affiliations": [
+        "PDMI",
+        "SPbSU"
+      ],
+      "interests": "Low-dimensional topology, geometric group theory and boundaries of random walks.",
+      "notes": "Deputy director for science at PDMI; supervisor of work on knot invariants and knot transformations.",
+      "sources": [
+        {
+          "label": "PDMI research profile",
+          "url": "https://pdmi.ras.ru/pdmi/en/node/221"
+        },
+        {
+          "label": "Russian Academy of Sciences profile",
+          "url": "https://new.ras.ru/staff/professor-ran/malyutin-andrey-valerevich/"
+        },
+        {
+          "label": "PDMI graduate research competition · 2024",
+          "url": "https://www.pdmi.ras.ru/pdmi/%D0%BA%D0%BE%D0%BD%D0%BA%D1%83%D1%80%D1%81-%D0%BC%D0%BE%D0%BB%D0%BE%D0%B4%D1%8B%D1%85-%D1%83%D1%87%D0%B5%D0%BD%D1%8B%D1%85"
+        }
+      ]
+    },
+    {
+      "id": "nikolai-mnev",
+      "name": "Nikolai Mnev",
+      "nameRu": "Николай Евгеньевич Мнев",
+      "field": "geometry",
+      "stage": "established",
+      "degree": "Candidate of Sciences · 1986",
+      "affiliations": [
+        "SPbSU MCS",
+        "PDMI"
+      ],
+      "interests": "Algebraic and geometric topology, combinatorial geometry and realization spaces.",
+      "notes": "MCS records his 1986 dissertation and supervisor Anatoly Vershik.",
+      "sources": [
+        {
+          "label": "MCS faculty profile",
+          "url": "https://math-cs.spbu.ru/people/mnev-nikolaj-evgenevich/"
+        },
+        {
+          "label": "PDMI research and education center",
+          "url": "https://www.pdmi.ras.ru/pdmi/noc"
+        }
+      ]
+    },
+    {
+      "id": "peter-zograf",
+      "name": "Peter Zograf",
+      "nameRu": "Пётр Георгиевич Зограф",
+      "field": "geometry",
+      "stage": "established",
+      "degree": "Doctor of Sciences · 1989",
+      "affiliations": [
+        "SPbSU MCS",
+        "PDMI"
+      ],
+      "interests": "Riemann surfaces, moduli spaces, enumerative combinatorics and mathematical physics.",
+      "notes": "Director of the Euler International Mathematical Institute at PDMI; MCS chief researcher.",
+      "sources": [
+        {
+          "label": "MCS faculty profile",
+          "url": "https://math-cs.spbu.ru/people/zograf-p-g/"
+        },
+        {
+          "label": "PDMI research profile",
+          "url": "https://www.pdmi.ras.ru/pdmi/node/147"
+        }
+      ]
+    },
+    {
+      "id": "nina-lebedeva",
+      "name": "Nina Lebedeva",
+      "nameRu": "Нина Дмитриевна Лебедева",
+      "field": "geometry",
+      "stage": "established",
+      "degree": "Candidate of Sciences",
+      "affiliations": [
+        "SPbSU MCS"
+      ],
+      "interests": "Metric geometry, curvature bounds and the geometry of spaces at infinity.",
+      "notes": "Associate professor at MCS; research publications concern metric and Alexandrov geometry.",
+      "sources": [
+        {
+          "label": "MCS faculty profile",
+          "url": "https://math-cs.spbu.ru/people/lebedeva-n-d/"
+        },
+        {
+          "label": "Math-Net research profile",
+          "url": "https://www.mathnet.ru/rus/person35114"
+        }
+      ]
+    },
+    {
+      "id": "roman-mikhailov",
+      "name": "Roman Mikhailov",
+      "nameRu": "Роман Валерьевич Михайлов",
+      "field": "algebra",
+      "stage": "established",
+      "degree": "Doctor of Sciences · 2010",
+      "affiliations": [
+        "SPbSU MCS"
+      ],
+      "interests": "Group theory, homotopy theory and homological algebra.",
+      "notes": "Leading researcher in the MCS Modern Algebra and Applications laboratory.",
+      "sources": [
+        {
+          "label": "MCS faculty profile",
+          "url": "https://math-cs.spbu.ru/people/mihajlov-roman-valerevich/"
+        }
+      ]
+    },
+    {
+      "id": "semen-podkorytov",
+      "name": "Semen Podkorytov",
+      "nameRu": "Семен Сергеевич Подкорытов",
+      "field": "geometry",
+      "stage": "established",
+      "degree": "Candidate of Sciences",
+      "affiliations": [
+        "SPbSU MCS",
+        "PDMI"
+      ],
+      "interests": "Algebraic topology, homotopy invariants and characteristic classes.",
+      "notes": "Senior researcher in the PDMI Geometry and Topology laboratory; also listed in the MCS faculty.",
+      "sources": [
+        {
+          "label": "MCS faculty profile",
+          "url": "https://math-cs.spbu.ru/people/podkorytov-s-s/"
+        },
+        {
+          "label": "PDMI research profile",
+          "url": "https://www.pdmi.ras.ru/pdmi/node/265"
+        }
+      ]
+    },
+    {
+      "id": "evgeny-fominykh",
+      "name": "Evgeny Fominykh",
+      "nameRu": "Евгений Анатольевич Фоминых",
+      "field": "geometry",
+      "stage": "established",
+      "degree": "Doctor of Sciences · 2014",
+      "affiliations": [
+        "SPbSU MCS",
+        "PDMI"
+      ],
+      "interests": "Three-manifold topology, minimal triangulations and knot theory.",
+      "notes": "MCS associate professor and Euler Institute coordinator; the MCS profile documents his 2003 Candidate and 2014 Doctor of Sciences degrees.",
+      "sources": [
+        {
+          "label": "MCS faculty profile",
+          "url": "https://math-cs.spbu.ru/people/fominykh-e-a/"
+        },
+        {
+          "label": "PDMI research publication",
+          "url": "https://www.pdmi.ras.ru/preprint/2020/20-08.html"
+        }
+      ]
+    },
+    {
+      "id": "daniil-nigomedyanov",
+      "name": "Daniil Nigomedyanov",
+      "nameRu": "Даниил Дамирович Нигомедьянов",
+      "field": "geometry",
+      "stage": "student",
+      "degree": "Doctoral studies · 2023 cohort",
+      "affiliations": [
+        "SPbSU MCS",
+        "Euler Institute"
+      ],
+      "interests": "Hyperbolic three-manifolds, ideal triangulations and triangulation complexity.",
+      "notes": "Listed in the 2023 SPbSU Geometry and Topology doctoral cohort and the June 2025 Euler Institute doctoral fellowship results. Research engineer at the Euler Institute.",
+      "sources": [
+        {
+          "label": "SPbSU doctoral cohort · 2023",
+          "url": "https://pureportal.spbu.ru/ru/organisations/m3901132023(4071ed16-c335-4d38-a694-eed7c1b93e5d)/persons.html?pageSize=100"
+        },
+        {
+          "label": "SPbSU research profile",
+          "url": "https://pureportal.spbu.ru/ru/persons/--(2a652ab2-7aea-4895-b2c6-40182e947f7d).html"
+        },
+        {
+          "label": "Euler Institute doctoral fellowships · 8 June 2025",
+          "url": "https://eimi.ru/news/5885/"
+        },
+        {
+          "label": "MCS affiliation in an educational program biography",
+          "url": "https://sochisirius.ru/obuchenie/nauka/smena1394/6580"
+        },
+        {
+          "label": "Research: triangulations of three-manifolds",
+          "url": "https://journals.rcsi.science/0042-1316/article/view/140493"
+        }
+      ],
+      "statusAsOf": "2026-09-10"
+    },
+    {
+      "id": "ivan-vorobyov",
+      "name": "Ivan Vorobyov",
+      "nameRu": "Иван Григорьевич Воробьев",
+      "field": "geometry",
+      "stage": "student",
+      "degree": "Doctoral studies · 2024 cohort",
+      "affiliations": [
+        "SPbSU"
+      ],
+      "interests": "Geometry and topology.",
+      "notes": "Listed in the SPbSU Geometry and Topology doctoral cohort 2024. The public profile does not identify a supervisor.",
+      "sources": [
+        {
+          "label": "SPbSU doctoral cohort · 2024",
+          "url": "https://pureportal.spbu.ru/ru/organisations/m3901132024(27e34492-661f-4e13-9d1e-829b45bc9c36)/persons.html?pageSize=100"
+        },
+        {
+          "label": "SPbSU research profile",
+          "url": "https://pureportal.spbu.ru/ru/persons/--(ee5c264c-25af-496c-b848-a5f2a5826221).html"
+        }
+      ],
+      "statusAsOf": "2026-09-10"
+    },
+    {
+      "id": "vsevolod-ivanov",
+      "name": "Vsevolod Ivanov",
+      "nameRu": "Всеволод Павлович Иванов",
+      "field": "geometry",
+      "stage": "student",
+      "degree": "Doctoral studies · 2025 cohort",
+      "affiliations": [
+        "SPbSU"
+      ],
+      "interests": "Geometry and topology.",
+      "notes": "Listed in the SPbSU Geometry and Topology doctoral cohort 2025. The public profile does not identify a supervisor.",
+      "sources": [
+        {
+          "label": "SPbSU doctoral cohort · 2025",
+          "url": "https://pureportal.spbu.ru/ru/organisations/m3901132025(ff81f490-a58f-430b-ba4e-20609576d057)/persons.html?pageSize=100"
+        },
+        {
+          "label": "SPbSU research profile",
+          "url": "https://pureportal.spbu.ru/ru/persons/--(6a739d05-a090-4c0e-b692-aabaf6ce5687).html"
+        }
+      ],
+      "statusAsOf": "2026-09-10"
+    },
+    {
+      "id": "vladimir-stetsyuk",
+      "name": "Vladimir Stetsyuk",
+      "nameRu": "Владимир Борисович Стецюк",
+      "field": "geometry",
+      "stage": "student",
+      "degree": "Doctoral studies · 2026 cohort",
+      "affiliations": [
+        "SPbSU"
+      ],
+      "interests": "Geometry and topology.",
+      "notes": "Listed in the SPbSU Geometry and Topology doctoral cohort 2026. The public profile does not identify a supervisor.",
+      "sources": [
+        {
+          "label": "SPbSU doctoral cohort · 2026",
+          "url": "https://pureportal.spbu.ru/ru/organisations/m3901132026(2da80cf3-0139-41ec-a961-ee923f7587c2)/persons.html?pageSize=100"
+        },
+        {
+          "label": "SPbSU research profile",
+          "url": "https://pureportal.spbu.ru/ru/persons/--(7fce83a2-a99f-416d-b220-40b80bcf4c19).html"
+        }
+      ],
+      "statusAsOf": "2026-09-10"
+    },
+    {
+      "id": "matvey-ivlev",
+      "name": "Matvey Ivlev",
+      "nameRu": "Матвей Ивлев",
+      "field": "geometry",
+      "stage": "student",
+      "degree": "Doctoral studies · 2026 cohort",
+      "affiliations": [
+        "SPbSU"
+      ],
+      "interests": "Geometry and topology.",
+      "notes": "Listed in the SPbSU Geometry and Topology doctoral cohort 2026. The public profile does not identify a supervisor.",
+      "sources": [
+        {
+          "label": "SPbSU doctoral cohort · 2026",
+          "url": "https://pureportal.spbu.ru/ru/organisations/m3801132026(a31fecb9-60ee-4e41-9a9f-153e576a84ed)/persons.html?pageSize=100"
+        },
+        {
+          "label": "SPbSU research profile",
+          "url": "https://pureportal.spbu.ru/ru/persons/-(6b4a3ede-cc3c-4b43-a24d-64a4a424bfd9).html"
+        }
+      ],
+      "statusAsOf": "2026-09-10"
+    },
+    {
+      "id": "yan-shapiro",
+      "name": "Yan Shapiro",
+      "nameRu": "Ян Игоревич Шапиро",
+      "field": "geometry",
+      "stage": "student",
+      "degree": "Doctoral studies · 2026 cohort",
+      "affiliations": [
+        "SPbSU"
+      ],
+      "interests": "Geometry and topology.",
+      "notes": "Listed in the SPbSU Geometry and Topology doctoral cohort 2026. The public profile does not identify a supervisor.",
+      "sources": [
+        {
+          "label": "SPbSU doctoral cohort · 2026",
+          "url": "https://pureportal.spbu.ru/ru/organisations/m3801132026(a31fecb9-60ee-4e41-9a9f-153e576a84ed)/persons.html?pageSize=100"
+        },
+        {
+          "label": "SPbSU research profile",
+          "url": "https://pureportal.spbu.ru/ru/persons/--(ba17f144-ef72-45f8-b92c-c114164a787a).html"
+        }
+      ],
+      "statusAsOf": "2026-09-10"
+    },
+    {
+      "id": "dmitry-tsedilov",
+      "name": "Dmitry Tsedilov",
+      "nameRu": "Дмитрий Сергеевич Цедилов",
+      "field": "physics",
+      "stage": "student",
+      "degree": "Doctoral studies · 2025 cohort",
+      "affiliations": [
+        "SPbSU",
+        "Chebyshev Laboratory"
+      ],
+      "interests": "Differential equations, mathematical physics and scattering by diffraction gratings.",
+      "notes": "Listed in the 2025 Differential Equations and Mathematical Physics doctoral cohort and the September 2025 Euler Institute fellowship results. Research engineer in the Chebyshev Laboratory.",
+      "sources": [
+        {
+          "label": "SPbSU research profile",
+          "url": "https://pureportal.spbu.ru/ru/persons/--(7fe19295-7712-4ab8-bee4-cd98c7e33bc4).html"
+        },
+        {
+          "label": "Euler Institute doctoral fellowships · 18 September 2025",
+          "url": "https://eimi.ru/news/5902/"
+        },
+        {
+          "label": "Research project: scattering by diffraction gratings",
+          "url": "https://pureportal.spbu.ru/ru/projects/-------2023---2%28b898e74a-5d23-4082-b723-3f08ed524eca%29.html"
+        }
+      ],
+      "statusAsOf": "2026-09-10"
+    }
+  ],
+  "links": [
+    {
+      "source": "andrey-malyutin",
+      "target": "ilya-alekseev",
+      "type": "doctoral",
+      "label": "Doctoral research supervisor · PDMI competition 2024",
+      "year": 2024,
+      "sources": [
+        {
+          "label": "PDMI graduate research competition · 2024",
+          "url": "https://www.pdmi.ras.ru/pdmi/%D0%BA%D0%BE%D0%BD%D0%BA%D1%83%D1%80%D1%81-%D0%BC%D0%BE%D0%BB%D0%BE%D0%B4%D1%8B%D1%85-%D1%83%D1%87%D0%B5%D0%BD%D1%8B%D1%85"
+        }
+      ]
+    },
+    {
+      "source": "andrey-malyutin",
+      "target": "alexey-miller",
+      "type": "research",
+      "label": "Research adviser · paper acknowledgement",
+      "year": 2022,
+      "sources": [
+        {
+          "label": "Miller: adviser acknowledgement, page 2",
+          "url": "https://arxiv.org/pdf/2211.17237"
+        }
+      ]
+    },
+    {
+      "source": "vershik",
+      "target": "nikolai-mnev",
+      "type": "doctoral",
+      "label": "Candidate dissertation supervisor",
+      "year": 1986,
+      "sources": [
+        {
+          "label": "MCS faculty profile",
+          "url": "https://math-cs.spbu.ru/people/mnev-nikolaj-evgenevich/"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    "Doctoral statuses include dated evidence; cohort membership is not evidence of a completed degree.",
+    "No advisor edge is inferred from coauthorship or laboratory membership.",
+    "MCS affiliation is only used where faculty or program biographies support it. Generic SPbSU doctoral cohorts remain labeled SPbSU."
+  ]
+}

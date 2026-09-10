@@ -1,0 +1,176 @@
+{
+  "checked": "2026-09-10",
+  "scope": "Four complementary foundational figures: current MCS scientific director, his external doctoral adviser, and historical PDMI mathematical physics lineage.",
+  "people": [
+    {
+      "id": "stanislav-smirnov",
+      "name": "Stanislav Smirnov",
+      "nameRu": "Станислав Константинович Смирнов",
+      "field": "probability",
+      "status": "Principal researcher · Scientific director of MCS",
+      "degree": "PhD, Caltech (1996)",
+      "institutions": [
+        "SPbSU MCS"
+      ],
+      "interests": "Probability, mathematical physics, complex analysis and dynamical systems.",
+      "sources": [
+        {
+          "title": "MCS profile: Stanislav Smirnov",
+          "url": "https://math-cs.spbu.ru/people/smirnov-stanislav-konstantinovich/"
+        },
+        {
+          "title": "Stanislav Smirnov: own CV at Academia Europaea (2013)",
+          "url": "https://www.ae-info.org/ae/Member/Smirnov_Stanislav/CV"
+        }
+      ],
+      "notes": "Current MCS directory explicitly lists principal researcher and scientific director; it does not currently use the title professor. His 1996 PhD advisor was Nikolai Makarov. His own CV identifies Victor Havin separately as adviser of his 1992 St. Petersburg undergraduate/master’s work.",
+      "historical": false
+    },
+    {
+      "id": "makarov",
+      "name": "Nikolai Makarov",
+      "nameRu": "Николай Георгиевич Макаров",
+      "field": "analysis",
+      "status": "Caltech professor · External lineage context",
+      "degree": "PhD, LOMI (1986)",
+      "institutions": [
+        "Caltech",
+        "PDMI alumnus"
+      ],
+      "interests": "Complex and harmonic analysis, potential theory, conformal field theory and random matrices.",
+      "sources": [
+        {
+          "title": "Caltech: Nikolai Makarov",
+          "url": "https://www.pma.caltech.edu/people/nikolai-makarov"
+        }
+      ],
+      "notes": "Richard Merkin Distinguished Professor at Caltech. Included as Smirnov’s doctoral adviser and a Leningrad University/LOMI alumnus; no current SPbSU or PDMI appointment is claimed.",
+      "historical": false
+    },
+    {
+      "id": "faddeev",
+      "name": "Ludwig Faddeev",
+      "nameRu": "Людвиг Дмитриевич Фаддеев",
+      "field": "physics",
+      "status": "Historical · PDMI director (1976–2000)",
+      "degree": "Doctor of Sciences (1963)",
+      "institutions": [
+        "PDMI",
+        "Leningrad University alumnus"
+      ],
+      "interests": "Quantum scattering, gauge field theory, integrable systems and quantum groups.",
+      "sources": [
+        {
+          "title": "Math-Net: Ludwig Faddeev",
+          "url": "https://www.mathnet.ru/eng/person9160"
+        },
+        {
+          "title": "Arefeva, Semenov-Tian-Shansky and Takhtajan: Faddeev obituary (EMS, 2017)",
+          "url": "https://ems.press/content/serial-article-files/9618?nt=1"
+        },
+        {
+          "title": "Interview with Ludwig Faddeev (EMS Newsletter, June 2007), pp. 31–37",
+          "url": "https://ems.press/content/serial-issue-files/13666?nt=1"
+        }
+      ],
+      "notes": "1934–2017. Historical head of the PDMI Laboratory of Mathematical Problems in Physics. PhD supervision by Olga Ladyzhenskaya is explicit in his own 2007 interview and the 2017 EMS obituary.",
+      "historical": true,
+      "stage": "historical"
+    },
+    {
+      "id": "ladyzhenskaya",
+      "name": "Olga Ladyzhenskaya",
+      "nameRu": "Ольга Александровна Ладыженская",
+      "field": "analysis",
+      "status": "Historical · Professor and laboratory head",
+      "degree": "Doctor of Sciences",
+      "institutions": [
+        "PDMI",
+        "Leningrad University"
+      ],
+      "interests": "Nonlinear partial differential equations, Navier–Stokes equations and mathematical hydrodynamics.",
+      "sources": [
+        {
+          "title": "St. Petersburg Mathematical Society: Olga Ladyzhenskaya",
+          "url": "https://mathsoc.pdmi.ras.ru/pantheon/ladyzhen/"
+        },
+        {
+          "title": "Math-Net: Olga Ladyzhenskaya",
+          "url": "https://www.mathnet.ru/eng/person8865"
+        }
+      ],
+      "notes": "1922–2004. Joined Leningrad University after her 1949 PhD and the Steklov Institute in 1954; headed its Laboratory of Mathematical Physics from 1962. Sources differ on the Doctor of Sciences year (1953/1954), so no year is asserted.",
+      "historical": true,
+      "stage": "historical"
+    }
+  ],
+  "links": [
+    {
+      "source": "makarov",
+      "target": "stanislav-smirnov",
+      "type": "doctoral",
+      "year": 1996,
+      "sources": [
+        {
+          "title": "MCS profile: Stanislav Smirnov",
+          "url": "https://math-cs.spbu.ru/people/smirnov-stanislav-konstantinovich/"
+        },
+        {
+          "title": "Stanislav Smirnov: own CV at Academia Europaea (2013)",
+          "url": "https://www.ae-info.org/ae/Member/Smirnov_Stanislav/CV"
+        }
+      ],
+      "notes": "Caltech PhD: Spectral analysis of Julia sets; MCS gives May 1996, CV period concludes June 1996. Both explicitly name Nikolai Makarov as adviser."
+    },
+    {
+      "source": "khavin",
+      "target": "stanislav-smirnov",
+      "type": "masters-research",
+      "year": 1992,
+      "sources": [
+        {
+          "title": "Stanislav Smirnov: own CV at Academia Europaea (2013)",
+          "url": "https://www.ae-info.org/ae/Member/Smirnov_Stanislav/CV"
+        }
+      ],
+      "notes": "BSc/MSc adviser at St. Petersburg State University, 1987–1992, explicitly listed in Smirnov’s own CV. This is pre-doctoral supervision, not a second PhD adviser.",
+      "label": "BSc/MSc thesis supervision (1992)"
+    },
+    {
+      "source": "ladyzhenskaya",
+      "target": "faddeev",
+      "type": "doctoral",
+      "year": null,
+      "sources": [
+        {
+          "title": "Interview with Ludwig Faddeev (EMS Newsletter, June 2007), pp. 31–37",
+          "url": "https://ems.press/content/serial-issue-files/13666?nt=1"
+        },
+        {
+          "title": "Arefeva, Semenov-Tian-Shansky and Takhtajan: Faddeev obituary (EMS, 2017)",
+          "url": "https://ems.press/content/serial-article-files/9618?nt=1"
+        }
+      ],
+      "notes": "Faddeev’s own interview says Ladyzhenskaya remained his scientific supervisor during his research-student work on quantum inverse scattering. The 2017 obituary explicitly identifies her as thesis adviser during his PhD studentship at LOMI."
+    },
+    {
+      "source": "faddeev",
+      "target": "semenov-tian-shansky",
+      "type": "mathematical-mentor",
+      "label": "Mathematical mentor (self-described)",
+      "year": null,
+      "sources": [
+        {
+          "title": "Semenov-Tian-Shansky: Scattering on Riemannian symmetric spaces and Huygens principle (author-uploaded text, 2018)",
+          "url": "https://www.researchgate.net/publication/330750863_Scattering_on_Riemannian_symmetric_spaces_and_Huygens_principle"
+        }
+      ],
+      "notes": "Optional mentorship edge only: Semenov-Tian-Shansky dedicates his own 2018 article to the memory of his teachers Faddeev and Pavlov. This establishes a self-described mathematical teacher; it does not by itself establish formal PhD or research supervision. Do not relabel as doctoral."
+    }
+  ],
+  "notes": [
+    "IDs khavin and semenov-tian-shansky refer to people supplied by the other research files.",
+    "The Faddeev–Semenov-Tian-Shansky edge is optional and deliberately narrower than a formal supervisory claim; omit if the UI only supports academic supervision.",
+    "No Faddeev–Derkachov relationship asserted: an exact doctoral relation was not established from inspected primary sources."
+  ]
+}

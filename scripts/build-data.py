@@ -3,10 +3,11 @@ import json
 import re
 from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
+RESEARCH = ROOT / 'research'
 FILES = ['research-algebra.json', 'research-analysis.json', 'research-discrete.json']
-FILES += [f.name for f in [ROOT / 'research-foundations.json', ROOT / 'research-junior.json'] if f.exists()]
-FILES += [f.name for f in sorted(ROOT.glob('research-expanded-*.json'))]
-FILES += [f.name for f in sorted(ROOT.glob('research-connections-*.json'))]
+FILES += [f.name for f in [RESEARCH / 'research-foundations.json', RESEARCH / 'research-junior.json'] if f.exists()]
+FILES += [f.name for f in sorted(RESEARCH.glob('research-expanded-*.json'))]
+FILES += [f.name for f in sorted(RESEARCH.glob('research-connections-*.json'))]
 NOTES = {
  'lubkov': 'The MCS profile names Nikolai Vavilov and Victor Petrov as co-supervisors. His personal page describes an associate professorship as of July 2026.',
  'voronetsky': 'Documented as Vavilov’s doctoral student in 2021; a later Russian Science Foundation record confirms his Candidate degree.',
@@ -45,7 +46,7 @@ def sources(items):
 # Later research files can correct a degree, affiliation, or enrollment record.
 raw_people, raw_links, updated = {}, [], set()
 for filename in FILES:
-    data = json.loads((ROOT / filename).read_text())
+    data = json.loads((RESEARCH / filename).read_text())
     for person in data.get('people', []):
         person = dict(person)
         if 'affiliations' not in person and 'institutions' in person:

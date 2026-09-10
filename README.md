@@ -21,8 +21,8 @@ The collection is curated, not exhaustive. Dated sources are retained, and histo
 - `styles.css`: responsive visual design.
 - `app.js`: explorer, directory, profile, and source interactions.
 - `data.js`: generated, source-linked people and relationships.
-- `research-*.json`: underlying research records used to assemble the collection.
-- `scripts/build-data.py`: normalizes the research records; run `python3 scripts/build-data.py` after editing them. Later `research-expanded-*.json` and `research-connections-*.json` entries update existing records by ID and merge their references. The builder checks missing endpoints, references and cycles. Only documented supervision links are drawn; people without any documented connection remain searchable individual nodes.
+- `research/`: auxiliary JSON research records used to assemble the collection.
+- `scripts/build-data.py`: reads the records in `research/` and generates `data.js` in the project root; run `python3 scripts/build-data.py` after editing them. Later `research/research-expanded-*.json` and `research/research-connections-*.json` entries update existing records by ID and merge their references. The builder checks missing endpoints, references and cycles. Only documented supervision links are drawn; people without any documented connection remain searchable individual nodes.
 
 The directory and result count include the people matching the filters. In the tree, their supervisors are retained for context even when outside the selected field, institution or career stage. A text search shows only matching people; “Explore this lineage” opens their whole connected family. Earlier degree supervision is never treated as evidence of the current doctoral advisor.
 
